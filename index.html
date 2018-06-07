@@ -3,16 +3,97 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
-        {{ post.excerpt }}
-      </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <h1>WTF Joe? Great question.</h1>
+        <ul>
+          <li><a href="#why">Why Whiskey Tango Foxtrot?</a></li>
+          <li><a href="#godaddy">What about GoDaddy?</a></li>
+          <li><a href="#wpengine">What about WP Engine?</a></li>
+          <li><a href="#wordpress">What about WordPress.com?</a></li>
+          <li><a href="#maximumeffort">Maximum Effort</a></li>
+        </ul>
+
+        <a name="why"></a><h2>Why Whiskey Tango Foxtrot?</h2>{% include bacon.html %}
+        <a name="godaddy"></a><h2>What about GoDaddy?</h2>{% include bacon.html %}
+        <a name="wpengine"></a><h2>What about WP Engine?</h2>{% include bacon.html %}
+        <a name="wordpress"></a><h2>What about WordPress.com?</h2>{% include bacon.html %}
+        <a name="maximumeffort"></a><h2>Maximum Effort</h2>{% include bacon.html %}
+
+        <h1>Comparison Table:</h1>
+        <table>
+          <thead>
+            <tr>
+              <th></th>
+              <th>Whiskey&nbsp;Tango Foxtrot</th>
+              <th>GoDaddy</th>
+              <th>WP&nbsp;Engine</th>
+              <th>WordPress.com</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Bacon ipsum dolor amet</th>
+              <td><i class="fas fa-check-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+            </tr>
+            <tr>
+              <th>Frankfurter ball tip pork loin</th>
+              <td><i class="fas fa-check-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+            </tr>
+            <tr>
+              <th>Jerky salami pancetta chuck</th>
+              <td><i class="fas fa-check-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+            </tr>
+            <tr>
+              <th>Beef pork prosciutto</th>
+              <td><i class="fas fa-check-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+              <td><i class="fas fa-times-circle"></i></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h1>Needs Assessment:</h1>
+        <ul>
+          <li><a href="#performance">You Need Dedicated Performance</a></li>
+          <li><a href="#security">You Need Monitored Security Updates</a></li>
+          <li><a href="#backups">You Need Daily, Monthly, and Yearly Backups</a></li>
+          <li><a href="#compliance">You Need Data Retention</a></li>
+          <li><a href="#revisions">You Need Unlimited Revisions</a></li>
+          <li><a href="#support">You Need Content Authoring Support</a></li>
+        </ul>
+
+        <a name="performance"></a><h2>You Need Dedicated Performance</h2>{% include bacon.html %}
+        <a name="security"></a><h2>You Need Monitored Security Updates</h2>{% include bacon.html %}
+        <a name="backups"></a><h2>You Need Daily, Monthly, and Yearly Backups</h2>{% include bacon.html %}
+        <a name="compliance"></a><h2>You Need Data Retention</h2>{% include bacon.html %}
+        <a name="revisions"></a><h2>You Need Unlimited Revisions</h2>{% include bacon.html %}
+        <a name="support"></a><h2>You Need Content Authoring Support</h2>{% include bacon.html %}
+
+        <h1>Pricing</h1>
+        <ul>
+          <li>$100/month</li>
+          <li>Cancel anytime</li>
+        </ul>
+
+        <h1>Contact</h1>
+        <ul>
+          <li>Joe Wilson</li>
+          <li>(208) 651-3125</li>
+          <li><a href="mailto:joe@joecode.com?subject=WordPress">joe@joecode.com</a></li>
+        </ul>
+
+      </div><!-- entry -->
     </article>
-  {% endfor %}
 </div>
