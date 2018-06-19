@@ -314,3 +314,16 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.card {
+  width: 33%;
+  height: 300px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid $lightGray;
+  float:left;
+}
+
+.card h3 {
+  text-align:center;
+}
