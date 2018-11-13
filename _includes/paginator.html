@@ -1,0 +1,21 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">
+      &larr; Newer
+    </a>
+  {% else %}
+    <span>&larr; Latest</span>
+  {% endif %}
+
+  <div style="float:right;">
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">
+        Older &rarr;
+      </a>
+    {% else %}
+      <span>Oldest &rarr;</span>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
