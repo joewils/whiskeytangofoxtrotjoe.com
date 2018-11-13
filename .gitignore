@@ -8,3 +8,11 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+_feeds/*.json
+_feeds/*.xml
+_feeds/*.html
+
+_html/*.html
+_html/*.json
+_html/*.xml

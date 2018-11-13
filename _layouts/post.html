@@ -3,14 +3,34 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.date | date: "%A %B %e, %Y" }} {{ page.title }}</h1>
+
+  {% assign day = page.date | date: "%e" | plus: 0 %}
+  {% if page.links and site.data.stock[day] %}
+  <div>
+    <img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"><br>
+    <span style="font-size: 12px;"><i><a href="{{ site.data.stock[day]['photographer'] }}" target="_new">{{ site.data.stock[day]['photographer'] }}</a></i></span>
+    <span style="font-size: 12px;float:right;"><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
+  </div>
+  {% endif %}
 
   <div class="entry">
     {{ content }}
-  </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    {% if page.links %}
+      <ol>
+      {% for source in page.links %}
+        <li>
+          {% if source.snark and source.snark != "" %}
+            <a href="{{ source.url }}" target="_new">{{ source.snark }}</a><br><span class="small wtf-t">{{source.source}}</span>
+          {% else %}
+            <a href="{{ source.url }}" target="_new">{{ source.title }}</a><br><span class="small wtf-t">{{source.source}}</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ol>
+    {% endif %}
+
   </div>
 
   {% include disqus.html %}

@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $darkGray;
-  font: 14px/1.4 $courier;
-  color: $lightGray;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
@@ -30,18 +30,10 @@ body {
   width: 100%;
 }
 
-.fa-check-circle {
-  color:green;
-}
-
-.fa-check {
-  color:green;
-}
-
 h1, h2, h3, h4, h5, h6 {
-  font-family: $courier;
-  color: $lightGray;
-  font-weight: normal;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -53,22 +45,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 14px;
+  font-size: 18px;
   color: $gray;
 }
 
@@ -77,23 +69,12 @@ p {
 }
 
 a {
-  color: $lightGray;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkerGray;
+    color: $blue;
   }
-}
-
-.entry a {
-  text-decoration: underline;
-  &:hover, &:active {
-    //background-color: $lightGray;
-  }
-}
-
-a.naked {
-  text-decoration: none;
 }
 
 ul, ol {
@@ -127,24 +108,6 @@ strong, b {
 
 img {
   max-width: 100%;
-}
-
-table {
-  border: 1px solid $darkerGray;
-}
-
-tr {
-  border: 1px solid $darkerGray;
-}
-th,td {
-  padding:5px;
-  border: 1px solid $darkerGray;
-}
-tbody th {
-  text-align:right;
-}
-tbody td {
-  text-align:center;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -202,8 +165,8 @@ tbody td {
 
 .site-avatar {
   float: left;
-  width: 57px;
-  height: 57px;
+  width: 70px;
+  height: 70px;
   margin-right: 15px;
 
   @include mobile {
@@ -229,9 +192,9 @@ tbody td {
 
 .site-name {
   margin: 0;
-  color: $lightGray;
+  color: $darkGray;
   cursor: pointer;
-  font-family: $courier;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -239,7 +202,7 @@ tbody td {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $lightGray;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -250,7 +213,7 @@ tbody td {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $courier;
+  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -280,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $darkGray;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -310,7 +273,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $darkGray;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
 }
 
 footer {
@@ -323,15 +288,23 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.card {
-  width: 33%;
-  height: 300px;
-  padding-left: 15px;
-  padding-right: 15px;
+table, th, td {
   border: 1px solid $lightGray;
-  float:left;
+}
+td {
+  padding:3px;
+}
+tr:nth-child(even) {
+    background-color: $lightGray;
 }
 
-.card h3 {
-  text-align:center;
+.small {
+  margin:0;
+  padding:0;
+  font-size: 12px;
+}
+
+.wtf-t {
+  position: relative;
+  top: -10px;
 }
