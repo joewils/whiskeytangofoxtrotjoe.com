@@ -51,6 +51,9 @@ grams.each do |source|
   posts.push(*news)
 end
 
+# Men's Fitness?
+# https://www.menshealth.com/fitness/
+
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',
