@@ -33,6 +33,10 @@
 #  slug: generation-iron
 #  url: http://generationiron.com
 #  feed: http://generationiron.com/feed/
+- title: elitefts
+  slug: elitefts
+  url: https://www.elitefts.com
+  feed: https://www.elitefts.com/feed
 - title: Fitness Volt
   slug: fitness-volt
   url: https://fitnessvolt.com

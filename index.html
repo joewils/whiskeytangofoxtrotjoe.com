@@ -21,8 +21,7 @@ layout: default
         {% if post.links and site.data.stock[day] %}
         <div>
           <img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"><br>
-          <span class="small"><i><a href="{{ site.data.stock[day]['photographer'] }}" target="_new">{{ site.data.stock[day]['photographer'] }}</a></i></span>
-          <span  class="small" style="float:right;"><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
+          <span class="small center" ><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
         </div>
         {% endif %}
 

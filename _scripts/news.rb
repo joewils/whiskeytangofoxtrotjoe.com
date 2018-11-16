@@ -54,6 +54,10 @@ end
 # Men's Fitness?
 # https://www.menshealth.com/fitness/
 
+# T-Nation?
+# https://www.t-nation.com/all-articles?order=published_at+desc
+
+
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',

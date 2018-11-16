@@ -1,72 +1,135 @@
-- title: 
-  source: 
-  slug: 
-  photographer: 
-- title: Working Out With Chalk
-  source: https://burst.shopify.com/photos/working-out-with-chalk
-  slug: working-out-with-chalk
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Strong Women Planking
-  source: https://burst.shopify.com/photos/strong-women-planking
-  slug: strong-women-planking
-  photographer: https://burst.shopify.com/@sarahpflugphoto
-- title: Fitness Man Chin Ups
-  source: https://burst.shopify.com/photos/fitness-man-chin-ups
-  slug: fitness-man-chin-ups
-  photographer: https://burst.shopify.com/@thenomadbrodie
-- title: Eagle Arms Yoga
-  source: https://burst.shopify.com/photos/eagle-arms-yoga
-  slug: eagle-arms-yoga
-  photographer: https://burst.shopify.com/@matthew_henry
-- title: Vrkasana Balance Yoga
-  source: https://burst.shopify.com/photos/vrkasana-balance-yoga
+---
+- source: https://burst.shopify.com/photos/extended-hand-to-toe-pose-yoga.jpg
+  slug: extended-hand-to-toe-pose-yoga
+- source: https://burst.shopify.com/photos/balasana-yoga.jpg
+  slug: balasana-yoga
+- source: https://burst.shopify.com/photos/hard-bike-workout.jpg
+  slug: hard-bike-workout
+- source: https://burst.shopify.com/photos/yoga-prayer-pose.jpg
+  slug: yoga-prayer-pose
+- source: https://burst.shopify.com/photos/one-arm-push-up.jpg
+  slug: one-arm-push-up
+- source: https://burst.shopify.com/photos/yoga-eagle-pose.jpg
+  slug: yoga-eagle-pose
+- source: https://burst.shopify.com/photos/vrkasana-balance-yoga.jpg
   slug: vrkasana-balance-yoga
-  photographer: https://burst.shopify.com/@matthew_henry
-- title: Man Running At The Track
-  source: https://burst.shopify.com/photos/man-running-at-the-track
+- source: https://burst.shopify.com/photos/yoga-backbend-wheel.jpg
+  slug: yoga-backbend-wheel
+- source: https://burst.shopify.com/photos/man-running-at-the-track.jpg
   slug: man-running-at-the-track
-  photographer: https://burst.shopify.com/@sarahpflugphoto
-- title: Kicking Workout 
-  source: https://burst.shopify.com/photos/kicking-workout
-  slug: kicking-workout
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Core Strength Fitness
-  source: https://burst.shopify.com/photos/core-strength-fitness
-  slug: core-strength-fitness
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Stretches Smiles 
-  source: https://burst.shopify.com/photos/stretches-smiles
-  slug: stretches-smiles
-  photographer: https://burst.shopify.com/@sarahpflugphoto
-- title: Headstand Inversion Woman 
-  source: https://burst.shopify.com/photos/headstand-inversion-woman
-  slug: headstand-inversion-woman
-  photographer: https://burst.shopify.com/@matthew_henry
-- title: Gym Weight Lifting
-  source: https://burst.shopify.com/photos/gym-weight-lifting
-  slug: gym-weight-lifting
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Running on a Cloudy Day
-  source: https://burst.shopify.com/photos/running-on-a-cloudy-day
-  slug: running-cloudy-day
-  photographer: https://burst.shopify.com/@matthew_henry
-- title: Arm Back Muscles 
-  source: https://burst.shopify.com/photos/arm-back-muscles
-  slug: arm-back-muscles
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Spinal Twist Yoga Wheel
-  source: https://burst.shopify.com/photos/spinal-twist-yoga-wheel
+- source: https://burst.shopify.com/photos/athlete-stretches.jpg
+  slug: athlete-stretches
+- source: https://burst.shopify.com/photos/runner-stretching-arms-in-sun.jpg
+  slug: runner-stretching-arms-in-sun
+- source: https://burst.shopify.com/photos/woman-doing-childs-pose.jpg
+  slug: woman-doing-childs-pose
+- source: https://burst.shopify.com/photos/spinal-twist-yoga-wheel.jpg
   slug: spinal-twist-yoga-wheel
-  photographer: https://burst.shopify.com/@matthew_henry
-- title: Woman Jumping Workout
-  source: https://burst.shopify.com/photos/woman-jumping-workout
-  slug: woman-jumping-workout
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Heavy Lifting Man 
-  source: https://burst.shopify.com/photos/heavy-lifting-man
+- source: https://burst.shopify.com/photos/woman-prepares-for-workout.jpg
+  slug: woman-prepares-for-workout
+- source: https://burst.shopify.com/photos/woman-working-out.jpg
+  slug: woman-working-out
+- source: https://burst.shopify.com/photos/man-working-out.jpg
+  slug: man-working-out
+- source: https://burst.shopify.com/photos/boxing-gym-workout.jpg
+  slug: boxing-gym-workout
+- source: https://burst.shopify.com/photos/high-lunge-yoga.jpg
+  slug: high-lunge-yoga
+- source: https://burst.shopify.com/photos/punching-workout.jpg
+  slug: punching-workout
+- source: https://burst.shopify.com/photos/shoelace-pose-forward-fold.jpg
+  slug: shoelace-pose-forward-fold
+- source: https://burst.shopify.com/photos/stretching-woman-hands-feet.jpg
+  slug: stretching-woman-hands-feet
+- source: https://burst.shopify.com/photos/running-cloudy-day.jpg
+  slug: running-cloudy-day
+- source: https://burst.shopify.com/photos/restorative-yoga.jpg
+  slug: restorative-yoga
+- source: https://burst.shopify.com/photos/exercise-stretching.jpg
+  slug: exercise-stretching
+- source: https://burst.shopify.com/photos/strong-women-planking.jpg
+  slug: strong-women-planking
+- source: https://burst.shopify.com/photos/headstand-inversion-woman.jpg
+  slug: headstand-inversion-woman
+- source: https://burst.shopify.com/photos/proud-pigeon-pose.jpg
+  slug: proud-pigeon-pose
+- source: https://burst.shopify.com/photos/fitness-balancing.jpg
+  slug: fitness-balancing
+- source: https://burst.shopify.com/photos/pre-jog-stretch.jpg
+  slug: pre-jog-stretch
+- source: https://burst.shopify.com/photos/downward-facing-dog-pose.jpg
+  slug: downward-facing-dog-pose
+- source: https://burst.shopify.com/photos/gym-weight-lifting.jpg
+  slug: gym-weight-lifting
+- source: https://burst.shopify.com/photos/stationary-bike-workout.jpg
+  slug: stationary-bike-workout
+- source: https://burst.shopify.com/photos/woman-doing-yoga.jpg
+  slug: woman-doing-yoga
+- source: https://burst.shopify.com/photos/working-out-with-chalk.jpg
+  slug: working-out-with-chalk
+- source: https://burst.shopify.com/photos/arm-back-muscles.jpg
+  slug: arm-back-muscles
+- source: https://burst.shopify.com/photos/childs-pose.jpg
+  slug: childs-pose
+- source: https://burst.shopify.com/photos/fitness-man-chin-ups.jpg
+  slug: fitness-man-chin-ups
+- source: https://burst.shopify.com/photos/cross-fit-rope-workout.jpg
+  slug: cross-fit-rope-workout
+- source: https://burst.shopify.com/photos/core-strength-fitness.jpg
+  slug: core-strength-fitness
+- source: https://burst.shopify.com/photos/cross-fit-tire-lift.jpg
+  slug: cross-fit-tire-lift
+- source: https://burst.shopify.com/photos/heavy-lifting-man.jpg
   slug: heavy-lifting-man
-  photographer: https://burst.shopify.com/@ndekhors
-- title: Woman Lifts Free Weights
-  source: https://burst.shopify.com/photos/woman-lifts-free-weights
+- source: https://burst.shopify.com/photos/yoga-crescent-lunge.jpg
+  slug: yoga-crescent-lunge
+- source: https://burst.shopify.com/photos/wide-legged-forward-fold.jpg
+  slug: wide-legged-forward-fold
+- source: https://burst.shopify.com/photos/core-strength-workout.jpg
+  slug: core-strength-workout
+- source: https://burst.shopify.com/photos/yoga-stretch.jpg
+  slug: yoga-stretch
+- source: https://burst.shopify.com/photos/weighted-squat-exercise.jpg
+  slug: weighted-squat-exercise
+- source: https://burst.shopify.com/photos/woman-jogging.jpg
+  slug: woman-jogging
+- source: https://burst.shopify.com/photos/kicking-workout.jpg
+  slug: kicking-workout
+- source: https://burst.shopify.com/photos/exercise-free-weights.jpg
+  slug: exercise-free-weights
+- source: https://burst.shopify.com/photos/abs-workout-tire.jpg
+  slug: abs-workout-tire
+- source: https://burst.shopify.com/photos/woman-jumping-workout.jpg
+  slug: woman-jumping-workout
+- source: https://burst.shopify.com/photos/eagle-arms-yoga.jpg
+  slug: eagle-arms-yoga
+- source: https://burst.shopify.com/photos/man-lifts-tire-exercise.jpg
+  slug: man-lifts-tire-exercise
+- source: https://burst.shopify.com/photos/jumping-high-for-fitness.jpg
+  slug: jumping-high-for-fitness
+- source: https://burst.shopify.com/photos/woman-boxing.jpg
+  slug: woman-boxing
+- source: https://burst.shopify.com/photos/pigeon-pose.jpg
+  slug: pigeon-pose
+- source: https://burst.shopify.com/photos/crescent-moon-pose-side-stretch.jpg
+  slug: crescent-moon-pose-side-stretch
+- source: https://burst.shopify.com/photos/man-lifting-weights.jpg
+  slug: man-lifting-weights
+- source: https://burst.shopify.com/photos/woman-lifts-free-weights.jpg
   slug: woman-lifts-free-weights
-  photographer:  https://burst.shopify.com/@ndekhors
+- source: https://burst.shopify.com/photos/stretching-at-workout.jpg
+  slug: stretching-at-workout
+- source: https://burst.shopify.com/photos/mermaid-pose-hip-opener.jpg
+  slug: mermaid-pose-hip-opener
+- source: https://burst.shopify.com/photos/yoga-anjali-mudra.jpg
+  slug: yoga-anjali-mudra
+- source: https://burst.shopify.com/photos/young-woman-meditating.jpg
+  slug: young-woman-meditating
+- source: https://burst.shopify.com/photos/cross-fit-ropes.jpg
+  slug: cross-fit-ropes
+- source: https://burst.shopify.com/photos/athlete-tying-running-shoes.jpg
+  slug: athlete-tying-running-shoes
+- source: https://burst.shopify.com/photos/upward-dog-pose.jpg
+  slug: upward-dog-pose
+- source: https://burst.shopify.com/photos/stretches-smiles.jpg
+  slug: stretches-smiles
