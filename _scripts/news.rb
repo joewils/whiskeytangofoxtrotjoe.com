@@ -46,7 +46,6 @@ grams = YAML.load_file('./_data/grams.yml')
 
 # Process IG
 grams.each do |source|
-  puts source
   news = get_grams(source['ig'],as_of_date)
   posts.push(*news)
 end

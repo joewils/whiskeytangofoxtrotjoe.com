@@ -41,6 +41,10 @@
   slug: fitness-volt
   url: https://fitnessvolt.com
   feed: https://fitnessvolt.com/feed/
+- title: Gameplan A
+  slug: gameplan-a
+  url: https://www.gameplan-a.com
+  feed: https://www.gameplan-a.com/feed/
 - title: Goop
   slug: goop
   url: https://goop.com/wellness/fitness/
@@ -67,6 +71,10 @@
   url: https://www.maxim.com
   feed: https://www.maxim.com/.rss/full/
   category: "Men's Fitness"
+- title: Morning Chalk Up
+  slug: morning-chalk-up
+  url: https://morningchalkup.com
+  feed: https://morningchalkup.com/feed/
 - title: NFPT
   slug: nfpt
   url: https://www.nfpt.com/blog/
@@ -74,6 +82,10 @@
   slug: npr
   url: https://www.npr.org/sections/fitness-nutrition/
   feed: https://www.npr.org/rss/rss.php?id=1134
+- title: Outside Magazine
+  slug: outside
+  url: https://www.outsideonline.com
+  feed: https://www.outsideonline.com/rss/fitness/rss.xml
 - title: Pop Sugar
   slug: pop-sugar
   url: https://www.popsugar.com/fitness/

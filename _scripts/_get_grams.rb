@@ -1,5 +1,5 @@
 def get_grams(ig_user,as_of_date)
-  puts "https://www.instagram.com/"
+  puts "https://www.instagram.com/"+ig_user
   # User Agents
   agents = [
     'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36',
@@ -24,8 +24,6 @@ def get_grams(ig_user,as_of_date)
       File.open(filename, 'w+') do |file|
         file.puts html
       end
-    else
-      puts "----------\nWTF: " + url + "\n----------"
     end
   end
 
@@ -57,8 +55,7 @@ def get_grams(ig_user,as_of_date)
               # Build random length title from caption
               caption = potatoe['node']['edge_media_to_caption']['edges'][0]['node']['text']
               caption.gsub!("\n",' ')
-              max = rand(120..142)
-              title = (caption[0, max]).strip + "..."
+              title = (caption[0, 100]).strip + "..."
               # Build date from epoch timestamp
               timestamp = potatoe['node']['taken_at_timestamp']
               post_date = Time.at(timestamp).to_datetime.to_s.split('T')[0]
@@ -73,6 +70,7 @@ def get_grams(ig_user,as_of_date)
               }
               if as_of_date == nil or as_of_date == post_date
                 posts.push(post)
+                puts "\t" + post['title']
               end
             end # media_timeline.each
           end # pieces

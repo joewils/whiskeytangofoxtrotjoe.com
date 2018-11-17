@@ -48,6 +48,7 @@ def get_news(feed_url,source,process_date=nil,source_category=nil)
         url = item.css('link').first.content
         # Skip posts missing a title
         next if title and title == ''
+        title.gsub!("\n",' ')
         post = {
           'snark' => '',
           'title' => title.strip,
@@ -56,6 +57,7 @@ def get_news(feed_url,source,process_date=nil,source_category=nil)
           'source' => source
         }
         if process_date == nil or process_date == post_date
+          puts "\t" + title
           posts.push(post)
         end
       end

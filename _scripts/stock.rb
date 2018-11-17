@@ -21,7 +21,7 @@ def get_burst(page=1)
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A',
     'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1'
   ]
-  # Get IG HTML
+  # Get HTML
   todays_date = Date.today.to_s
   filename = '_html/burst-'+page.to_s+'.html'
   if !File.exist? filename
