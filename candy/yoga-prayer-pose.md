@@ -21,7 +21,6 @@ labels:
 - hip
 pages:
 - https://www.maxpixel.net/Stretching-Fitness-Girl-Women-3013001
-- https://www.soulsync.live/home/
 - https://www.pexels.com/photo/woman-wearing-black-fitness-outfit-performs-yoga-near-body-of-water-802417/
 - https://www.pinterest.com/pin/694680311245274884/
 - https://www.pexels.com/photo/fitness-girl-person-relaxation-374633/
@@ -33,7 +32,6 @@ pages:
 - https://influencedigest.com/fitness/top-20-online-fitness-coaches-workout-trainers/
 - https://www.pexels.com/photo/woman-in-black-sports-bra-with-grey-leggings-carrying-yoga-mat-834893/
 - https://www.brilliancewellness.com/
-- https://www.wellmeasured.co.uk/
 - https://www.alleyesonavalon.com/youtube-fitness/
 - https://www.lightonyogafitness.com/
 - https://www.helpmefindlove.net/workout-tanks-to-crush-your-goals/
@@ -51,7 +49,6 @@ pages:
 - https://influencedigest.com/fitness/how-to-surpass-plateaus-in-bodybuilding-fitness/
 - https://mindbeautyhk.com/perfect-yoga-asanas-to-kick-start-your-morning-by-nutrisa/
 - https://sowingseedstx.com/home/2018/1/31-review-b-well-health-fitness-boerne-tx
-- https://www.abouttimemagazine.co.uk/style/about-time-you-discovered-fulfils-festival-of-fitness-at-boxpark-shoreditch/
 - https://www.lightonyogafitness.com/fullscreen-page/comp-jjnbh3f3/0cdc2a03-8871-11e8-a9ff-063f49e9a7e4/7/%3Fi%3D7%26p%3Dc1dmp%26s%3Dstyle-jbw6ykcj
 - https://www.wynnfitness.com/classes/power-yoga/yoga-prayer-pose_4460x4460/
 - https://www.kisscc0.com/photo/buster-mathis-boxing-training-woman-women-s-boxing-57xbfy/
@@ -75,8 +72,6 @@ pages:
 - https://www.popsugar.com/fitness/photo-gallery/44360901/image/44361056/Add-self-care-running
 - https://www.bikiniluxe.com/blogs/fitness-blog/tagged/fitness?page=3
 - https://www.bikiniluxe.com/blogs/fitness-blog/tagged/workout
-- http://hdwallpapercom.site/fit-girl-wallpaper-hd/4148/
-- https://www.midtownplaza.ca/posts/head-to-toe-activewear-essentials
 - https://www.wheretraveler.com/new-york-city/shape-nyc
 - https://www.popsugar.com.au/fitness/photo-gallery/44479070/image/44479067/Add-self-care-running
 - https://www.maxpixel.net/Meditation-Physical-People-Woman-Yoga-Girl-2557536
@@ -85,18 +80,12 @@ pages:
 - http://www.robinsyndercombefitness.com/posture-correction-part-1/
 - https://www.bustle.com/p/11-genius-little-ways-to-make-quitting-smoking-easier-according-to-experts-2334776
 - https://chasethewritedream.com/at-home-workouts-women/
-- https://www.refinefitness.co.uk/
 - https://www.pinterest.com/pin/720927852822250324/
 - https://ca.linkedin.com/in/scott-miller-42a38898
-- https://proactivephysicaltherapy.health/the-unexpected-benefits-of-stretching/
-- https://www.popsugar.co.uk/fitness/Life-Lessons-From-Yoga-Teacher-Training-44604636
 - https://www.luluyanez.com/fitness
-- https://proactivephysicaltherapy.health/health-blog/page/2/
-- https://proactivephysicaltherapy.health/the-unexpected-benefits-of-stretching/people-2557536_1920/
 - https://worcpt.com/the-unexpected-benefits-of-stretching/
 - http://www.yogaweeks.com/category/rooftop-yoga/
 - http://www.missibalisonfitness.com/mobility-exercises/people-2557536_1920/
-- https://www.refinefitness.co.uk/online-training
 - https://www.goodfreephotos.com/people/girl-making-symbol-hands-behind-back.jpg.php
 - https://www.helpmefindlove.net/category/lifestyle/mindfulness/
 - https://springfieldpt.com/the-unexpected-benefits-of-stretching
@@ -106,13 +95,9 @@ pages:
 - http://livefluid.com/2017/10/15/on-mobility/
 - http://www.yogaweeks.com/category/yoga-weeks/
 - https://www.wetravel.com/stories/15-ways-stay-healthy-next-vacation/
-- https://www.refinefitness.co.uk/events-2/were-2-years-old
 - https://www.villeau.com/im-not-looking-for-a-body/
 - https://twitter.com/basheerah_ahmad?lang=en
 - https://www.aurawellnesscoach.com/
-- https://www.refinefitness.co.uk/corporate
-- https://imagefinder.co/photo/girl-making-symbol-with-hands-behind-back/
-- https://www.cravensportservices.ca/health-wellness/health-blog/
 - https://thebodylabjc.com/the-unexpected-benefits-of-stretching/
 - https://thevalkyriesolution.com/power
 - https://athletixrehab.com/your-comprehensive-guide-to-different-types-of-stretching-and-their-benefits/

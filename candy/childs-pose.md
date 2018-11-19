@@ -16,6 +16,4 @@ labels:
 pages:
 - http://cristinacose.com/?page_id=26
 - https://www.taniadetomas.com/corsi-e-eventi/sedute-individuali
-- https://www.bauchzeit.ch/familie-sein/bewegte-rueckbildung-nach-pilates
-- https://www.bauchzeit.ch/kurse/kurse-zofingen/bewegte-rueckbildung-nach-pilates
 ---

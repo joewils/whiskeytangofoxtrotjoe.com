@@ -25,9 +25,7 @@ pages:
 - http://homegymcorner.com/
 - https://www.darronsbeautyshop.com/workout-routines.html
 - https://themanhut.com/news/lose-weight/
-- http://cea.redphantom.info/first/can-heavy-exercise-cause-high-blood-pressure.pl
 - https://www-darronsbeautyshop-com.proxy.sbiapps.sitesell.com/workout-routines.html
-- http://clearpictats.pw/Soloflex-WBV-Whole-Body-Vibration-Exercise-Platform-Exercises.html
 - https://www.mcsweeneys.net/articles/an-open-letter-to-the-fastest-jogger-at-the-park
 - https://www.sporterapro.com/
 - http://homegymcorner.com/category/blog/
@@ -39,7 +37,6 @@ pages:
 - http://technologyandsociety.org/iot-national-security-issues/legs-running-on-track_925x/
 - https://tshirt.labzada.com/advantages-of-doing-cardio-exercises/
 - https://www.popsugar.com/fitness/photo-gallery/44999117/image/44999638/Week-5
-- https://www.newmedltd.co.uk/pages/how-to-get-the-maximum-benefits-with-pemf
 - https://twitter.com/thehealthgods
 - http://homegymcorner.com/benefits-of-cardio-in-the-morning/
 - https://soloflex.com/pages/testimonials-1
@@ -89,10 +86,8 @@ pages:
 - https://www.facebook.com/pages/category/Website/Adorfic-291500014983123/
 - https://discovercbd.com/blogs/cbd-news/cbd-and-sports-injuries
 - https://www.gopureathlete.com/collections/sleeves/wrist-support
-- https://nestasia.in/blogs/news/top-10-gift-ideas-for-dad-on-fathers-day
 - https://www.gopureathlete.com/collections/sleeves/thigh-support
 - https://getballista.com/
-- https://bellybuster.co/
 - https://aminoapps.com/c/the-flash/page/blog/fso-round-5-the-origins-of-frost/mj6v_1hkux0EMj64Pzm52ooNGxB5Y3j2
 - https://www.facebook.com/291500014983123/photos/291500184983106/
 - https://tooforcy.com/
@@ -101,7 +96,6 @@ pages:
 - https://fyther.com/
 - https://successoveritall.com/
 - https://firstechostore.com/
-- https://www.nalawsolicitors.co.uk/case-study-successful-tier-1-entrepreneur-accelerated-settlement-application/
 - https://raizeathletics.com/collections/mens-apparel
 - https://www.smavolve.com/collections
 - https://aminoapps.com/c/the-flash/page/blog/shout-out/NBxo_VhMua1a0wvRRYE2l2YwDpxeJkZkd

@@ -15,13 +15,9 @@ labels:
 pages:
 - https://stretchitapp.com/blog/stretchit-method
 - https://medium.com/@livewaku/yoga-benefits-77e495d14fdc
-- https://retreat.guru/be/yoga-teacher-training?type=center&page=11
 - https://myexoticdream.net/en/what-yoga-is-my-life-before-and-after/
-- https://retreat.guru/events/30161/vinyasa-yoga-teacher-training-in-india
 - https://www.yogamoo.com/yoga-straddle-split-preparation-poses/
 - http://yogaandtheartofliving.com/yoga-classes/
-- https://retreat.guru/be/yoga-class?type=center&page=5
-- https://retreat.guru/centers/6491/drishti-yoga-school
 - https://vivaglammagazine.com/try-naked-yoga/
 - https://vivaglammagazine.com/category/wellness/yoga/
 - http://vivaglammagazine.com/tag/yoga-2/
@@ -60,7 +56,6 @@ pages:
 - https://www.kisscc0.com/photo/hot-yoga-yogi-kundalini-yoga-health-cr6384/
 - https://www.lynxyoga.com/yoga/benefits-and-importance-of-ashtanga-namaskar-part-1/
 - https://www.lynxyoga.com/page/3/
-- http://www.modernfilipina.ph/health/exercise-activities/finding-inner-peace-amid-a-busy-city
 - http://meditationtalks.com/category/trainings/healing/page/2/
 - https://livingfullyalive.org/gracee-freedom-wholenesstag/meditation/
 - http://www.picsnaper.com/p/Yoga-to-Prevent-and-Treat-Cancer-The-Akasha-Center-for-Integrative-Medicine-The-Akasha-Center-...
@@ -79,16 +74,11 @@ pages:
 - http://stretchoutstudios.com/liforme-yoga-mat/liforme-yoga-mat-elegant-liforme-evolve-mat-props-yoga-pinterest-liforme-yoga-mat/
 - https://massgainsvalley.com/blogs/news
 - https://fun2befit.org/category/fitness/
-- http://javsemgix.pw/Yoga-splits-stretches-Stretches-t-Splits-stretches-Yoga.html
 - https://livingfullyalive.org/page/2/
 - http://akashacenter.com/patient-services/blog/page/5/
-- http://picurams.pw/Ever-wonder-how-to-stick-with-your-home-yoga-practice-and-make-it.html
 - https://amharaathletics.com/
 - https://www.triplepeakpaleo.com/30-ways-type-a-to-de-stress/
-- http://xelimages.pw/Image-result-for-itb-muscle-pain-yoga-Get-fit-t-Muscle-pain.html
 - https://www.calmandchic.com/home/2017/5/18/eat-pretty-cleansing-with-cabala-juice
-- http://www.homedesign3d.co/it-of-a-stretch.html
-- https://stocksnap.io/photo/D0IN1NR473
 - https://www.calmandchic.com/home/2017/9/12/exercise-equilibrium-3-ways-to-align-your-fitness-routine-to-your-personality
 - https://peachwear.com.au/
 - https://innatemoves.com/home-gymnastics-workout/

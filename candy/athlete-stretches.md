@@ -38,7 +38,6 @@ pages:
 - https://www.xlr8health.com.au/blogs/weightlossarticles/10-signs-and-symptoms-that-you-re-in-ketosis
 - https://www.getoffyouracid.com/products/daily-minerals-30-serving-canister
 - https://www.tap4fitness.com/
-- https://wildadventures.life/
 - https://www.xlr8health.com.au/blogs/weightlossarticles
 - https://www.bargainsvilleshop.com/
 - https://www.feedspot.com/?followfeedid=4486723
@@ -48,9 +47,7 @@ pages:
 - https://thevobeds.com/
 - http://www.pvfit.com/
 - https://www.wingspan-wellness.com/
-- https://trendia.in/blogs/news/strengthen-your-arms-with-this-hot-item
 - https://aimexaustralia.com.au/blogs/posts
-- http://blowpicxs.pw/About-Body-Kindness-Soul-Food-t-Bodies-Positive.html
 - https://riseshed.com/blogs/stories-from-the-shed
 - https://www.bctiglobal.com/pages/beauty
 - https://www.bctiglobal.com/pages/human-design
@@ -79,8 +76,5 @@ pages:
 - https://nofearfemale.com/
 - https://www.alexinfoandsolution.com/2018/08/5-important-tips-for-bodybuilding-or.html
 - https://www.bctiglobal.com/pages/contact-us
-- https://marathonec.ru/40_minute_warming_up/
 - https://sector-vinagre.com/blanco-beneficios-propiedades/
-- http://sogdia.blockablock.info/if-you-have-time-today.shtml
-- http://galla.seelenfluegel.info/cat/if-you-have-time-today.html
 ---

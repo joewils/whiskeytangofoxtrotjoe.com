@@ -42,7 +42,6 @@ pages:
 - https://fun2befit.org/2017/03/01/how-much-protein-do-you-really-need/
 - https://gymrackapparel.com/
 - https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR2M0TW1NM0VnSmxiaWdBUAE
-- http://www.grandslamfitness.co.in/products/gym-workout-for-beginners/
 - https://www.facebook.com/Infitnitude/posts/?ref=page_internal
 - https://www.reacthink.com/the-best-home-gym-equipment-guide-2018-essentials-for-the-workout-at-home-beginner/
 - https://vorstcanada.com/
@@ -62,11 +61,9 @@ pages:
 - https://www.neamfit.com/
 - https://culturemass.com/life-unfiltered/
 - https://vorstcanada.com/blogs/news/beauty-fitness
-- http://www.grandslamfitness.co.in/products/gym-setup-tips/
 - https://naofitgang.com/pages/about-nao-fit-gang
 - https://naofitgang.com/pages/store-policies
 - https://fun2befit.org/2017/08/31/when-weight-doesnt-matter/
-- https://ripped.me/exercising-can-harm-good/
 - https://procheerlife.mykajabi.com/blog/are-you-meant-for-the-pro-cheer-life-8-questions-to-ask-yourself
 - https://fun2befit.org/tag/weights/
 - https://kish-power-fitness.myshopify.com/collections/frontpage
@@ -77,14 +74,11 @@ pages:
 - https://opusls.com/collections/womens
 - https://nicestuffzone.com/
 - https://www.rayinsonfitness.com/collections/women
-- http://millennialadulting.life/2017/11/13/real-reasons-millennials-exercise/
-- https://gymclinic.co.za/
 - https://maximusathletics.com/
 - https://weightslife.com/
 - https://lady-bijou.com/
 - https://www.growmaxfit.com/collections/gym-gear?page=2
 - https://fight-diva.com/
-- http://dynamicrehab.ca/services/
 - https://hoo2.com.au/collections/fitness-wellbeing/gifts-for-men-shoes-for-men-sleeping-bag-mens-suits-jackets-for-men-mens-boots-puffer-jacket-travel-bag-waterproof-sandal-jackets-for-women-raincoat-man-bag-kids-suitcase-mens-sandals-camping-tents-waterproof-sandal-shoes-down-jacket-womens-sandals-travel
 - https://naofitgang.com/blogs/the-flat-tummy-challenge/5-health-and-wealth-tips
 - https://fueledbyfaithathletics.com/collections/shorts-1
@@ -112,7 +106,6 @@ pages:
 - https://glowfitgirls.com/
 - https://thecrossfitterng.com/classes/
 - https://hoo2.com.au/
-- https://wearevlg.shop/collections/womens
 - https://flipboard.com/@1lovepoco2/exercises-np4l83smz
 - https://flipboard.com/@fitand40ish/bikini-body-prep-cgjgki5bz
 - https://recoveryathletics.com/
@@ -123,5 +116,4 @@ pages:
 - https://kuwait.desertcart.com/brands/snake%20brand
 - https://bahrain.desertcart.com/brands/snake%20brand
 - http://startupnewsdigest.com/15-exercises-that-will-help-you-carve-out-sexy-curves/
-- https://www.desertcart.ae/brands/snake%20brand
 ---

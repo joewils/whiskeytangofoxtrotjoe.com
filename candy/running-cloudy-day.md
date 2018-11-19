@@ -17,7 +17,6 @@ labels:
 pages:
 - https://www.gearweare.com/review/best-winter-running-jackets/
 - https://pixabay.com/en/cold-weather-winter-hoodie-jacket-2557512/
-- https://stocksnap.io/photo/62E3B4C34S
 - https://www.maxpixel.net/Beanie-Jacket-Exercise-Hoodie-Cold-Weather-Winter-2557512
 - https://pixabay.com/en/photos/winter/?cat=health
 - https://www.everypixel.com/image-14038616325177754655
@@ -32,20 +31,16 @@ pages:
 - http://thoselondonchicks.com/benefits-training-outdoors-winter-months-5-tips-tricks/
 - https://pixabay.com/en/photos/hoody/
 - https://diyactive.com/active-winter-gear-keep-you-protected/
-- https://photos.sh/images/cold
 - https://www.kisscc0.com/photo/winter-weather-exercise-physical-fitness-night-hea-l8wsg1/
 - https://www.hercampus.com/author/elizabeth-tompkins
 - https://fitformulawellness.com/blog/page/3/
 - https://fitformulawellness.com/category/exercise/
-- http://multisport.ph/2018/08/really-need-know-running-first-overseas-marathon/
 - https://twitter.com/wellnaturalltd?lang=en
 - https://www.kisscc0.com/photo/winter-blowing-snow-woman-northern-hemisphere-beau-ikio4l/
-- https://photos.sh/images/coldly
 - https://happyfunfit.com/how-to-keep-exercising-during-these-cold-winter-months/
 - https://www.kisscc0.com/photo/winter-storm-hoodie-snow-blog-mountains-gtqyok/
 - https://thewellnessflirt.com/how-to-keep-warm-in-winter-without-heating/
 - http://www.twipu.com/WellNaturalLtd
-- https://photos.sh/images/weather
 - https://www.kisscc0.com/photo/umbrella-rain-couple-child-weather-life-f6c0tw/
 - https://www.98fit.com/blog/wp-content/uploads/2017/12/
 - http://www.picsnaper.com/p/Activewear-to-get-you-through-your-winter-fitness-funk
@@ -65,7 +60,6 @@ pages:
 - https://www.popsugar.com/fitness/Best-Hip-Stretches-43473842
 - https://www.sportique.com/blogs/the-logbook/ceramic-beer-growlers
 - http://5kruntraining.com/category/5k-training/
-- http://www.mybod.co.nz/2018/06/16/exercise-youre-sick/winter-exercise/
 - https://www.sportique.com/blogs/the-logbook/the-10-best-commuter-backpacks
 - https://foundr.com/how-to-become-a-millionaire-infographic/
 - https://www.sportique.com/blogs/the-logbook/brand-spotlight-filson-quality-fabrics-made-in-america
@@ -75,7 +69,6 @@ pages:
 - https://cambridgemask.com/blog/author/james-lester/
 - https://cambridgemask.com/blog/healthy-lung-month/
 - https://www.weforum.org/agenda/2018/10/these-ways-of-exercising-can-boost-your-mental-health/
-- https://cleanapp.io/2018/07/04/your-first-cleanapp-plog-in-2021/
 - https://cambridgemask.com/blog/tag/lung-month/
 - http://wrhel.com/shop/shopping/ben-davis-beanie-knit-hat/
 - https://runnerclick.com/femur-bone-slipped-capital-femoral-epiphysis-scfe/
@@ -93,10 +86,8 @@ pages:
 - https://www.popsugar.com/author/Amy-Williams
 - http://shopforclipart.com/clipart/weather-images-for-kids-23.htm
 - https://firedrillpodcast.com/fire040/
-- https://newterritory.fitness/about/
 - https://www.upgradedwoman.com/bulletproof-coach-lane-kennedy-blog/
 - https://www.healersathome.com/blog/7-yoga-tips-to-beat-the-winters-and-stay-fit-and-healthy/
-- http://kwhs.encuentrosregionales.co/running-essay.html
 - https://www.wildfrontiers.com/category/victoria-falls-marathon/
 - https://firedrillpodcast.com/fire040/whitney-hansen-fire-drill-podcast/
 - https://www.af-chiropractic.com/tag/nervous-system/

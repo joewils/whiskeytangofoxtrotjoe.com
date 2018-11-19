@@ -17,10 +17,9 @@ ignore = [
   '.xml',
   'burst.shopify.com',
   'aliexpress.com',
-  'chinese-phone.com'
+  'chinese-phone.com',
+  'facebook'
 ]
-
-puts ignore.any? {|word| 'https://freerangestock.com/gallery.php?gid=62&page_num=23&orderby=code'.include? word}
 
 photos.each_with_index do |photo,idx|
   puts photo['slug']
@@ -36,16 +35,16 @@ photos.each_with_index do |photo,idx|
   # Scrub the Related Pages
   photo['pages'].each do |page|
     bad = ignore.any? {|word| page.include? word}
+    bad = true unless page.include? '.com' or page.include? '.net' or page.include? '.org'
     front_matter['pages'].push(page) if bad == false
   end
-  puts front_matter.to_yaml
   # Build a Jekyll page, but only if one doesn't exist.
   # We don't want to override any hand crafted content.
   filename = 'candy/'+photo['slug']+'.md'
-  if !File.exist? filename
+  #if !File.exist? filename
     File.open(filename, 'w+') do |file|
       file.puts front_matter.to_yaml
       file.puts "---"
     end
-  end
+  #end
 end

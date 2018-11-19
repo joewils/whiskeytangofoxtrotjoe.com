@@ -12,9 +12,6 @@ labels:
 - fitness professional
 - joint
 pages:
-- https://themotionroom.ca/tag/the-motion-room/page/11/
-- https://themotionroom.ca/tag/fitness/page/5/
-- https://themotionroom.ca/tag/bootcamp/page/3/
 - https://www.sneakymakeup.com/how-to-get-rid-of-thigh-fat-super-fast-ways/
 - https://www.gearfuel.com/
 - https://sweatcentral.com.au/
@@ -26,7 +23,6 @@ pages:
 - https://alldayzfitness.com/products/good-quality-basket-ball
 - https://alpha1-fitness.com/
 - https://sweatcentral.com.au/pages/delivery
-- https://myfathersson.shop/
 - https://sweatcentral.com.au/collections/treadmills
 - https://www.differentbreedbrand.com/
 - http://powerbodybuildingcartel.com/
@@ -46,9 +42,7 @@ pages:
 - https://wallpaper.labzada.com/how-to-get-fat-super-fast/
 - https://www.scamadviser.com/is-idearlife.com-safe.html
 - https://www.scamadviser.com/is-idearlife.com-a-fake-site.html
-- http://rus.ninja80.info/rus/how-to-get-fat-super-fast.shtml
 - https://www.scamadviser.com/check-website/idearlife.com
-- https://sticker.satu.site/how-to-get-fat-super-fast/
 - https://five-fitness.myshopify.com/collections/pack-et-carte/products/copie-de-21-jours-summer-body-special-adherents
 - https://piknu.com/u/jazzituppl/following
 - https://pt.shopify.com/burst/imagens-hd/homem-se-exercitando

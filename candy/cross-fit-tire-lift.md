@@ -23,7 +23,6 @@ pages:
 - https://comparativeguide.com/blogs/news/vitamin-k-deficiency-linked-to-osteoporosis-cancer-and-heart-disease
 - https://comparativeguide.com/blogs/news
 - https://comparativeguide.com/blogs/news/tagged/cancer
-- https://posturepro.co/posturepro-contact/cross-fit-tire-lift_4460x4460/
 - https://www.pinterest.com/tivank/stuff-to-buy/
 - https://www.tribefitnessusa.com/
 - https://www.shopblackfinch.com/blogs/navigating-the-med-pro-lifestyle/tagged/scrub
@@ -34,7 +33,6 @@ pages:
 - https://travisconley.com/blogs/health-and-fitness
 - https://walletfrenzy.com/
 - https://www.bulkonketo.com/
-- https://www.theproteinbox.co.uk/
 - https://liftingfreak.com/creatine-before-and-after/
 - https://baezasgym.com/
 - https://sufficientc.com/blogs/sufficient-c-llc-blogs-blogs-blogs/tagged/flavor-with-function
@@ -42,7 +40,6 @@ pages:
 - https://sufficientc.com/blogs/sufficient-c-llc-blogs-blogs-blogs/tagged/workout-recovery
 - https://www.sportzila.com/
 - https://essentialketoelectrolytes.com/
-- http://half-pencil.loan/peek/gops-strongman-syndrome
 - https://www.pintaram.com/t/gymquotoide
 - https://pt.shopify.com/burst/imagens-hd/crossfit-com-levantamento-de-pneu
 - http://www.8desk.com/wallpaper/5496.html
@@ -56,8 +53,5 @@ pages:
 - https://fitnessavecstyle.com/
 - http://www.1josys.com/archives/2017-10.html
 - http://www.1josys.com/archives/19689052.html
-- https://pl.posturepro.co/posturepro-contact/cross-fit-tire-lift_4460x4460/
 - https://myproherbs.com/pages/contact-us
-- https://instapicto.top/tag/brief
-- http://galla.seelenfluegel.info/cat/how-to-minimize-creatine-bloat.html
 ---
