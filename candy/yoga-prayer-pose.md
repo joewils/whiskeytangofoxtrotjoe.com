@@ -43,7 +43,6 @@ pages:
 - https://www.denverdweller.com/denver-fitness-resolutions-with-kids/
 - https://www.popsugar.com/fitness/New-Year-Resolutions-Running-44360901
 - https://www.maxpixel.net/Yoga-Gymnastics-Athletic-Sports-Athletics-150260
-- https://pixels-library.com/photo/bottle-/free-stock-photo-of-healthy-person-woman-relaxation_181706.html
 - https://www.popsugar.com.au/fitness/New-Year-Resolutions-Running-44479070
 - http://www.tokkoro.com/3015023-act_body_elegance_female_fitness_girl_legs_meditation_model_naked_nude_pose_stretching_woman_yoga.html
 - https://influencedigest.com/fitness/how-to-surpass-plateaus-in-bodybuilding-fitness/

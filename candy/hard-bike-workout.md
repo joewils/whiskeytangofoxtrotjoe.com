@@ -81,9 +81,7 @@ pages:
 - https://www.tanktopguys.com/
 - https://www.menshealth.com.tr/?s=%C4%B1s%C4%B1nma&x=0&y=0&theme=mobile
 - https://ferret-plus.com/9078
-- https://sc.olx.com.br/norte-de-santa-catarina/servicos/grupo-de-emagrecimento-538192749
 - https://www.menshealth.com.tr/antrenman-sonrasi-nefes-kesilmesi/
-- https://produto.mercadolivre.com.br/MLB-927648474-cinta-modeladoraredutora-de-medidas-e-celulite-lifeextreme-_JM
 - https://pt.shopify.com/burst/imagens-hd/exercicio-puxado-na-bicicleta
 - http://www.menshealth.com.tr/page/4/?t=6
 ---

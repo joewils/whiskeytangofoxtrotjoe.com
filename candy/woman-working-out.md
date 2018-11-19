@@ -49,7 +49,6 @@ pages:
 - https://www.irondevotion.com/
 - https://liftlabz.com/
 - https://gymformy.net/
-- https://www.alugafitness.com.br/blog/alugar-para-malhar/
 - https://fitnessformy.com/
 - http://pinco055.pixnet.net/blog/post/175614639-%E5%81%A5%E8%BA%AB%E6%96%B0%E7%9F%A51%EF%BD%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E5%81%A5%E8%BA%AB%E6%88%BF%E7%9A%84%E4%BD%A0%E8%A6%81%E5%B8%B6%E4%BB%80%E9%BA%BC%EF%BC%9F
 - http://comment-soigner.org/idees-et-sport-pour-maigrir-haut-du-corps.html

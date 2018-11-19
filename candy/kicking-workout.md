@@ -84,5 +84,4 @@ pages:
 - http://saltaexperience.com/estudiar-australia/cursos-vocacionales-australia/
 - https://miseaupoing.com/
 - https://mindsetdesaude.com/o-poder-do-oleo-de-coco/
-- http://www.academiaredhouse.com.br/
 ---

@@ -97,8 +97,5 @@ pages:
 - http://clipsg.com/cc/bodybuilding-motivation-hindi
 - http://atletismopur.com/pruebas-de-aptitud-fisica/
 - https://sunnydailyshop.com/collections/fitness-products
-- https://www.ergofit.com.br/blog/categoria/dicas-de-saude/
-- http://www.ergofit.com.br/blog/tag/crossfit/
-- https://www.ergofit.com.br/blog/categoria/academia/
 - https://pt.shopify.com/burst/imagens-hd/homem-levantando-um-peso-pesado
 ---

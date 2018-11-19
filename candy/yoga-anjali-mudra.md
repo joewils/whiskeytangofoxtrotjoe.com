@@ -49,7 +49,6 @@ pages:
 - https://www.brideswhozen.com/about/
 - http://succeedagain.gbceniza.com/tag/toxins/page/2/
 - https://pixabay.com/nl/photos/yoga%20meditatie/
-- https://www.namu.com.br/materias/saudacao-ao-sol-e-o-respeito-nas-posturas-de-yoga
 - http://www.coach-addict.com/grand-dossier-innombrables-bienfaits-yoga-sante/
 - https://www.pinterest.com/santoshzapadia/
 - https://50s-sutekilife.com/health/nekoze01/

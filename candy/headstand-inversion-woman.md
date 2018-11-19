@@ -82,8 +82,4 @@ pages:
 - https://www.mogainz.com/
 - https://www.pexels.com/photo/adult-briefcase-business-city-1590796/
 - https://www.popsugar.com.au/smart-living/Relaxation-Challenge-43779828
-- https://pixels-library.com/photo/woman-in-gray-aztec-3/black-and-white-maine-coon-cat_140457.html
-- https://pixels-library.com/photo/woman-dancing-on-pole_234389.html
-- https://pixels-library.com/photo/woman-wearing-pink-v-neck-3/woman-wearing-grey-sports-bra-and-us-flag-printed-dolphin-shorts_229514.html
-- https://pixels-library.com/photo/woman-in-red-and-black-3/woman-licking-lollipop_232552.html
 ---

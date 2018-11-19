@@ -68,9 +68,6 @@ pages:
 - http://maynardshealth.com/
 - https://cptexamprep.com/
 - https://plus.google.com/communities/116733593684657169736/stream/a585469a-df5b-456c-ae95-6a1b7923cc31
-- https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/close-up-photography-of-a-woman-holding-her-hair_192257.html
-- https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/girl-in-black-framed-sunglasses-with-color-on-her-face-from-color-run-smiling_187838.html
-- https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/free-stock-photo-of-black-and-white-fashion-person-woman_186648.html
 - https://www.anagrammer.com/anagrams-of/cynosure
 - https://www.win24rfitness.com/
 - https://powerup2ahealthyyou.com/

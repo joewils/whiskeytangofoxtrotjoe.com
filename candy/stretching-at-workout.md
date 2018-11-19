@@ -61,9 +61,6 @@ pages:
 - http://www.beverlyhillstraining.com/personal-training/
 - https://cagfit.almaactive.com/
 - https://www.sports-block.com/blog/
-- https://metodosparaemagrecer.com.br/academia-nunca-mais-treine-em-casa-em-apenas-20-minutos-diarios/
-- https://omnii.com.br/
-- https://omnii.com.br/academia-nunca-mais-treine-em-casa-em-apenas-20-minutos-diarios/
 - http://www.coachmiica.com/
 - https://alaroseen.com/
 - http://comment-soigner.org/bourrelet-ventre-homme.html

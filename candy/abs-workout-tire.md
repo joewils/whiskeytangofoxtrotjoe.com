@@ -88,6 +88,4 @@ pages:
 - https://www.purevelvetextracts.com/
 - https://micclothing.com.au/
 - https://aarifbillah.com/shop/page/36/
-- https://www.ergofit.com.br/blog/categoria/dicas-de-saude/
-- http://www.ergofit.com.br/blog/categoria/sem-categoria/
 ---

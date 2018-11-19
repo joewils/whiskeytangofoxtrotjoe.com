@@ -92,8 +92,6 @@ pages:
 - http://www.michaelbenoit.org/category/mode/
 - http://www.michaelbenoit.org/page/3/
 - https://flipboard.com/@prestonpeng/%E5%81%A5%E5%BA%B7%E7%98%A6%E8%BA%AB-l70lfgpjz
-- https://www.ergolife.com.br/blog/page/3/
-- https://www.ergolife.com.br/blog/academia/monte-sua-academia/
 - http://www.michaelbenoit.org/le-guide-pour-avoir-un-corps-sexy/
 - https://naturaviatienda.com/
 - https://fitnessplaisir.com/
