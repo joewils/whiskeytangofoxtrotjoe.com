@@ -36,7 +36,6 @@ pages:
 - https://www.castlehillfitness.com/author/jessica-appel
 - https://www.ridefitfe.com/blogs/news
 - https://earthlynutrition.com/collections/fitness
-- https://www.castlehillfitness.com/blog/page/4?__hstc=253414486.6f51aad28a6d480b0896ec071bae4c3d.1399680000030.1399680000031.1399680000032.1&__hssc=253414486.1.1399680000033&__hsfp=3077594379
 - https://thehappinessdepot.com/
 - https://www.ridefitfe.com/pages/ride-fit-buyers-guide
 - https://sbiwinners.com/collections/accessories-for-winners
@@ -55,7 +54,6 @@ pages:
 - https://www.befitlivebig.com/home
 - https://www.befitlivebig.com/about
 - https://www.befitlivebig.com/
-- https://motionready.com.au/pages/about-us
 - https://www.gojinutrition.com/products/complete-personal-nutrition-program
 - https://sonoflokiathletics.com/
 - https://clearexcel.com/
@@ -79,9 +77,6 @@ pages:
 - https://menevitamins.com/
 - https://jumpic.com/hashtag.php?q=KetoGuru
 - https://www.tanktopguys.com/
-- https://www.menshealth.com.tr/?s=%C4%B1s%C4%B1nma&x=0&y=0&theme=mobile
 - https://ferret-plus.com/9078
-- https://www.menshealth.com.tr/antrenman-sonrasi-nefes-kesilmesi/
 - https://pt.shopify.com/burst/imagens-hd/exercicio-puxado-na-bicicleta
-- http://www.menshealth.com.tr/page/4/?t=6
 ---

@@ -28,12 +28,8 @@ pages:
 - https://apparel59.com/collections/yoga-sets
 - http://www.femi9india.com/health/weight-loss/advanced-yoga-for-weight-loss/
 - https://apparel59.com/collections/yoga-tops
-- https://lovepik.com/image-500526829/yoga-girl.html
 - https://demos.backroadtech.com/businesses/yoga/
-- https://lovepik.com/image-400793894/little-fresh-sports-beauty-yoga-mat.html
-- https://lovepik.com/image-500526718/yoga-girl.html
 - https://www.atmabodha.com/yoga-instructor-can-dream-career
-- https://lovepik.com/image-400793919/little-fresh-sports-beauty-yoga-mat.html
 - https://apparel59.com/collections/yoga-sets/products/uskincare-women-yoga-set-sport-suit-camouflage
 - https://apparel59.com/
 - https://lifechanging-studio.com/?cat=-1
@@ -80,5 +76,4 @@ pages:
 - http://www.bellafontae.org/media-gallery/
 - https://www.mogainz.com/
 - https://www.pexels.com/photo/adult-briefcase-business-city-1590796/
-- https://www.popsugar.com.au/smart-living/Relaxation-Challenge-43779828
 ---

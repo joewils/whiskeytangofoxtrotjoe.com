@@ -43,7 +43,6 @@ pages:
 - https://www.denverdweller.com/denver-fitness-resolutions-with-kids/
 - https://www.popsugar.com/fitness/New-Year-Resolutions-Running-44360901
 - https://www.maxpixel.net/Yoga-Gymnastics-Athletic-Sports-Athletics-150260
-- https://www.popsugar.com.au/fitness/New-Year-Resolutions-Running-44479070
 - http://www.tokkoro.com/3015023-act_body_elegance_female_fitness_girl_legs_meditation_model_naked_nude_pose_stretching_woman_yoga.html
 - https://influencedigest.com/fitness/how-to-surpass-plateaus-in-bodybuilding-fitness/
 - https://mindbeautyhk.com/perfect-yoga-asanas-to-kick-start-your-morning-by-nutrisa/
@@ -72,7 +71,6 @@ pages:
 - https://www.bikiniluxe.com/blogs/fitness-blog/tagged/fitness?page=3
 - https://www.bikiniluxe.com/blogs/fitness-blog/tagged/workout
 - https://www.wheretraveler.com/new-york-city/shape-nyc
-- https://www.popsugar.com.au/fitness/photo-gallery/44479070/image/44479067/Add-self-care-running
 - https://www.maxpixel.net/Meditation-Physical-People-Woman-Yoga-Girl-2557536
 - https://yellowstonevalleywoman.com/100-ways-to-change-your-wellness-today/
 - https://oxygenyogaandfitness.com/oxygen-yoga-fitness/attachment/corporate-rates-yoga/

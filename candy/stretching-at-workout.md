@@ -32,7 +32,6 @@ labels:
 - exercise equipment
 pages:
 - https://amtrueworldwide.com/
-- https://www.getbetterphysiotherapy.com.au/tight-hamstring/
 - https://gigieshotdeals.com/collections/fitness
 - https://runandreps.com/category/running-runners-workouts/
 - http://inchandpounds.com/winter-best-time-weight-loss/
@@ -50,7 +49,6 @@ pages:
 - https://dawsonshop.com/
 - https://myshopnited.com/
 - http://ashrockfitness.com/philosophy/
-- https://myotrig.com.au/
 - https://www.laufrals.com/collections/female-fitness-sports-wears-under-cad-40-staff-picks
 - https://www.laufrals.com/collections/female-fitness-sports-wears-under-cad-40-staff-picks/leggings
 - https://authentechs.com/

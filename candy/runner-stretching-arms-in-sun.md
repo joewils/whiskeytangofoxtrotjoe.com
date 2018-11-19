@@ -32,9 +32,6 @@ pages:
 - https://nimbleback.com/blogs/words-from-the-wise-a-path-to-a-nimble-back/tagged/the-beam
 - https://sanctusnutrition.com/products/drawstring-gym-bag-with-sanctus-nutrition-logo
 - https://www.progenexfit.com/blogs/post/view/name/4-proven-ways-to-recover-post-workout-2117/
-- https://drmikihumphrey.com.au/health-tips/lower-back-pain-treatment/
-- https://drmikihumphrey.com.au/lower-back-pain-treatment-brisbane/
-- https://drmikihumphrey.com.au/lower-back-pain-treatment-brisbane/runner-stretching-arms-lower-back-pain-treatment-bne/
 - https://www.progenexfit.com/dk/blogs/post/view/name/4-proven-ways-to-recover-post-workout-2117/
 - https://www.adaptsupplements.com/
 - https://myfitnessdirect.com/blogs/news
@@ -47,7 +44,6 @@ pages:
 - https://man-evo.com/
 - https://9demons.com/collections/tshirt-tank
 - http://spineteamspokane.com/injections
-- https://theorganictshirt.com.au/
 - https://www.linkedin.com/in/kellie-prather-96322411
 - https://rowellfitness.com/
 - https://ipsfitness.com/

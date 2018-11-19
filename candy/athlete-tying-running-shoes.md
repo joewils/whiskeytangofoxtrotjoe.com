@@ -55,7 +55,6 @@ pages:
 - https://www.biosteportho.com/
 - http://clearpathbenefits.com/category/workplace-2/page/7/
 - http://clearpathbenefits.com/tag/exercise/
-- http://justfreethemes.com/demo/?theme=VMagazine%20Lite
 - https://aspenvalleycounseling.com/tag/dealing-with-depressions/
 - http://hierl.com/2018/01/03/top-10-corporate-wellness-habits-adopt-2018/
 - http://gosaxon.com/tag/wellness/page/2/

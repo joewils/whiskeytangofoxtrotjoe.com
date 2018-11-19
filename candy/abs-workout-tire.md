@@ -35,7 +35,6 @@ pages:
 - http://crossfit262.com/12-21-17/
 - http://crossfit262.com/tova-lost-8-percent-body-fat-six-weeks/
 - http://crossfit262.com/mario-dropped-23-pounds-and-is-shredded/
-- https://maxxpump.com.au/blogs/news-fitness-tips/how-much-do-you-really-know-about-building-chiselled-abs
 - https://myfit-locker.com/
 - https://artofstrengthfitness.com/pages/about-us
 - https://biozeusfitness.com/
@@ -86,6 +85,5 @@ pages:
 - https://abssession.com/
 - http://www.karmashares.com/ico/six-pack-exercises-mens-health.asp
 - https://www.purevelvetextracts.com/
-- https://micclothing.com.au/
 - https://aarifbillah.com/shop/page/36/
 ---

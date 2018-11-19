@@ -36,7 +36,6 @@ pages:
 - https://me.popsugar.com/tag/Leg-Workouts
 - https://truegrowthfit.com/
 - https://mykonosgym.com/contact
-- https://ancientandwild.com.au/
 - https://mickkaygonline.com/collections/active-wear
 - https://fun2befit.org/2017/03/01/how-much-protein-do-you-really-need/
 - https://gymrackapparel.com/
@@ -96,10 +95,8 @@ pages:
 - https://saudi.desertcart.com/brands/snake%20brand
 - https://theathleisure.com/
 - https://www.b180basketball.com/
-- https://hoo2.com.au/collections/fitness-wellbeing/heart-shaped-compression-tight
 - https://glowfitgirls.com/
 - https://thecrossfitterng.com/classes/
-- https://hoo2.com.au/
 - https://recoveryathletics.com/
 - https://dreamproducts4you.com/collections/fitness
 - https://healthyweightspace.com/how-to-lose-weight-in-your-40s/

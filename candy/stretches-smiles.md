@@ -43,7 +43,6 @@ pages:
 - https://wumimatcha.com/pages/about-us
 - https://yourlifestyleoptions.com/kettlebell-workouts-exercises-beginners/
 - http://dieti-online.com/weight-loss-rugby.php
-- https://feeling.zaanta.com.au/category/fitness/feed/
 - http://restaurantnear2me.com/side-effects-of-diet-pills-yahoo.php
 - http://wallpaper.macofel.com/most-effective-way-to-get-rid-of-arm-fat/
 - https://muswellhealingarts.com/exercise-routines-for-mental-well-being/
@@ -65,8 +64,6 @@ pages:
 - http://www.bloomeyhandmade.com/blog
 - https://healingvip.com/
 - https://www.yidainline.com/
-- http://feeling.zaanta.com.au/author/korah/feed/
-- https://feeling.zaanta.com.au/triceps-stretch/
 - https://dailyfitlifestyle.com/
 - https://www.raitera.com/
 - http://womany.net/read/article/171

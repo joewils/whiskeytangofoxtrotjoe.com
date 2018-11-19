@@ -15,9 +15,7 @@ labels:
 - weights
 - girl
 pages:
-- http://www.bblifestyleclinic.com.au/
 - https://physicaliq.com/the-powers-of-the-plank-exercise/
-- http://www.bblifestyleclinic.com.au/blog/2018/10/11/10-benefits-of-exercise-in-breast-cancer-treatment
 - https://www.invigophysio.com/post-natal-health/exercise-after-birth/
 - https://unityfitstudio.com/2018/04/02/group-fitness-benefits/
 - https://physicaliq.com/author/wayne/

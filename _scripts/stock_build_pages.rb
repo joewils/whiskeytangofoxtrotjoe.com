@@ -27,7 +27,11 @@ ignore = [
   '.com.br',
   'pixnet.net',
   'fanxianke.com',
-  'flipboard.com'
+  'flipboard.com',
+  'justfreethemes.com',
+  '_hstc',
+  'lovepik.com',
+  '.com.'
 ]
 
 photos.each_with_index do |photo,idx|

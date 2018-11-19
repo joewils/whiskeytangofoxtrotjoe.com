@@ -84,7 +84,6 @@ pages:
 - http://ygem.org/who-we-are.php
 - https://bckdesignsboutique.com/collections
 - https://bckdesignsboutique.com/collections/fitness-tanks
-- https://motionready.com.au/pages/contact
 - https://www.nanonutrausa.com/
 - https://thesarcastictee.com/
 - https://afittersue.com/collections/tops/products/womens-bounce-control-wirefree-high-impact-plus-size-sports-bra

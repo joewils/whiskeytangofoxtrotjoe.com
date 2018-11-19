@@ -38,7 +38,6 @@ pages:
 - https://newt-shop.com/collections/fitness
 - https://www.fitperformers.com/
 - https://nutricsfit.com/
-- https://centralsports.com.au/
 - https://bodyweighttribe.com/best-parallettes/
 - https://www.eolnutrition.com/pages/wm-starter
 - https://westonsmithfitness.com/products/16-week-online-coaching

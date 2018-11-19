@@ -94,6 +94,5 @@ pages:
 - http://www.michaelbenoit.org/le-guide-pour-avoir-un-corps-sexy/
 - https://naturaviatienda.com/
 - https://fitnessplaisir.com/
-- https://comfortproteinbar.com.ua/blogs/news/pochemu-mi-ne-hudeem
 - https://lmallshop.com/
 ---

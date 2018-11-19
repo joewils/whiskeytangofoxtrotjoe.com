@@ -20,7 +20,6 @@ pages:
 - https://www.amazon.com/Yoga-After-Dark/dp/B072LN366R
 - https://www.amazon.com/Pure-Energy-Yoga/dp/B072J4BHLW
 - https://www.popsugar.com/fitness/London-Chocolate-Meditation-Yoga-Class-44503018
-- https://www.popsugar.com.au/fitness/London-Chocolate-Meditation-Yoga-Class-44525425
 - https://www.pinterest.com/BridieApple/yoga/
 - http://excuse-the-mess.com/2018/09/14/27-moms-tell-healthy-habits-stay-happy/
 - https://www.pinterest.com/psayantra/kripalu-yoga/
@@ -69,7 +68,6 @@ pages:
 - https://www.comfortmedical.com/daily-routines-for-a-healthy-stoma/
 - https://albawomen.com/womens-fitness-wear-staying-fit-over-40/
 - https://www.amazon.com/Deeper-Sense-of-Self-Awareness/dp/B072BXZTFB
-- https://dailystar.com.au/category/health/fitness/
 - https://www.casacampus.com/en/experience-index/
 - https://www.truewordings.com/yoga-thoughts.html
 - https://www.heandshefitness.com/2017/05/26/losing-weight-with-yoga-and-a-healthy-diet/

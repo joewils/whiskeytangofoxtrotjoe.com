@@ -46,7 +46,6 @@ pages:
 - https://www.openingin.com/meditation-instruction/
 - https://www.embodiaacademy.com/courses?area_of_interest_id=9
 - http://www.unbrokenself.com/what-is-advaita-vedanta/
-- http://www.communityfitness.com.au/classes/yoga-lates/
 - https://karmamonkeyfitness.com/blogs/blog/what-is-lorem-ipsum
 - https://sevayoga.org/2018/01/27/identity-of-self-patanjali-ram-dass-and-tantra/
 - https://embodiaacademy.com/courses?query=MISTY+
@@ -54,7 +53,6 @@ pages:
 - https://wellness42.com/health/fitness/yoga/yoga-poses-to-combat-bad-habits/
 - https://embodiaacademy.com/courses
 - https://pixabay.com/en/people-woman-girl-yoga-physical-2557535/
-- http://www.trainingdayhc.com.au/classes-burwood/
 - http://www.find-yoga.com/
 - https://bhavanaspas.com/yoga/schedule/
 - https://www.maxpixel.net/Healthy-Yoga-Girl-Woman-Physical-Fitness-People-2557535
@@ -67,14 +65,12 @@ pages:
 - https://www.kisscc0.com/photo/yoga-pilates-mats-exercise-plank-health-t2x2aj/
 - http://www.find-yoga.com/10-indispensable-benefits-yoga/
 - https://blog.coursecraft.net/10-simple-daily-rituals-to-help-you-stay-centered-and-productive-bbfd34b8e431
-- http://www.trainingdayhc.com.au/class-details-home/
 - https://www.pickpik.com/fitness-yoga-healthy-exercise-yoga-woman-pose-110862
 - https://www.pickpik.com/yoga-girl-sports-asana-exercise-mat-women-108929
 - https://nyblueprint.com/tribe-mindfulness-queens-jewish-project-saturday-spirituality-2
 - https://www.nymphaeumlife.com/index.php/contact/
 - http://www.everythingzoomer.com/tag/your-body/
 - http://www.twipu.com/InBalanceHotYog
-- http://www.trainingdayhc.com.au/burwood-classes-overview/
 - https://nyblueprint.com/tribe-mindfulness-queens-jewish-project-saturday-spirituality-3
 - http://www.everythingzoomer.com/tag/healthy-you/
 - http://www.find-yoga.com/author/admin/
@@ -97,7 +93,6 @@ pages:
 - https://www.physiwiz.com/maximise-rest-days/
 - http://suffolkchapterkofc.com/2018/07/05/benefits-of-tapping-for-anxiety/
 - http://www.professionsolutions.com/negotiation-skills/
-- http://www.trainingdayhc.com.au/burwood-gym/
 - http://www.professionsolutions.com/bjps-stronghold-pm-modis-smart-slogans-and-more/
 - http://www.professionsolutions.com/books-that-are-enough-to-steal-your-good-nights-sleep/
 - http://www.tokkoro.com/3090452-adult_beautiful_dark_depth-of-field_facial-expression_fashion_focus_girl_hand_indoors_model_person_photoshoot_pose_pretty_sexy_side-view_skin_studio_style_woman_yoga.html

@@ -19,18 +19,13 @@ labels:
 - pilates
 - stretching
 pages:
-- http://twistingpeacockyoga.com.au/
-- http://twistingpeacockyoga.com.au/osborne-park-studio/classes-osborne-park/
 - https://www.quora.com/Which-are-the-best-yoga-centres-in-Kolkata
 - https://medium.com/@al100/the-difference-between-cork-and-foam-yoga-blocks-23cd46316f51
-- http://twistingpeacockyoga.com.au/osborne-park-studio/pricing/
 - https://appolicious.com/the-best-apps-for-yoga-enthusiasts/
 - https://www.bookyogaretreats.com/news/fall-in-love-with-yin-yoga
 - https://www.propernorthernyoga.com/courses/
 - https://buoynow.com/products/yoga-class
-- https://www.purephysio.com.au/blog/yoga-as-rehabilitation/
 - https://www.delta-optimist.com/living/yoga-meets-12-steps-at-tsawwassen-s-little-house-1.23460383
-- http://twistingpeacockyoga.com.au/osborne-park-studio/teachers-osborne-park/
 - https://holycitycrossfit.com/category/training/yoga/
 - https://www.poweryogaworks.com/what-is-yoga/this-is-the-image-description-42/
 - https://www.holistichomeostasis.com/yoga/class-schedule/

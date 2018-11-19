@@ -31,11 +31,7 @@ pages:
 - https://www.hidconcept.com/blogs/news/55w-ballast-addiction-out-of-unnecessary-power
 - https://ucejuice.com/
 - https://artofstrengthfitness.com/
-- https://www.rnbbedding.com.au/author/bowie/
-- https://www.rnbbedding.com.au/category/health/
 - https://beastmodegetup.com/
-- https://www.rnbbedding.com.au/go-sleep-like-going-gym/
-- https://www.rnbbedding.com.au/blog/
 - https://thedeltafit.com/
 - https://alpha-den-ecom.com/
 - https://twitter.com/hugoribatika?lang=en
@@ -46,7 +42,6 @@ pages:
 - https://jhfitness.net/
 - https://aarifbillah.com/shop/page/103/
 - https://briolyfe.com/
-- https://motionready.com.au/pages/about-us
 - https://www.hiitfitnessproducts.com/blogs/news
 - https://firstshopfitness.com/
 - https://www.omniperformancelabs.com/

@@ -14,7 +14,6 @@ labels:
 pages:
 - https://www.sneakymakeup.com/how-to-get-rid-of-thigh-fat-super-fast-ways/
 - https://www.gearfuel.com/
-- https://sweatcentral.com.au/
 - https://www.gearfuel.com/collections/mens-clothing
 - https://jamaicaherbal.com/collections/mens-health/prostate-health
 - https://jamaicaherbal.com/collections/mens-health/enlarged-prostate
@@ -22,13 +21,10 @@ pages:
 - https://alldayzfitness.com/products/new-modern-double-shoe-racks-modern-double-cleaning-storage-shoes-rack-living-room-convenient-shoebox-shoe-organizer-stand-shelf
 - https://alldayzfitness.com/products/good-quality-basket-ball
 - https://alpha1-fitness.com/
-- https://sweatcentral.com.au/pages/delivery
-- https://sweatcentral.com.au/collections/treadmills
 - https://www.differentbreedbrand.com/
 - http://powerbodybuildingcartel.com/
 - https://jamaicaherbal.com/collections/mens-health/boost-testosterone
 - https://jamaicaherbal.com/collections/mens-health/male-enhancer
-- https://sweatcentral.com.au/collections/boxing-mma
 - https://alldayzfitness.com/collections/frontpage/products/hot-selling-mini-game-console-built-in-800-games-hd-video-console-tv-game
 - https://www.onlinethreatalerts.com/article/2018/7/4/idear-life-at-www-idearlife-com-is-an-untrustworthy-online-store/
 - https://majorboss.com/

@@ -46,7 +46,6 @@ pages:
 - https://www.hashtag-supplements.com/blogs/news/what-you-didnt-know-about-beta-alanine-supplement-ingredients-explained
 - https://www.healthysyrus.com/search/label/Learn%20about%20Functional%20Training
 - https://justleggin.com/collections
-- https://vitaexplorati.com.au/products/obstacle-course-or-race-specified-12-week-program
 - https://newlifevitamins.com/
 - https://suitefitpro.com/pages/sobre-nosotros
 - https://moneezy.com/

@@ -80,7 +80,6 @@ pages:
 - https://www.triplepeakpaleo.com/30-ways-type-a-to-de-stress/
 - https://www.calmandchic.com/home/2017/5/18/eat-pretty-cleansing-with-cabala-juice
 - https://www.calmandchic.com/home/2017/9/12/exercise-equilibrium-3-ways-to-align-your-fitness-routine-to-your-personality
-- https://peachwear.com.au/
 - https://innatemoves.com/home-gymnastics-workout/
 - https://peachla.com/fitness/
 - http://justjezze.com/fitness-journey-habits/

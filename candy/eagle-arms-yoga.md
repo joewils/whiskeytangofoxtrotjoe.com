@@ -72,7 +72,6 @@ pages:
 - https://www.win24rfitness.com/
 - https://powerup2ahealthyyou.com/
 - http://www.thebaginvestigator.com/category/mommy-health-and-wellness/
-- https://medicareinternational.com.au/
 - http://www.tokkoro.com/3009770-abandoned_alone_building_dirty_girl_person_wear_woman.html
 - http://www.thebaginvestigator.com/author/estherdiaz/
 - http://www.mommylace.com/page/4/?pw_highlight_code=46939
@@ -81,6 +80,5 @@ pages:
 - http://www.mommylace.com/page/5/?fp=2ioVHululJkrjayH%2B6qn7pCU1jmiiMzWXrIQg1wl2NaR8oxkDlL9Y3gWhV9xL9mjZcPQuxQBxclJOulEoHrTRA%3D%3D&prvtof=Czgsm5O25l9MIFsabFwJrGiulqHRaEfStZFRt4YHLfs%3D&poru=eKpMFtO9h%2FoDInouAJ9vb%2FNaYojm%2BDBOlSipF3Vkl9BEz0XB%2FvCGPvs1Ljq5Rylei4O%2B9prsZ0b5tE8gAH4B7g%3D%3D&cifr=1
 - http://www.thebaginvestigator.com/page/4/
 - http://www.clearaircloth.com/en/
-- https://www.spacedeer.com.ua/blog-spacedeer/magiya-utra.html
 - https://cr.linkedin.com/pub/chris-napper/0/983/a39?trk=biz-brand-followers
 ---

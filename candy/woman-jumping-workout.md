@@ -98,7 +98,6 @@ pages:
 - https://mysocialmate.com/tag/rehearsalgear
 - https://sport-pal.com/
 - https://majorboss.com/
-- https://www.fightadversity.com.au/collections/shapewear
 - https://www.pinterest.com/pin/425590233531120752/
 - https://ks-body-boutique.com/
 - https://cavemantuff.com/

@@ -12,11 +12,7 @@ labels:
 - balance
 pages:
 - https://theculturetrip.com/africa/morocco/articles/10-of-casablancas-top-yoga-studios/
-- http://twistingpeacockyoga.com.au/
-- http://twistingpeacockyoga.com.au/osborne-park-studio/classes-osborne-park/
 - https://www.yogaclassnearyou.com/
-- http://twistingpeacockyoga.com.au/osborne-park-studio/pricing/
-- http://twistingpeacockyoga.com.au/osborne-park-studio/teachers-osborne-park/
 - http://thefirstscoop.com/new-year-new-yoga/
 - https://piperthemes.com/demo/news-viral-wordpress-theme/yoga-for-better-healthy-life-healthy-mind/
 - https://tinas-yoga.com/40-day-challenge/
@@ -40,7 +36,6 @@ pages:
 - http://myclickjob.com/10-powerful-yoga-poses-to-reduce-belly-fat/4/
 - https://themegandialogues.com/2018/06/07/why-you-should-be-complimenting-your-weights-sessions-with-yoga/
 - https://myclickjob.com/10-powerful-yoga-poses-to-reduce-belly-fat/2/
-- https://www.bamboolulu.com.au/pregnancy-yoga-poses-pregnancy/
 - https://meganglosson.wixsite.com/ontheborderline/blog/everyone-can-yoga
 - https://seikodepot.com/
 - https://www.urbanmanas.com/pages/life-on-the-mat
@@ -62,7 +57,6 @@ pages:
 - https://activetrendz.com/collections
 - https://activetrendz.com/
 - https://wig.bapala.org/4-yoga-poses-to-reduce-belly-fat/
-- http://ferretfitness.com.au/2018/09/top-10-australian-activewear-brands/
 - http://www.sumonsleeve.com/2018/10/3-self-care-practices-that-are-keeping.html
 - https://zayiflamahatti.com/tags/vrikshasana
 - https://afyon3ddekorasyon.com/tags/Vrikshasana
@@ -78,7 +72,6 @@ pages:
 - https://guriwellness.com/category/free-your-mind/
 - https://guriwellness.com/category/soothe-your-senses/
 - https://guriwellness.com/category/frame-your-physique/
-- https://www.shape.com.sg/health/6-easy-ways-to-take-care-of-your-joints-as-you-age/
 - http://myhumanitasmusings.com/
 - https://www.theperspectivematrix.com/the-blog/how-to-become-a-morning-person-here-s-a-practical-approach-printable-guide
 - https://twitter.com/evtlife

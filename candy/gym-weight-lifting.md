@@ -28,7 +28,6 @@ pages:
 - https://www.pinterest.com/AdvWeightLoss/dumbbell-workout/
 - https://www.musicassemfronteira.com/adidas/exercise-material-online-pinterest.com
 - http://www.bringfiton.com/blog/category/advice/2
-- https://www.navitasfitness.com.au/single-post/2018/02/15/Pump-that-iron-Why-lifting-weights-is-great-for-your-health-and-fitness
 - https://www.popsugar.com/fitness/photo-gallery/45174929/image/45175067/Bent-Over-Row
 - http://gettruegritfit.com/fitness/rule-of-fitness-6-maintaining-proper-form/
 - https://getfitnowfitnessstudio.com/

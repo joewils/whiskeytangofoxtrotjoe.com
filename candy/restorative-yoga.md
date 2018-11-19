@@ -71,7 +71,6 @@ pages:
 - https://soacitup.com/baton-rouge-yoga-classes-help-parents-find-balance/
 - http://technologyformindfulness.com/tag/yoga/
 - https://theplymouthpress.com/2018/06/13/sunday-yoga-class-at-the-community-center/
-- https://www.jalyoga.com.sg/you-are-not-flexible-but-you-still-do-yoga/
 - https://handsnharmonywellness.com/home/
 - https://clonehouse.com/group-packages/yoga/
 - https://thirdliving.com/blogs/pillow-talk/struggling-to-sleep-try-these-relaxing-yoga-poses

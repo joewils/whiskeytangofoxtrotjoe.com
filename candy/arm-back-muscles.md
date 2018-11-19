@@ -76,7 +76,6 @@ pages:
 - https://www.slaylifestyles.com/collections/mens-apparel
 - http://www.chrisdiamantakos.com/blog/2017/2/28/5-exercises-to-avoid-if-you-have-low-back-pain
 - https://www.menstylefitness.com/category/exercise-equipment/
-- https://dingofitness.com.au/pages/ben-lowry
 - http://www.chrisdiamantakos.com/home-2/
 - https://fun2befit.org/tag/body-fat-percentage/
 - https://fun2befit.org/tag/calipers/

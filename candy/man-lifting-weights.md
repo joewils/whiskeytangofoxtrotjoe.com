@@ -33,7 +33,6 @@ pages:
 - https://www.hashtag-supplements.com/blogs/news/what-you-didnt-know-about-beta-alanine-supplement-ingredients-explained
 - http://bodyarmorfit.com/confessions-of-a-master-trainer/
 - https://www.pinterest.com/pin/527695281319904600/
-- https://www.aia.com.sg/en/life-matters/living-healthily/4-easy-gym-workouts-for-newbies.html
 - http://www.kayhealthyplanet.com/fitness/full-body-workouts-at-home/
 - https://seachangefit.com/why-sea-change-2/
 - http://tmgjournal.com/grooming/gym-newbie-dos-donts/

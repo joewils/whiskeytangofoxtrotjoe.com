@@ -28,7 +28,6 @@ pages:
 - https://yogajanda.com/private-yoga/
 - https://www.countynewscenter.com/events/adult-yoga-ramona-library-2018-10-17/
 - http://www.sfyogamagazine.com/blog/2018/5/31/ytyduy0zjjjyr9kd7hx7270nyr2opf
-- http://soulmotion.com.au/yoga-classes/
 - https://www.luciddreamsociety.com/yoga-nidra/
 - http://www.sfyogamagazine.com/blog/2018/5/30/the-neurodiversity-project-a-brave-new-idea
 - https://sibosurvivor.com/yoga-for-digestion/
