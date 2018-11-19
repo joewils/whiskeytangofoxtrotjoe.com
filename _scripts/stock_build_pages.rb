@@ -21,9 +21,13 @@ ignore = [
   'facebook',
   '%E0%B8',
   '%D8%B5',
+  '%E5%81',
   'myshopify.com',
   'pixels-library.com',
-  '.com.br'
+  '.com.br',
+  'pixnet.net',
+  'fanxianke.com',
+  'flipboard.com'
 ]
 
 photos.each_with_index do |photo,idx|

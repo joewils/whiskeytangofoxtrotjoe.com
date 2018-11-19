@@ -47,7 +47,6 @@ pages:
 - https://getfitwithpaige.com/blog/
 - https://www.gamasutra.com/blogs/RobinEkeheien/20180220/314760/We_come_from_the_AssetStore.php
 - https://www.yelp.com/biz/firepit-fitness-washington-5
-- https://flipboard.com/@tomelenbaas/tomagazine-6m4frs53y
 - http://www.sinclairfitness.com.au/health-calculators/body-mass-index-bmi/
 - https://www.ebookers.com/Ankara-Hotels-TRYP-By-Wyndham-Ankara-Oran.h30061122.Hotel-Information
 - https://www.wotif.com/Ankara-Hotels-TRYP-By-Wyndham-Ankara-Oran.h30061122.Hotel-Information

@@ -42,9 +42,7 @@ pages:
 - https://nistortraining.com/
 - https://nistortraining.com/collections/frontpage
 - https://restless-society.com/
-- https://flipboard.com/topic/scopeblog.stanford.edu
 - https://hybrid-fitness.org/
-- https://flipboard.com/topic/s%253Ascopeblog.stanford.edu
 - https://fitnessbums.com/
 - http://www.twipu.com/fit_leaders
 - https://www.linkedin.com/in/virgil-campbell-25569323

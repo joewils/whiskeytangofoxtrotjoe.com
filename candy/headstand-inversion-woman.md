@@ -74,7 +74,6 @@ pages:
 - https://twitter.com/cdroege?lang=en
 - https://blog.lifestart.net/newsletter-articles/2018/9/4/a-balanced-workout
 - https://www.optimyz.com/author/lisa-greenbaum/
-- https://flipboard.com/@AbhijitSulhyan
 - https://www.bustle.com/p/7-weird-but-genius-exercise-hacks-every-woman-needs-to-know-2937613
 - https://www.optimyz.com/category/fitness/
 - https://www.optimyz.com/tag/health/

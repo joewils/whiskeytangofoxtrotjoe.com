@@ -49,9 +49,4 @@ pages:
 - https://holybodies.com/collections/general-workout-gear
 - http://www.muaymongkon.com/search
 - https://berkafboxxing.com/
-- http://www.fanxianke.com/pic/1049.html
-- http://www.fanxianke.com/download/1039-0-1280x960.html
-- http://m.fanxianke.com/tag-%E5%81%A5%E8%BA%AB%E6%88%BF/
-- http://m.fanxianke.com/objects/list-831.html
-- http://www.8desk.com/list%E5%81%A5%E8%BA%AB%E6%88%BF/list-11.html
 ---

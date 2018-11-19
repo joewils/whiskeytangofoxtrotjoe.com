@@ -57,7 +57,6 @@ pages:
 - https://klassikhealth.com/yoga/5-effective-yoga-poses-for-back-pain-alone/
 - https://www.urbanmanas.com/pages/props
 - https://bodyshapegear.com/
-- https://flipboard.com/@emhansonjr/yoga-journal-48fgor8pz
 - https://www.chizelmindbody.com/magazine/
 - http://www.hamptonroadsvegfest.com/author/laura/
 - http://www.hamptonroadsvegfest.com/category/news/
@@ -76,8 +75,6 @@ pages:
 - https://www.benzinga.com/analyst-ratings/analyst-color/17/10/10160229/oppenheimer-is-bullish-on-lululemon-ahead-of-q3-earning
 - https://www.nichecube.com/
 - https://www.pickpik.com/yoga-yoga-mat-green-fabric-mat-43936
-- https://flipboard.com/@nkouchouk
-- https://flipboard.com/@KhadijahKidd
 - https://www.nomandcompany.com/
 - https://trendysmilez.com/blogs/news
 - https://barbaracrean.com/portfolio/pilates/

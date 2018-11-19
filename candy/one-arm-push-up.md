@@ -64,9 +64,7 @@ pages:
 - https://suitablism.com/entry/category/fitness/
 - https://suitablism.com/entry/category/personaltraining/
 - https://suitablism.com/entry/tag/%E8%97%A4%E6%B2%A2/
-- http://www.fanxianke.com/download/1731-0-3840x2160.html
 - https://www.feedolist.com/?user=midwaylabs
-- http://m.fanxianke.com/pic/1731.html
 - https://mulpix.com/midwaylabs
 - https://mulpix.com/instagram/feriado_mas.html
 ---
