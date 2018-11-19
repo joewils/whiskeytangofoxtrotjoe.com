@@ -97,5 +97,4 @@ pages:
 - http://clipsg.com/cc/bodybuilding-motivation-hindi
 - http://atletismopur.com/pruebas-de-aptitud-fisica/
 - https://sunnydailyshop.com/collections/fitness-products
-- https://pt.shopify.com/burst/imagens-hd/homem-levantando-um-peso-pesado
 ---

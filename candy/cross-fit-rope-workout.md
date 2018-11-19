@@ -60,7 +60,6 @@ pages:
 - https://confidencenutrition.com/
 - https://workoutiger.com/pages/a-propos-de-nous
 - https://workoutiger.com/pages/home-page-accessoires-musculation
-- https://pt.shopify.com/burst/imagens-hd/treino-de-crossfit-na-corda
 - https://www.dogaleczanem.com/collections
 - http://www.sporten-afvallen.com/hoe-kan-je-sterker-worden/
 - http://www.sporten-afvallen.com/category/artikelen/

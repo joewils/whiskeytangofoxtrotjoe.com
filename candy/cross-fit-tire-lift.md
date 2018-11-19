@@ -41,7 +41,6 @@ pages:
 - https://www.sportzila.com/
 - https://essentialketoelectrolytes.com/
 - https://www.pintaram.com/t/gymquotoide
-- https://pt.shopify.com/burst/imagens-hd/crossfit-com-levantamento-de-pneu
 - http://www.8desk.com/wallpaper/5496.html
 - http://www.8desk.com/wallpaper/29533.html
 - http://www.8desk.com/wallpaper/1827839.html

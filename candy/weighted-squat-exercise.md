@@ -99,5 +99,4 @@ pages:
 - https://revistaentrena.com/category/salud/
 - https://suitablism.com/
 - https://suitablism.com/entry/category/fitness/
-- https://suitablism.com/entry/tag/%E5%8D%83%E8%91%89%E3%83%BB%E6%B4%A5%E7%94%B0%E6%B2%BC/
 ---

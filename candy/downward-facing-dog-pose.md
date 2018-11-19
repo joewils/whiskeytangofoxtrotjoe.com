@@ -81,7 +81,6 @@ pages:
 - https://yerlist.com/tl/13-yoga-poses-para-sa-pagbaba-ng-timbang-upang-mawala-ang-timbang-mabilis/
 - https://yerlist.com/mt/13-yoga-poses-for-weight-loss-to-lose-weight-quickly/
 - http://koikenoriko.com/blog/post-552/
-- https://pt.shopify.com/burst/imagens-hd/pose-do-cachorro-olhando-para-baixo
 - http://koikenoriko.com/blog/post-555/
 - https://site-health.com/posa-del-cane-rivolto-verso-il-basso-adho-mukh-svanasana-passaggi-precauzioni-per-i-benefici/
 - http://www.lianyiyujia.com/articles/413.html

@@ -78,5 +78,4 @@ pages:
 - https://jumpic.com/hashtag.php?q=KetoGuru
 - https://www.tanktopguys.com/
 - https://ferret-plus.com/9078
-- https://pt.shopify.com/burst/imagens-hd/exercicio-puxado-na-bicicleta
 ---
