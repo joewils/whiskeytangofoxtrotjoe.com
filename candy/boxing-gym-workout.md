@@ -23,8 +23,6 @@ labels:
 pages:
 - https://theboxinggear.com/boxing-clinch/
 - https://www.intunefit.com/products/ala-carte-fitness-session
-- https://www.facebook.com/novagymcentremmadequebec/
-- https://business.facebook.com/novagymcentremmadequebec/
 - https://www.intunefit.com/
 - https://www.intunefit.com/collections/training-packages
 - https://warrior-fitness-tech.com/
@@ -35,7 +33,6 @@ pages:
 - https://www.marterellawines.com/do-you-need-in-home-training-personal-training/
 - https://www.marterellawines.com/tag/in-home-personal-trainer/
 - https://www.marterellawines.com/tag/fitness-trainer/
-- https://black-shuck-sport-leisure.myshopify.com/blogs/team-sports
 - https://www.oxfco.com/
 - https://www.linkedin.com/in/dale-hoffman-b5229a4a
 - https://www.intunefit.com/pages/location
@@ -45,18 +42,12 @@ pages:
 - https://inovationworks.com/collections/workout-tools
 - https://powerandhealthfitness.com/
 - https://powerandhealthfitness.com/collections/all
-- https://nneveququu1.myshopify.com/
 - https://uk.linkedin.com/in/firstaidtrainingea
 - https://holybodies.com/collections/men-dry-fit-shirts/products/punisher-3d-printed-t-shirts-men-compression-shirts-long-sleeve-cosplay-costume-crossfit-fitness-clothing-tops-male-black-friday-1
 - https://holybodies.com/collections/leggings/products/2017-women-mesh-patchwork-yoga-sports-leggings-for-women-elastic-workout-fitness-sport-legging-trousers-e5
 - https://insta.orenya.com/tag/MyModernWellness
 - https://holybodies.com/collections/general-workout-gear
-- https://fr-ca.facebook.com/novagymcentremmadequebec/
-- https://pt-br.facebook.com/novagymcentremmadequebec/
-- http://www.muaymongkon.com/category/2/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%94%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87
 - http://www.muaymongkon.com/search
-- http://www.muaymongkon.com/product/18/%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-4-%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C
-- http://www.muaymongkon.com/product/17/%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3-4-%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C
 - https://berkafboxxing.com/
 - http://www.academiaredhouse.com.br/
 - http://www.fanxianke.com/pic/1049.html

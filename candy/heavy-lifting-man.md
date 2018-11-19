@@ -56,7 +56,6 @@ pages:
 - https://hydroprotector.com/products/32-oz-obsidian
 - https://hydroprotector.com/products/40-oz-mint
 - https://fittuniversity.net/collections/all?page=2
-- https://dubbs-alpha-league.myshopify.com/
 - http://atlasnutritionllc.com/product/atlas-nutrition-warrior-program/
 - https://www.faceclips.net/re/Bodybuilding+Motivation
 - http://atlasnutritionllc.com/product-category/shop-products/

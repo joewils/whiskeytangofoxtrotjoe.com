@@ -27,7 +27,6 @@ pages:
 - https://www.popsugar.com/fitness/Can-Hot-Yoga-Help-Cold-44842277
 - https://rvahub.com/2018/04/09/two-new-yoga-studios-coming-to-stratford-hills/
 - https://theculturetrip.com/pacific/new-zealand/articles/the-best-yoga-studios-in-wellington-new-zealand/
-- https://www.facebook.com/kyliedawsonyoga/
 - https://www.quora.com/Which-are-the-best-yoga-centres-in-Kolkata
 - https://theculturetrip.com/europe/spain/articles/the-best-yoga-and-pilates-studios-in-zaragoza-spain/
 - https://medium.com/@al100/the-difference-between-cork-and-foam-yoga-blocks-23cd46316f51

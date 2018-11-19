@@ -51,10 +51,7 @@ pages:
 - https://www.queenscrowncollection.com/
 - https://sundayvalue.com/pages/contact-us
 - https://air-floor.com/
-- https://www.facebook.com/SexyWaist.co/posts
-- https://www.facebook.com/SexyWaist.co/
 - https://nactivefitness.com/
-- https://www.facebook.com/SexyWaist.co/?rc=p
 - https://veerve.com/
 - https://portfolio.rachelhlewis.com/KiraChambersDesign/index.html
 - https://www.reformyourlifestyle.com/virtual-gym-floor
@@ -69,6 +66,4 @@ pages:
 - https://loberofit.com/collections/tablas-de-entrenamiento
 - http://www.ergofit.com.br/blog/tag/crossfit-emagrece/
 - https://www.gym-leaders.com/
-- https://www.facebook.com/IsmerelyCorporativo/photos/ya-conoces-la-promoci%C3%B3n-del-mes-te-va-a-encantar-compra-2-fitelympro-y-ll%C3%A9vate-d/1056409707848223/
-- https://msry.org/%D8%B5%D9%88%D8%B1-%D8%A8%D9%86%D8%A7%D8%AA-%D8%AC%D9%85%D9%8A%D9%84%D8%A7%D8%AA.html
 ---

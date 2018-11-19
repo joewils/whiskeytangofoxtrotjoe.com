@@ -63,7 +63,6 @@ pages:
 - https://lista.mercadolivre.com.br/reprograma%C3%A7%C3%A3o-mental-download-b%C3%B4nus-exclusivos
 - https://lista.mercadolivre.com.br/reprogramacao-mental
 - https://lista.mercadolivre.com.br/angustia%2C-culpa-e-liberta%C3%A7%C3%A3o
-- https://www.facebook.com/vinnytsiabadminton/
 - https://zhuanlan.zhihu.com/p/42425792
 - http://chrisallmeida.com/conquiste-amor/
 - https://br.pinterest.com/sergelemmens/

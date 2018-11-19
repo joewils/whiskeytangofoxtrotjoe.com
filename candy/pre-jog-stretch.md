@@ -37,12 +37,10 @@ pages:
 - https://crafteastiq.com/collections
 - https://sweatcentral.com.au/collections/strike-pads
 - https://sweatcentral.com.au/collections/boxing-mma
-- https://greenstraws.myshopify.com/
 - https://sweatcentral.com.au/collections/tops-1
 - https://istashop.com/
 - https://wurlymur.com/
 - https://www.highimpactsportsbras.com/
-- https://so-ui-islandgirl-apparel.myshopify.com/
 - https://healthfitcoaching.com/
 - https://lessfortune.com/products/crystal-matte-transparent-laptop-case-cover-for-macbook-air-13-12-11-15-pro-retina-13-3-15-4-for-carcasa-macbook-pro-13-case
 - https://www.top10supplementreviews.com/diet-tips/healthy-eating/
@@ -51,7 +49,6 @@ pages:
 - https://lessfortune.com/pages/contact-us
 - https://lessfortune.com/collections/mouse
 - https://www.top10supplementreviews.com/weight-loss-mentality/
-- https://www.facebook.com/Uniubeformosa/posts
 - https://www.nferias.com/ihrsa-annual-international-convention-trade-show/
 - https://gobagi.com/category/community/page/97/
 - https://gobagi.com/category/community/page/107/
@@ -60,8 +57,5 @@ pages:
 - http://www.cabinet-osteopathie-13.com/traiter/lhuile-essentielle-pour-lutter-contre-les-douleurs-musculaires
 - http://www.cabinet-osteopathie-13.com/soulager/comment-soulager-les-douleurs-musculaires
 - http://www.cabinet-osteopathie-13.com/traiter/comment-traiter-les-douleurs-articulaires-et-musculaires
-- https://www.facebook.com/proaktivfysioterapihorsholm/
-- https://pt-br.facebook.com/Uniubeformosa/posts
-- https://pt-br.facebook.com/Uniubeformosa/posts/?ref=page_internal
 - https://www.glunis.com/BR/Formosa/1430055237055312/Uniube--Polo-Formosa
 ---

@@ -19,7 +19,6 @@ pages:
 - https://worldwondersco.com/
 - http://www.wolfgangfitapparel.com/
 - https://fireandicebottles.com/blogs/news/get-hydrated-not-tyred
-- https://www.facebook.com/Fitness1440PSCC/
 - http://tabernacleoffitness.com/
 - https://qualitygymapparel.com/
 - https://fireandicebottles.com/blogs/news/tagged/cross-fit
@@ -36,7 +35,6 @@ pages:
 - https://www.rnbbedding.com.au/category/health/
 - https://beastmodegetup.com/
 - https://www.rnbbedding.com.au/go-sleep-like-going-gym/
-- https://www.facebook.com/Fitness1440PSCC/posts
 - https://www.rnbbedding.com.au/blog/
 - https://thedeltafit.com/
 - https://alpha-den-ecom.com/
@@ -60,7 +58,6 @@ pages:
 - https://www.eolnutrition.com/pages/wm-starter
 - https://baldwin4men.com/how-to-get-the-body-of-a-spartan/
 - https://endmancool.com/
-- https://bjjdoc.myshopify.com/
 - https://jhfitness.net/pages/contact-us
 - https://www.menstellar.com/workout-ruining-habits-quit-now/
 - https://www.dm-foundation-store.com/

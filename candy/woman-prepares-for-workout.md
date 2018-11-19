@@ -42,7 +42,6 @@ pages:
 - https://flirtymango.com/blogs/news
 - https://moxibod.com/
 - https://venussvanity.com/blogs/news/8-different-types-of-yoga-and-their-benefits
-- https://www.facebook.com/SexyWaist.co/posts
 - https://synergyairpods.com/
 - https://purelysafe.org/
 - https://procheerlife.mykajabi.com/blog/the-five-steps-to-increase-your-commitment-to-your-goals
@@ -56,9 +55,7 @@ pages:
 - https://venussvanity.com/pages/about-us
 - https://venussvanity.com/collections/tops
 - https://easypupp.com/
-- https://www.facebook.com/TiffanyKualaLumpur/
 - https://postureny.com/
-- https://www.facebook.com/SexyWaist.co/
 - http://sttocker.com/image/ucOI
 - https://www.moveyourbodyfitness.com.au/collections/gym-junkie
 - https://www.phinne.com/
@@ -75,7 +72,6 @@ pages:
 - http://www.ergofit.com.br/blog/page/3/
 - https://www.ergofit.com.br/blog/categoria/academia/page/2/
 - https://www.pinterest.com/vivriwellness/vivri-sistema-de-nutrici%C3%B3n/
-- https://www.facebook.com/meowmeowsecret/
 - http://bellamagsa.com/my-hart/seks/bella-ondersteun-365daevanaktivisme/
 - https://suitablism.com/
 - https://suitablism.com/entry/category/fitness/

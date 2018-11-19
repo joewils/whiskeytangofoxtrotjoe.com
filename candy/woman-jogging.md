@@ -52,8 +52,6 @@ pages:
 - https://www.popsugar.com/fitness/photo-gallery/44999117/image/44999641/Week-7
 - https://www.popsugar.com/fitness/5K-Treadmill-Training-Plan-44999117
 - https://www.boondate.com/blog/how-to-make-him-miss-you/
-- https://www.facebook.com/SexyWaist.co/posts
-- https://www.facebook.com/munsonhealthcarechoosewell/
 - https://sayitwithasock.com/blogs/sock/19-places-you-need-to-sock-selfie
 - https://acrunningandfitness.com/zero-to-hero/
 - https://swanksocks.com/
@@ -70,7 +68,6 @@ pages:
 - https://merkantfy.com/pages/merkantfy-logist%E2%84%A2
 - https://steelleggs.com/
 - https://craftyt.com.au/blogs/blog/heat-it-ice-it-the-birth-of-happy-healers-is-imminent
-- https://www.facebook.com/SexyWaist.co/
 - https://craftyt.com.au/blogs/blog/tagged/new-product
 - http://wallpaper.macofel.com/ankle-sprain-when-running/
 - https://prixsale-dk.com/collections/leggings
@@ -81,7 +78,6 @@ pages:
 - http://www.ergofit.com.br/blog/tag/jejum-intermitente/
 - http://www.ergofit.com.br/blog/tag/jejum-intermitente-versus-atividade-fisica/
 - http://photosavi.com/photos-floues-10-causes-et-comment-les-eviter/
-- https://de-de.facebook.com/munsonhealthcarechoosewell/
 - http://www.studioform-27.com/
 - http://www.studioform-27.com/importance-des-proteines/pourquoi-les-proteines-sont-elles-importantes-pour-le-sport
 - http://www.studioform-27.com/composition/comment-marche-une-ceinture-abdominale-delectrostimulation

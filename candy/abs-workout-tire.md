@@ -23,7 +23,6 @@ pages:
 - http://crossfit305.com/wod-december-13-2016-at-0802pm/
 - https://aarifbillah.com/2018/page/39/
 - https://absolutepredatorfitness.com/
-- https://medinah-agility-workout.myshopify.com/
 - https://crossfit305.com/jackie-lost-12-pounds-6-weeks/
 - https://www.fitperformers.com/
 - https://www.lvdfitness.com/blogs/the-compound/what-is-turinabol-dhcmt
@@ -50,11 +49,9 @@ pages:
 - https://www.fitnessgurls.com/health-fitness/rock-hard-abs/
 - https://opusls.com/collections/mens
 - https://opusls.com/collections/mens/Tank-Top
-- https://upendo-supplement.myshopify.com/
 - https://www.themodernmandaily.com/
 - https://www.fitnessgurls.com/health-fitness/3-tips-to-get-6-pack-abs-sooner/
 - https://www.velvetvitality.com/
-- https://caterina-nutrition-studio.myshopify.com/
 - https://thedealnextdoor.net/collections/fitness
 - https://60daysslimmer.com/
 - https://www.beastxwear.com/

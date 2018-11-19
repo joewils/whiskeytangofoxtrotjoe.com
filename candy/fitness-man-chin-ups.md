@@ -63,9 +63,5 @@ pages:
 - http://www.pictame.com/tag/goddesshestia
 - http://itravelpages.com/beat-congenital-muscular-dystrophy.aspx
 - https://fitnessplaisir.com/
-- https://www.facebook.com/bodys.studio.crest/posts/?ref=page_internal
-- https://fr-fr.facebook.com/bodys.studio.loriol/posts
-- https://www.facebook.com/bodys.studio.crest/posts
-- https://fr-fr.facebook.com/bodys.studio.crest/posts
 - http://cfmutantes.com.br/blog/beneficios-da-atividade-fisica-para-o-cerebro/
 ---

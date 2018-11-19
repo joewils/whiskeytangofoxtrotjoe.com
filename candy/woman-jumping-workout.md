@@ -65,7 +65,6 @@ pages:
 - https://renzograciebayside.com/welcome/
 - https://renzograciebayside.com/
 - https://www.fitnessgurls.com/health-fitness/everyone-taking-bcaa/
-- https://www.facebook.com/taniafigueira85
 - https://www.gearfuel.com/collections/womens-clothing
 - https://bonjourfit.com/
 - https://thekindredom.com/collections/apparel
@@ -74,10 +73,7 @@ pages:
 - https://thekindredom.com/pages/about-us
 - https://alphaxactivewear.com/
 - https://leggingsforthecure.com/
-- https://www.facebook.com/LetItBeSew.Nadine/
-- https://www.facebook.com/JohnSalernoDFW/
 - https://briolyfe.com/
-- https://www.facebook.com/FitBodInspiringClothing/
 - https://emallexpresspro.com/
 - https://millennialmommagazine.com/2017/10/20/secret-healthy-life-goes-beyond-plate/
 - https://mysocialmate.com/tag/ironspawn

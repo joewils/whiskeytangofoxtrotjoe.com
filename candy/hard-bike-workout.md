@@ -66,7 +66,6 @@ pages:
 - https://berrygoodies.com/
 - https://www.n4mal.com/
 - https://www.n4mal.com/2018/08/01/create-an-extra-source-of-income/
-- https://enzimify-sales-pop-demo.myshopify.com/
 - https://gemini-fitness.com/
 - https://www.n4mal.com/2018/08/01/delayed-gratification/
 - https://moneyexposure.com/2017/12
@@ -77,7 +76,6 @@ pages:
 - https://edcoutfitters.com/products/women-female-dry-quick-push-up-natural-color-bh-sports-bra-tank-tops-yoga-shirt-with-padding-for-running-fitness-gym-bras
 - http://www.teamfrosty.com/
 - https://essentialketoelectrolytes.com/
-- https://cage-and-ring.myshopify.com/
 - https://menevitamins.com/
 - https://jumpic.com/hashtag.php?q=KetoGuru
 - https://www.tanktopguys.com/

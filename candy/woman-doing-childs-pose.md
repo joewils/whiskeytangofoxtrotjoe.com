@@ -41,7 +41,6 @@ pages:
 - https://thehappymantra.com/collections/yoga-mats
 - https://www.quora.com/Which-are-the-best-yoga-centres-in-Kolkata?_escaped_fragment_=n=12
 - https://au.superprof.com/blog/home-yoga/
-- https://www.facebook.com/nirvanastockholm/reviews
 - https://gottaloveyoga.com/blogs/yoga-articles
 - https://www.triumphhq.com/how-to-keep-practicing-yoga-off-of-the-mat/
 - https://www.star-transformations.com/services/yoga

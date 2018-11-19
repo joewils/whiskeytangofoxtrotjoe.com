@@ -98,6 +98,5 @@ pages:
 - https://www.ihuniu.com/collections/yoga/yoga-circle
 - https://lady-bijou.com/
 - https://travelumpire.com/yoga-meditation-nepal/
-- https://www.facebook.com/louisdrummer1
 - https://www.maverickstravel.com/listing/hk-yoga/hong-kong-private-yoga-06/
 ---

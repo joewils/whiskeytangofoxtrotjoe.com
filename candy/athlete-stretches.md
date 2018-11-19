@@ -59,7 +59,6 @@ pages:
 - https://juceup.com/pages/testimonials
 - https://www.believecreatetransforminspire.com/blogs/news/la-fleur-the-perfect-clutch
 - https://www.believecreatetransforminspire.com/collections/cruise-ready
-- https://jcs-h.myshopify.com/search
 - https://herbalformulas4u.com/collections/frontpage
 - https://herbalformulas4u.com/collections/arthritis
 - https://www.believecreatetransforminspire.com/products/je-n-dna-kit-anti-wrinkle-serum

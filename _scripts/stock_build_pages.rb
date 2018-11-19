@@ -18,7 +18,12 @@ ignore = [
   'burst.shopify.com',
   'aliexpress.com',
   'chinese-phone.com',
-  'facebook'
+  'facebook',
+  '%E0%B8',
+  '%D8%B5',
+  'myshopify.com',
+  'pixels-library.com',
+  '.com.br'
 ]
 
 photos.each_with_index do |photo,idx|
@@ -36,6 +41,7 @@ photos.each_with_index do |photo,idx|
   photo['pages'].each do |page|
     bad = ignore.any? {|word| page.include? word}
     bad = true unless page.include? '.com' or page.include? '.net' or page.include? '.org'
+    bad = true if page.count('-') > 24
     front_matter['pages'].push(page) if bad == false
   end
   # Build a Jekyll page, but only if one doesn't exist.

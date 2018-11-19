@@ -37,7 +37,6 @@ pages:
 - https://tru-nobilis.com/
 - https://gearshopbarn.com/
 - https://toptradesinternational.com/
-- https://bulksuppsappdev.myshopify.com/
 - https://ronaldonllinestore.com/
 - https://air-floor.com/
 - https://gymshirtsonline.com/

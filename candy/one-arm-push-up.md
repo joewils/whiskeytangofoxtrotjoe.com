@@ -21,7 +21,6 @@ pages:
 - https://allitom.com/
 - http://stayfitwellnesspartners.com/
 - http://www.thinkeasyinfo.com/10-tips-for-a-healthy-lifestyle/
-- https://bingeksa.com/product/O07OLTAX84/motivational-water-bottle-with-time-markers-water-tracker-water-bottle-with-time-measurements-to-help-you-track-your-health-fitness-goals-20-oz-clear-bpa-free-plastic-with-inspirational-quote
 - https://milkandhoneyhealth.com/conditioning-camps
 - https://twitter.com/wilfitsports?lang=en
 - https://kabsfitfactory.com/?wordfence_lh=1&hid=721D444A8BD6BF5ADDC83DB5245AA7FC

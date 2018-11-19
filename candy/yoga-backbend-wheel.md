@@ -21,7 +21,6 @@ pages:
 - https://www.pinterest.com/cycyakuma/yoga/
 - https://www.prettyeasylife.com/on-line-yoga-for-people-who-sit-al/
 - http://www.hamptonroadsvegfest.com/yoga-for-all-a-vegfest-fundraiser/
-- https://yogylove.myshopify.com/
 - https://tbassathomefitness.com/product/2-yoga-classmonth-copy/
 - https://tbassathomefitness.com/product/4-yoga-classmonth/
 - https://tbassathomefitness.com/product/6-yoga-classmonth/

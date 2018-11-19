@@ -69,7 +69,6 @@ pages:
 - https://www.100repmax.com/
 - https://shoppfiy.com/
 - http://tmgjournal.com/grooming/common-male-health-problems-deal/
-- https://fitnesskindom-com.myshopify.com/
 - http://bodyarmorfit.com/mens-health/natural-testosterone-supplements/
 - https://helmutstrebl.com/pages/faqs
 - https://helmutstrebl.com/pages/shipping

@@ -69,7 +69,6 @@ pages:
 - http://longevityknowledge.com/tag/bcca/
 - http://longevityknowledge.com/best-vegan-protein-powders-without-pea/
 - http://maksfitness.com/how-accurate-are-online-resting-metabolic-rate-calculators/
-- https://frogshop-fitness-store.myshopify.com/collections/all?page=4
 - https://twitter.com/proteinwaterco?lang=en
 - http://peakperformancemedical.net/10-things-you-may-have-heard-about-botox-that-are-wrong.php
 - https://www.sneakymakeup.com/how-to-get-rid-of-thigh-fat-super-fast-ways/
@@ -89,7 +88,6 @@ pages:
 - https://vicnic.com/products/doppelherz-acid-base-body-ph-balance-20-servings
 - https://vicnic.com/products/alsiroyal-vitamin-a-z-30-cap
 - http://longevityknowledge.com/category/supplementation/
-- https://frogshop-fitness-store.myshopify.com/collections/all
 - https://twitter.com/theteebiz?lang=en
 - https://edomlaboratories.com/collections/amino-acids
 - https://vicnic.com/products/arya-laya-rich-moisture-balancer-aqua-vital-50-ml

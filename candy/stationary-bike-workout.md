@@ -60,7 +60,6 @@ pages:
 - https://justleggin.com/
 - https://onmogul.com/stories/smart-ways-to-motivate-yourself-to-workout
 - https://cuterfit.com/
-- https://fitlete.myshopify.com/
 - https://fitduds.com/
 - https://www.gymattic.com/
 - https://www.issafitgirl.com/

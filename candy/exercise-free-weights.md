@@ -65,7 +65,6 @@ pages:
 - https://www.liftingthedream.com/blogs/news
 - https://www.vapedegree.com/
 - https://mygo2fitness.com/
-- https://a-vitfitness.myshopify.com/products/full-body-scale
 - https://www.popsugar.com/fitness/How-Long-Does-Take-See-Results-From-Weightlifting-45016677
 - http://www.sinclairfitness.com.au/health-calculators/bmr-tdee/
 - https://www.crossfitwodmom.com/index.php/blog/

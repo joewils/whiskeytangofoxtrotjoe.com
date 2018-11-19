@@ -71,7 +71,6 @@ pages:
 - https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/close-up-photography-of-a-woman-holding-her-hair_192257.html
 - https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/girl-in-black-framed-sunglasses-with-color-on-her-face-from-color-run-smiling_187838.html
 - https://pixels-library.com/photo/woman-wearing-white-and-black-checkered-3/free-stock-photo-of-black-and-white-fashion-person-woman_186648.html
-- https://pixels-library.com/photo/woman-wearing-white-3/photo-of-woman-wearing-black-leather-zip-up-jacket-black-mini-skirt-gray-michael-kors-leather-bag-and-black-low-top-sneakers_189813.html
 - https://www.anagrammer.com/anagrams-of/cynosure
 - https://www.win24rfitness.com/
 - https://powerup2ahealthyyou.com/
@@ -86,8 +85,5 @@ pages:
 - http://www.thebaginvestigator.com/page/4/
 - http://www.clearaircloth.com/en/
 - https://www.spacedeer.com.ua/blog-spacedeer/magiya-utra.html
-- https://www.facebook.com/graziellanuernberg/posts
 - https://cr.linkedin.com/pub/chris-napper/0/983/a39?trk=biz-brand-followers
-- https://de-de.facebook.com/graziellanuernberg/posts
-- https://sq-al.facebook.com/graziellanuernberg/
 ---

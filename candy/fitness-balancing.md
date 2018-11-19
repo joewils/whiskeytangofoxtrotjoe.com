@@ -53,7 +53,6 @@ pages:
 - https://biohackerclinic.com/pages/privacy-policy
 - https://newt-shop.com/
 - https://biohackerclinic.com/pages/contact-us
-- https://servicegym.myshopify.com/
 - https://etydeals.com/
 - https://biohackerclinic.com/collections
 - https://biohackerclinic.com/search

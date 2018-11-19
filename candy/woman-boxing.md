@@ -19,7 +19,6 @@ pages:
 - https://au.superprof.com/blog/female-boxing-vs-male-boxing/
 - https://theendivechronicles.com/men-boxing.html
 - https://vorstcanada.com/blogs/news/benefits-of-boxing-training-for-fitness
-- https://www.facebook.com/RED-TIGERS-full-contact-kick-boxing-martial-art-gym-221078494612346/
 - https://bracketsmackdown.com/men-boxing.html
 - https://flyxfitness.com/
 - https://www.hooperswar.com/men-boxing.html
@@ -50,7 +49,6 @@ pages:
 - https://femaleactivewear.com/collections/sets
 - https://www.fightadversity.com.au/collections/fight
 - https://testazone.com/
-- https://cage-and-ring.myshopify.com/
 - http://www.dealoon.com/
 - https://www.imagenesmy.com/imagenes/boxing-materials-women-41.html
 - http://exitoelectronico.com/fiverr-vs-upwork/

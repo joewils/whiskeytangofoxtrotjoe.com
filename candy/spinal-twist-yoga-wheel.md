@@ -52,7 +52,6 @@ pages:
 - http://www.dailyspikes.com/cms/article/yoga-poses-desk-job
 - https://pixabay.com/en/photos/healthy%20lifestyle/?
 - https://thedailyq.org/8423/features/six-things-to-do-during-earth-hour/
-- https://www.facebook.com/MoreBliss-996295640535815/
 - https://pixabay.com/en/photos/mati/
 - https://www.pickpik.com/fitness-yoga-healthy-exercise-yoga-woman-pose-110862
 - https://in.pinterest.com/pin/767371223985285450/
@@ -66,7 +65,6 @@ pages:
 - https://www.modernnaturalwellness.com/page/17/
 - https://www.pickpik.com/person-yoga-stretch-stand-sea-ocean-118345
 - https://www.kisscc0.com/free-lifestyle/
-- https://www.facebook.com/pages/category/Apparel---Clothing/The-Blessed-Yogi-2088852147996970/
 - https://proserenityshop.com/
 - http://www.logossports.com/
 - https://www.pickpik.com/yoga-exercise-sport-fitness-wellness-lake-44243

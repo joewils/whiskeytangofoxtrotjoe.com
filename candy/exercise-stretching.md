@@ -57,7 +57,6 @@ pages:
 - https://vbetics.com/collections/womens-fitness
 - https://saudi.desertcart.com/brands/ladies%20balance
 - https://aotearohashop.com/
-- https://delonghuang.myshopify.com/
 - https://silkonomy.com/
 - https://www.spreadthepump.com/search
 - https://all-that-trends.com/products/sport-bracelet-watch-men-r5-pro-smart-wrist-band-heart-rate-blood-pressure-oxygen-oximeter-watches-intelligent-for-ios-android?variant=6309137285163
@@ -73,7 +72,6 @@ pages:
 - https://1-1mall.com/
 - https://www.bluebubbly.com/collections/fitness-bras
 - https://panaksbestbuys.com/
-- https://magdy-chateeb.myshopify.com/
 - https://www.xfmsports.com/
 - https://beautyisthesoul.com/
 - https://evelyndress.com/collections
@@ -93,7 +91,6 @@ pages:
 - https://www.rimini.com/eventi/riminiwellness
 - http://www.michaelbenoit.org/category/mode/
 - http://www.michaelbenoit.org/page/3/
-- https://www.facebook.com/SpartanSystemYD/posts
 - https://flipboard.com/@prestonpeng/%E5%81%A5%E5%BA%B7%E7%98%A6%E8%BA%AB-l70lfgpjz
 - https://www.ergolife.com.br/blog/page/3/
 - https://www.ergolife.com.br/blog/academia/monte-sua-academia/

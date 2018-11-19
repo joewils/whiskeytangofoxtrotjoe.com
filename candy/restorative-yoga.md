@@ -46,7 +46,6 @@ pages:
 - https://www.riseyogamn.com/workshops/
 - https://www.wildriceretreat.com/events/2018/8/4/gentle-restorative-yoga
 - https://www.thebodhitreestudio.com/workshops/
-- https://www.facebook.com/yogaathmc/
 - http://technologyformindfulness.com/study-meditation-vs-yoga-for-a-brain-energy-boost/
 - http://twitter.com/twitter/status/1014174688942141441
 - https://www.empowerpsychotherapy.com/groups/
@@ -83,7 +82,6 @@ pages:
 - https://soacitup.com/yoga-classes-baton-rouge-traffic/
 - http://www.downtowncateringcompany.com/may-events/2018/6/9/yoga-flow-and-feast
 - https://www.downtowncateringcompany.com/may-events/?category=yoga
-- https://www.facebook.com/SylvieGarciaYogaLuxembourg/
 - http://www.yogamelissa.org/shop/avid-yogi-package-of-6-private-sessions
 - https://moveyabrass.com/myb-lifestyle/2017/11/15/holiday-self-care-activities
 - http://uufn.org/events/yoga-with-dona-2018-12-10/

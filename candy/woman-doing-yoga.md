@@ -44,7 +44,6 @@ pages:
 - https://www.nymphaeumlife.com/index.php/category/blog-page/
 - http://hemphabits.com/hatha-yoga-super-beginners/
 - https://www.openingin.com/meditation-instruction/
-- https://www.facebook.com/hothouseyogamidlo/
 - https://www.embodiaacademy.com/courses?area_of_interest_id=9
 - http://www.unbrokenself.com/what-is-advaita-vedanta/
 - http://www.communityfitness.com.au/classes/yoga-lates/

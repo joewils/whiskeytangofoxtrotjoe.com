@@ -71,7 +71,6 @@ pages:
 - https://www.justjaiwear.com/
 - https://www.linkedin.com/in/vadiraj-katti-64039a165
 - https://fitnessfollowershop.com/
-- https://gizmolands.myshopify.com/
 - https://perylocuter.com/collections
 - http://www.simplefitnesshub.com/best-5-day-workout/
 - https://www.onlinemarketshopping.com/blogs/mjw1/tagged/fashion
