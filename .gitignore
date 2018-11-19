@@ -16,3 +16,5 @@ _feeds/*.html
 _html/*.html
 _html/*.json
 _html/*.xml
+
+service-account-file.json

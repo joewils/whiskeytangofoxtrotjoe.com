@@ -20,7 +20,7 @@ layout: default
         {% assign day = post.date | date: "%e" | plus: 0 %}
         {% if post.links and site.data.stock[day] %}
         <div>
-          <img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"><br>
+          <a href="/candy/{{ site.data.stock[day]['slug'] }}"><img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"></a><br>
           <span class="small center" ><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
         </div>
         {% endif %}
