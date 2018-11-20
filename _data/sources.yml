@@ -45,6 +45,10 @@
   slug: gameplan-a
   url: https://www.gameplan-a.com
   feed: https://www.gameplan-a.com/feed/
+- title: Greatest
+  slug: greatest
+  url: https://greatist.com
+  url: https://greatist.com/taxonomy/term/1685/feed
 - title: Goop
   slug: goop
   url: https://goop.com/wellness/fitness/
