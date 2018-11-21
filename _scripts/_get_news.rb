@@ -2,6 +2,7 @@ def get_news(feed_url,source,process_date=nil,source_category=nil)
   puts feed_url
   # User Agents
   agents = [
+    'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Mobile Safari/537.36',
     'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36',
     'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
     'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1',
@@ -17,7 +18,11 @@ def get_news(feed_url,source,process_date=nil,source_category=nil)
   # Get feed
   feed_filename = '_feeds/'+feed_id+'-'+todays_date+'.xml'
   if !File.exist? feed_filename
-    xml = HTTParty.get(feed_url, {:format=>'plain', headers: {"User-Agent" => agents.sample}})
+    headers = {
+                "User-Agent" => agents.sample, 
+                "Accept" => "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+              }
+    xml = HTTParty.get(feed_url, {:format=>'plain', headers: headers})
     File.open(feed_filename, 'w+') do |file|
       file.puts xml
     end

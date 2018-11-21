@@ -10,6 +10,7 @@ require_relative './_get_news'
 require_relative './_get_crossfit_journal'
 require_relative './_get_crossfit_mainsite'
 require_relative './_get_grams'
+require_relative './_get_tierthreetactical'
 
 puts "news.rb"
 
@@ -39,6 +40,10 @@ posts.push(*news)
 
 # Process CrossFit Mainsite JSON feed
 news = get_crossfit_mainsite(as_of_date)
+posts.push(*news)
+
+# Process Tier Three Tactical HTML page
+news = get_tierthreetactical(as_of_date)
 posts.push(*news)
 
 # IG Sources

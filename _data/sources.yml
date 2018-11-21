@@ -90,10 +90,10 @@
   slug: outside
   url: https://www.outsideonline.com
   feed: https://www.outsideonline.com/rss/fitness/rss.xml
-- title: Pop Sugar
-  slug: pop-sugar
-  url: https://www.popsugar.com/fitness/
-  feed: https://www.popsugar.com/fitness/feed
+#- title: Pop Sugar
+#  slug: pop-sugar
+#  url: https://www.popsugar.com/fitness/
+#  feed: https://www.popsugar.com/fitness/feed
 - title: Tier Three Tactical
   slug: tier-three-tactical
   url: http://www.tierthreetactical.com
