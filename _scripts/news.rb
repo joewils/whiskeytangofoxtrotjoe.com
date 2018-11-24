@@ -6,11 +6,13 @@ require 'nokogiri'
 require 'uri'
 require 'yaml'
 
+require_relative './_user_agents'
 require_relative './_get_news'
 require_relative './_get_crossfit_journal'
 require_relative './_get_crossfit_mainsite'
 require_relative './_get_grams'
 require_relative './_get_tierthreetactical'
+require_relative './_get_tnation'
 
 puts "news.rb"
 
@@ -46,6 +48,10 @@ posts.push(*news)
 news = get_tierthreetactical(as_of_date)
 posts.push(*news)
 
+# Process T-Nation HTML page
+news = get_tnation(as_of_date)
+posts.push(*news)
+
 # IG Sources
 grams = YAML.load_file('./_data/grams.yml')
 
@@ -57,10 +63,6 @@ end
 
 # Men's Fitness?
 # https://www.menshealth.com/fitness/
-
-# T-Nation?
-# https://www.t-nation.com/all-articles?order=published_at+desc
-
 
 # Build Jekyll Front Matter
 front_matter = {

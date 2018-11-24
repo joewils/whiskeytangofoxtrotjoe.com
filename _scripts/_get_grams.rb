@@ -1,16 +1,6 @@
 def get_grams(ig_user,as_of_date)
   puts "https://www.instagram.com/"+ig_user
-  # User Agents
-  agents = [
-    'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1',
-    'Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0',
-    'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko',
-    'Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A',
-    'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1'
-  ]
+
   # Get IG HTML
   todays_date = Date.today.to_s
   filename = '_html/instagram-'+ig_user+'-'+todays_date+'.html'
@@ -19,7 +9,7 @@ def get_grams(ig_user,as_of_date)
     sleep(rand(1..3)) # play nice
     # Craft Instagram post URL
     url = 'https://www.instagram.com/'+ig_user+'/?hl=en'
-    html = HTTParty.get(url, {:format=>'plain', headers: {"User-Agent" => agents.sample}})
+    html = HTTParty.get(url, {:format=>'plain', headers: {"User-Agent" => $agents.sample}})
     if html.response.code.to_s == '200'
       File.open(filename, 'w+') do |file|
         file.puts html
