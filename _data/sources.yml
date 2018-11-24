@@ -9,6 +9,7 @@
 - title: Brute Strength
   slug: brute-strength
   url: http://brutestrengthtraining.com
+  feed: https://www.brutestrengthtraining.com/feed/
 - title: Box Life Magazine
   slug: box-life-magazine
   url: http://boxlifemagazine.com
@@ -45,6 +46,11 @@
   slug: gameplan-a
   url: https://www.gameplan-a.com
   feed: https://www.gameplan-a.com/feed/
+- title: Gizmodo
+  slug: gizmodo 
+  url: http://gizmodo.com
+  feed: http://gizmodo.com/rss
+  category: fitness
 - title: Greatest
   slug: greatest
   url: https://greatist.com
@@ -66,6 +72,16 @@
   slug: inside-the-affiliate
   url: http://www.insidetheaffiliate.com
   feed: http://www.insidetheaffiliate.com/blog/atom.xml
+- title: Jezebel
+  slug: jezebel 
+  url: http://jezebel.com
+  feed: http://jezebel.com/rss
+  category: fitness
+- title: Lifehacker
+  slug: lifehacker 
+  url: http://lifehacker.com
+  feed: http://lifehacker.com/rss
+  category: fitness
 - title: Mark's Daily Apple
   slug: marks-daily-apple
   url: https://www.marksdailyapple.com
