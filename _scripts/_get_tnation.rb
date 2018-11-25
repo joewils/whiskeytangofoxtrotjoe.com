@@ -41,7 +41,7 @@ def get_tnation(as_of_date)
           'title' => title.strip,
           'url' => url.strip,
           'date' => post_date,
-          'source' => 'Tier Three Tactical'
+          'source' => 'T-Nation'
         }
         if as_of_date == nil or as_of_date == post_date
           puts "\t" + post['title']
