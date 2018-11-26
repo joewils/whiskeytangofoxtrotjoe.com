@@ -95,6 +95,10 @@
   slug: morning-chalk-up
   url: https://morningchalkup.com
   feed: https://morningchalkup.com/feed/
+- title: Muscle and Performance
+  slug: muscleandperformance
+  url: https://www.muscleandperformance.com
+  feed: https://www.muscleandperformance.com/.rss/full/
 - title: NFPT
   slug: nfpt
   url: https://www.nfpt.com/blog/
@@ -106,6 +110,10 @@
   slug: outside
   url: https://www.outsideonline.com
   feed: https://www.outsideonline.com/rss/fitness/rss.xml
+- title: Oxygen Magazine
+  slug: oxygen
+  url: https://www.oxygenmag.com
+  feed: https://www.oxygenmag.com/.rss/full/
 #- title: Pop Sugar
 #  slug: pop-sugar
 #  url: https://www.popsugar.com/fitness/
