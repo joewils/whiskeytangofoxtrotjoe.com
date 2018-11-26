@@ -13,6 +13,7 @@ require_relative './_get_crossfit_mainsite'
 require_relative './_get_grams'
 require_relative './_get_tierthreetactical'
 require_relative './_get_tnation'
+require_relative './_get_shape'
 
 puts "news.rb"
 
@@ -50,6 +51,10 @@ posts.push(*news)
 
 # Process T-Nation HTML page
 news = get_tnation(as_of_date)
+posts.push(*news)
+
+# Process Shape HTML page
+news = get_shape(as_of_date)
 posts.push(*news)
 
 # IG Sources
