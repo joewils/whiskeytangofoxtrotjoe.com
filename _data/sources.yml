@@ -2,6 +2,14 @@
   slug: barbend
   url: https://barbend.com
   feed: https://barbend.com/feed/
+- title: Be Military Fit
+  slug: bmf
+  url: https://www.bemilitaryfit.com/blog
+  feed: https://www.bemilitaryfit.com/blog/rss.xml
+- title: btwb press
+  slug: btwb
+  url: https://btwb.blog
+  feed: https://btwb.blog/feed/
 - title: Breaking Muscle
   slug: breaking-muscle
   url: https://breakingmuscle.com
@@ -38,6 +46,16 @@
   slug: elitefts
   url: https://www.elitefts.com
   feed: https://www.elitefts.com/feed
+- title: Fitness Gurls
+  slug: fitnessgurls
+  url: https://www.fitnessgurls.com
+  feed: https://www.fitnessgurls.com/feed/
+  category: 'Health & Fitness'
+- title: Fitness Rx
+  slug: fitnessrxwomen
+  url: https://www.fitnessrxwomen.com/
+  feed: http://www.fitnessrxwomen.com/feed/
+  category: 'Health & Fitness'
 - title: Fitness Volt
   slug: fitness-volt
   url: https://fitnessvolt.com
@@ -50,6 +68,11 @@
   slug: gizmodo 
   url: http://gizmodo.com
   feed: http://gizmodo.com/rss
+  category: fitness
+- title: Girls Gone Strong
+  slug: girlsgonestrong
+  url: https://www.girlsgonestrong.com
+  feed: https://www.girlsgonestrong.com/feed/
   category: fitness
 - title: Greatest
   slug: greatest
