@@ -69,6 +69,9 @@ end
 # Men's Fitness?
 # https://www.menshealth.com/fitness/
 
+# https://blog.feedspot.com/fitness_rss_feeds/
+# 
+
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',
