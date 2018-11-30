@@ -72,6 +72,9 @@ end
 # https://blog.feedspot.com/fitness_rss_feeds/
 # 
 
+# We Are Ladder?
+# https://weareladder.com/blogs/nmp.atom
+
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',
