@@ -79,7 +79,7 @@ plugins:
   - jekyll-paginate
 
 # Paginate
-paginate: 1
+paginate: 3
 paginate_path: "/noise/:num/"
 
 # Exclude these files from your production _site
