@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.date | date: "%A %B %e, %Y" }} {{ page.title }}</h1>
 
   {% assign day = page.date | date: "%e" | plus: 0 %}
-  {% if page.links and site.data.stock[day] %}
+  {% if page.posts and site.data.stock[day] %}
   <div>
     <a href="/candy/{{ site.data.stock[day]['slug'] }}"><img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"></a><br>
     <span class="small"><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
@@ -16,18 +16,14 @@ layout: default
   <div class="entry">
     {{ content }}
 
-    {% if page.links %}
-      <ol>
-      {% for source in page.links %}
-        <li>
-          {% if source.snark and source.snark != "" %}
-            <a href="{{ source.url }}" target="_new">{{ source.snark }}</a><br><span class="small wtf-t">{{source.source}}</span>
-          {% else %}
-            <a href="{{ source.url }}" target="_new">{{ source.title }}</a><br><span class="small wtf-t">{{source.source}}</span>
-          {% endif %}
-        </li>
+    {% if page.posts %}
+      {% for source in page.posts %}
+        <p>
+          <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
+          <br>{{ source.description }}
+          <br><span class="small wtf-t">{{source.source}}</span>
+        </p>
       {% endfor %}
-      </ol>
     {% endif %}
 
   </div>

@@ -18,7 +18,7 @@ layout: default
       <div class="entry">
 
         {% assign day = post.date | date: "%e" | plus: 0 %}
-        {% if post.links and site.data.stock[day] %}
+        {% if post.posts and site.data.stock[day] %}
         <div>
           <a href="/candy/{{ site.data.stock[day]['slug'] }}"><img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"></a><br>
           <span class="small center" ><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
@@ -27,18 +27,14 @@ layout: default
 
         {{ post.content }}
 
-        {% if post.links %}
-          <ol>
-          {% for source in post.links %}
-            <li>
-              {% if source.snark and source.snark != "" %}
-                <a href="{{ source.url }}" target="_new">{{ source.snark }}</a><br><span class="small wtf-t">{{source.source}}</span>
-              {% else %}
-                <a href="{{ source.url }}" target="_new">{{ source.title }}</a><br><span class="small wtf-t">{{source.source}}</span>
-              {% endif %}
-            </li>
+        {% if post.posts %}
+          {% for source in post.posts %}
+            <p>
+              <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
+              <br>{{ source.description }}
+              <br><span class="small wtf-t">{{source.source}}</span>
+            </p>
           {% endfor %}
-          </ol>
         {% endif %}
 
       </div>

@@ -35,13 +35,17 @@
     </div>
 
     <div id="main" role="main" class="container">
-      that was fun
+      {{ content }}
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+        </footer>
+
+        <footer class="footer small">
+          <a href="https://newsapi.org">Powered by News API</a> | <a href="mailto:wtf@joecode.com">wtf@joecode.com</a>
         </footer>
       </div>
     </div>
