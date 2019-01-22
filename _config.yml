@@ -18,7 +18,7 @@ avatar: /images/barbell-logo.png #https://raw.githubusercontent.com/barryclark/j
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: wtf@joecode.com
+  email: #wtf@joecode.com
   facebook:
   flickr:
   github:
