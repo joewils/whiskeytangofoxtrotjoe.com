@@ -18,11 +18,14 @@ layout: default
 
     {% if page.posts %}
       {% for source in page.posts %}
-        <p>
-          <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
-          <br>{{ source.description }}
-          <br><span class="small wtf-t">{{source.source}}</span>
-        </p>
+        {% if source.ignore %}
+        {% else %}
+          <p>
+            <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
+            <br>{{ source.description }}
+            <br><span class="small wtf-t">{{source.source}}</span>
+          </p>
+        {% endif %}
       {% endfor %}
     {% endif %}
 

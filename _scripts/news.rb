@@ -1,4 +1,5 @@
 require 'base64'
+require 'front_matter_parser'
 require 'json'
 require 'news-api'
 require 'yaml'
@@ -18,10 +19,23 @@ raise "Please define your News API key: export NEWSAPI_KEY=\"1234\"" if !ENV['NE
 # Determine if we've already processed this date
 news_filename = '_posts/'+as_of_date+'-Noise.md'
 
-if !File.exist? news_filename
-
-  # Posts
+# Existing Post?
+if File.exist? news_filename
+  parsed = FrontMatterParser::Parser.parse_file(news_filename)
+  if parsed.front_matter['posts']
+    posts = parsed.front_matter['posts']
+  else
+    posts = []
+  end
+  if parsed.content
+    content = parsed.content
+  else
+    content = ''
+  end
+else
   posts = []
+  content = ''
+end
 
   # News API
   newsapi = News.new(ENV['NEWSAPI_KEY'])
@@ -47,7 +61,14 @@ if !File.exist? news_filename
       'description' => ''
     }
     post['description'] = article.description.gsub(/\r/," ").gsub(/\n/," ") if article.description
-    posts.push(post)
+    # Determine if we've already seen this news article
+    existing_post = false
+    posts.each do |p|
+      if p['url'] and p['url'] == post['url']
+        existing_post = true
+      end
+    end
+    posts.push(post) if existing_post == false
   end
 
   # Build Jekyll Front Matter
@@ -60,8 +81,5 @@ if !File.exist? news_filename
   File.open(news_filename, 'w+') do |file|
     file.puts front_matter.to_yaml
     file.puts "---"
+    file.puts content
   end
-
-else
-  puts "Nothing todo. We've already processed: " + as_of_date + "."
-end
