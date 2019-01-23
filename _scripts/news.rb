@@ -4,6 +4,9 @@ require 'json'
 require 'news-api'
 require 'yaml'
 
+require_relative('_get_crossfit')
+require_relative('_get_fitness')
+
 puts "news.rb"
 
 # Date to process?
@@ -37,49 +40,19 @@ else
   content = ''
 end
 
-  # News API
-  newsapi = News.new(ENV['NEWSAPI_KEY'])
+posts = get_crossfit(as_of_date,posts)
+posts = get_fitness(as_of_date,posts)
 
-  # News Articles
-  articles = newsapi.get_everything(
-    q: 'crossfit',
-    from: as_of_date,
-    to: as_of_date,
-    language: 'en',
-    sortBy: 'popularity',
-    page: 1,
-    pageSize: 100
-  )
 
-  # Reformat Article Data
-  articles.each do |article|
-    post = {
-      'title' => article.title,
-      'url' => article.url,
-      'image' => article.urlToImage,
-      'source' => article.name,
-      'description' => ''
-    }
-    post['description'] = article.description.gsub(/\r/," ").gsub(/\n/," ") if article.description
-    # Determine if we've already seen this news article
-    existing_post = false
-    posts.each do |p|
-      if p['url'] and p['url'] == post['url']
-        existing_post = true
-      end
-    end
-    posts.push(post) if existing_post == false
-  end
+# Build Jekyll Front Matter
+front_matter = {
+  'layout' => 'post',
+  'posts' => posts
+}
 
-  # Build Jekyll Front Matter
-  front_matter = {
-    'layout' => 'post',
-    'posts' => posts
-  }
-
-  # Build Jekyll page
-  File.open(news_filename, 'w+') do |file|
-    file.puts front_matter.to_yaml
-    file.puts "---"
-    file.puts content
-  end
+# Build Jekyll page
+File.open(news_filename, 'w+') do |file|
+  file.puts front_matter.to_yaml
+  file.puts "---"
+  file.puts content
+end
