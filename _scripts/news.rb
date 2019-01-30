@@ -47,7 +47,7 @@ posts = get_fitness(as_of_date,posts)
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',
-  'posts' => posts
+  'posts' => posts.first(13)
 }
 
 # Build Jekyll page
