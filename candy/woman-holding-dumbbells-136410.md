@@ -8,9 +8,7 @@ pages:
 - https://www.stockvault.net/free-photos/gym
 - http://www.fulfillmentdaily.com/the-research-backed-case-for-why-physical-fitness-doesnt-confer-well-being/
 - https://garagegympower.com/home-gym-mirrors/
-- https://pxhere.com/en/photo/916700
 - http://www.pivotalfitness.com/blog/
-- https://pxhere.com/en/photo/874404
 - http://www.xiscogaya.com/category/fitness/
 - https://www.kisscc0.com/photo/exercise-headphones-physical-fitness-fitness-centr-fmz3yn/
 - https://mcclurefitness.com/story/for-the-love-of-strength-training/

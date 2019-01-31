@@ -16,7 +16,6 @@ pages:
 - https://www.miamitotalfitness.com/
 - https://everybodyfights.com/blog/psfitness-3
 - http://checkbiotech.org/near-me/diet-and-exercise-to-reduce-cellulite/
-- https://pxhere.com/en/photo/1551623
 - https://www.miamitotalfitness.com/author/samantha/
 - https://brazilianlux.com/2018/08/10/how-to-lose-30-kg-in-1-month/
 ---

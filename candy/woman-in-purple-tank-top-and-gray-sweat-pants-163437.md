@@ -8,7 +8,6 @@ pages:
 - http://www.limitlesschiro.com/events/corecamp
 - https://shericolberg.wordpress.com/2018/02/23/get-off-the-couch-and-work-your-core/
 - https://businessethicsalliance.org/our-events/2018/ethics-on-tap-ethics-yoga
-- https://www.amazon.com/880ML-Diffusers-Essential-Oils-Large/dp/B078TMJ91Q
 - https://www.proozy.com/blogs/journal/a-flat-belly-or-a-strong-core-how-yoga-develops-core-muscles
 - https://shericolberg.wordpress.com/page/2/
 - https://shericolberg.wordpress.com/category/health-benefits/

@@ -5,7 +5,6 @@ source: https://www.pexels.com/photo/photo-of-shirtless-man-with-tattoo-1591988/
 pages:
 - https://www.theychromosome.com/exercise-order/
 - https://dailybodyweightexercises.com/
-- https://pxhere.com/en/photo/1552255
 - http://www.german-freakz.net/category/fitness/
 - http://www.dailyfitnessexercise.com/about/
 - https://twitter.com/search/%23liftingweights

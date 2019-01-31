@@ -3,8 +3,6 @@ layout: stock
 slug: photo-of-a-woman-lifting-a-barbell--1566414
 source: https://www.pexels.com/photo/photo-of-a-woman-lifting-a-barbell--1566414/
 pages:
-- https://pxhere.com/en/photo/1568445
-- https://pxhere.com/en/photo/1548941
 - http://theathletedaily.com/why-winning-the-whiteboard-is-wrecking-your-life/
 - https://giftedperformance.com/
 - https://sometag.org/account/vianna1117/6199197411/?hl=ja

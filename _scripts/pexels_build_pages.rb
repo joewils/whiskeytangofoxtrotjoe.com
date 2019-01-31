@@ -45,7 +45,15 @@ ignore = [
   'iconscout.com',
   'nicepik.com',
   'redwallpapers.com',
-  'pixabay.com'
+  'pixabay.com',
+  'publicdomainpictures.net',
+  'freepik.com',
+  'peakpx.com',
+  'pxhere.com',
+  'pictame.com',
+  'amazon.com',
+  'maxpixel.com',
+  'picnoi.com'
 ]
 
 photos.each_with_index do |photo,idx|

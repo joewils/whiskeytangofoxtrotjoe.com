@@ -12,7 +12,6 @@ pages:
 - https://www.pittsburghfitnessproject.com/category/fitness/
 - https://www.performanceptri.com/blog
 - https://www.pittsburghfitnessproject.com/category/fitness-series/
-- https://pxhere.com/en/photo/1542863
 - https://www.pittsburghfitnessproject.com/posts/
 - https://www.pittsburghfitnessproject.com/fitness-apps/
 - https://twitter.com/profitnesssupp?lang=en

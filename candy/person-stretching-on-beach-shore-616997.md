@@ -7,8 +7,6 @@ pages:
 - https://rebelhealthtribe.com/blog/movement-exercise-training-recovery/
 - http://www.projetojade.com/tag/exercise/
 - http://www.projetojade.com/exercise-and-ease-stress/
-- https://pxhere.com/en/photo/1568551
-- https://pxhere.com/en/photo/1565015
 - http://www.enaromatic.org/how-to-cleanse-your-body-efficiently/
 - https://www.betterhelp.com/advice/anxiety/stress-and-anxiety-management-techniques/
 - http://www.enaromatic.org/

@@ -18,7 +18,6 @@ pages:
 - https://shapescale.com/blog/fitness-gear/tonal-review-is-it-as-intelligent-as-they-say/
 - http://hqfit.com/
 - https://www.homesteadfitness.com/
-- https://pxhere.com/en/photo/1564101
 - https://www.fitnessgroom.com/exercises-for-bad-posture/
 - http://www.thepathmag.com/how-to-meditate-and-lift-weights-at-the-same-time/
 - http://gymexercisetips.com/index.php/2018/06/

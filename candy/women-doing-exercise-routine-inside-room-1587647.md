@@ -11,7 +11,6 @@ pages:
 - https://www.lannaretreats.com/products/4d3n-pilates-retreat
 - https://soccer-brossard.com/the-benefits-of-clinical-pilates/
 - http://www.pattyj.com/full-blog/2018/12/14/qir5wzb1atj7an45nozd19476vbo19
-- https://pxhere.com/en/photo/1551387
 - https://www.tobyspublichouse.com/page/2/
 - https://www.tobyspublichouse.com/
 - https://bietika.com/beginneru0027s/beginneru0027s-guide-to-pilates.html

@@ -3,11 +3,7 @@ layout: stock
 slug: man-in-black-shorts-carrying-adjustable-barbells-116077
 source: https://www.pexels.com/photo/man-in-black-shorts-carrying-adjustable-barbells-116077/
 pages:
-- https://pxhere.com/en/photo/1366503
-- https://pxhere.com/en/photo/1366499
-- https://pxhere.com/en/photo/1366500
 - http://www.tokkoro.com/3063801-active_adult_athlete_barbell_body_bodybuilding_brawny_effort_exercise_fitness_gym_muscles_person_sport_strength_strong_training_weight_weightlifting_weights_woman.html
-- https://pxhere.com/en/photo/915257
 - http://www.tokkoro.com/3074358-dark_effort_exercise_fitness_gym_kettlebell_man_muscles_spotlight_strong_tattoos_training_weights_public-domain-images.html
 - http://www.tokkoro.com/3074357-barbell_bodybuilding_effort_exercise_fitness_gym_man_muscles_person_strong_training_weightlifting_weights.html
 - http://www.tokkoro.com/3074356-barbell_bodybuilding_effort_exercise_fitness_gym_man_muscles_person_strong_training_weightlifting.html

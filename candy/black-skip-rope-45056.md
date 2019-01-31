@@ -9,7 +9,6 @@ pages:
 - https://thepelvicexpert.com/blog/3-tips-stop-peeing-workouts-anywhere-else/
 - https://thegearhunt.com/best-jump-ropes-reviewed/
 - https://www.acaphealth.com/2017/07/jumping-rope-shockingly-good-workout/
-- https://www.publicdomainpictures.net/en/view-image.php?image=255284&picture=crossfit
 - https://boxingmojo.com/gear-reviews/best-skipping-ropes-for-boxing-mma/
 - http://www.roseforlove.com/menuso/dmnspyocpmfoxfzmbwj-m412047-kz/
 ---

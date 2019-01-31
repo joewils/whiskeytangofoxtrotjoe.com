@@ -18,6 +18,5 @@ pages:
 - https://medium.com/wharton-digital-health/in-the-future-insurance-companies-may-keep-us-healthy-part-1-9ce2d89eb160
 - http://www.easternoklahomachiropractic.com/chiro-u/
 - http://www.tokkoro.com/3079835-athlete_biceps_blonde_bodybuilder_dark_exercise_fit_fitness_healthy_model_muscles_person_sexy_sportswear_strong_trainer_woman_workout-gear.html
-- https://pxhere.com/en/photo/780570
 - http://annethelistener.com/human-development-questionnaire/
 ---

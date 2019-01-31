@@ -6,7 +6,6 @@ pages:
 - http://famyoga.com/bio-coffee-shop/?lang=en
 - https://www.drippedcoffee.com/best-coffee-mugs/
 - https://homus.org/how-to-use-keurig/
-- https://www.amazon.com/Modest-Earth-Cleansing-Detoxifying-Antioxidant/dp/B07C726Y18
 - https://www.drinkcoolstore.com/
 - https://www.lovebugprobiotics.com/how-to-stop-sugar-cravings/
 - https://ideapod.com/author/tinafey/

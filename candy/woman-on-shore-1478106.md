@@ -3,7 +3,6 @@ layout: stock
 slug: woman-on-shore-1478106
 source: https://www.pexels.com/photo/woman-on-shore-1478106/
 pages:
-- https://www.freepik.com/free-photo/sport-woman-beach_932580.htm
 - https://www.picswe.com/pics/sport-woman-18.html
 - https://www.picswe.com/pics/woman-sport-6c.html
 - http://www.hlskc.com/sportwoman22835iixawrny/

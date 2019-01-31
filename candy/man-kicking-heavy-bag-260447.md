@@ -9,7 +9,6 @@ pages:
 - https://www.artofwarmmastore.com/collections/punching-bags/on-sale-now
 - https://www.fullcontactway.com/best-boxing-bags/
 - https://www.fullcontactway.com/category/product-reviews/bags/
-- http://www.peakpx.com/554170/punching-bag-grayscale-photo
 - http://joegreenaway.com/punching-bags-gyms/
 - http://www.fullcontactway.com/author/admin/page/5/
 - http://gangulyengineering.com/title-vs-fighting-sports-speed-bags/

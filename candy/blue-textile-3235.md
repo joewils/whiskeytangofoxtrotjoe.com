@@ -6,8 +6,6 @@ pages:
 - https://visualhunt.com/photos/fitness/
 - http://pureimg.com/photo/1895/sports-sport-fitness-workout
 - https://cityfitgirls.com/blog/free-workouts-in-chicago
-- https://pxhere.com/en/photo/105839
-- https://pxhere.com/en/photo/976113
 - https://thebeatfitness.net/studio-rental
 - https://cityfitgirls.com/blog/2016/01/28/chicago-aerial-fitness
 - https://www.workoutweeklosangeles.com/events/

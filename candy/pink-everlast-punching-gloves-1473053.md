@@ -3,8 +3,6 @@ layout: stock
 slug: pink-everlast-punching-gloves-1473053
 source: https://www.pexels.com/photo/pink-everlast-punching-gloves-1473053/
 pages:
-- https://pxhere.com/en/photo/1541015
-- https://pxhere.com/en/photo/1540997
 - https://shoutforwisdom.com/everything-you-need-to-know-about-vitamin-a-benefits
 - https://thriveglobal.com/authors/marcelle-yeager/
 - https://thriveglobal.com/stories/the-worst-and-most-common-work-habit/

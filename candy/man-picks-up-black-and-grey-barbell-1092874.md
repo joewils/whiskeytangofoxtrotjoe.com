@@ -5,9 +5,7 @@ source: https://www.pexels.com/photo/man-picks-up-black-and-grey-barbell-1092874
 pages:
 - https://www.vivotion.com/blog/exercise/
 - https://www.vivotion.com/blog/
-- https://pxhere.com/en/photo/1564101
 - https://garagegympower.com/fitness-upgrade-program-for-beginners/
-- https://pxhere.com/en/photo/1528275
 - https://www.theladders.com/career-advice/weightlifting-less-than-an-hour-per-week-could-increase-your-longevity/
 - https://www.theladders.com/career-advice/tag/workouts/
 - https://garagegympower.com/how-to-get-abs-home-workout/

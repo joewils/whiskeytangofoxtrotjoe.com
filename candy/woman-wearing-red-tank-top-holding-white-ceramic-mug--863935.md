@@ -9,7 +9,5 @@ pages:
 - https://www.slimlookidea.com/
 - https://www.rachaelattard.com/health-benefits-of-matcha-tea/
 - http://www.savourygrounds.com/reasons-why-you-should-drink-coffee-every-day/
-- https://www.amazon.com/Schaffhauser-Ultra-Premium-Smoothness-Count-Single-Compatible/dp/B0794PDQGK
 - https://bunnyears.com/eye-contact-groupon-pilates-class-courtney-paige-barnett/
-- https://www.amazon.com/Schaffhauser-Ultra-Premium-Smoothness-Count-Single-Compatible/dp/B07HNNXVFR
 ---

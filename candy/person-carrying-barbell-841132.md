@@ -3,7 +3,6 @@ layout: stock
 slug: person-carrying-barbell-841132
 source: https://www.pexels.com/photo/person-carrying-barbell-841132/
 pages:
-- https://pxhere.com/en/photo/1568445
 - https://plixs.com/pictures/equipment
 - https://plixs.com/pictures/gym
 - https://plixs.com/pictures/sports

@@ -3,10 +3,8 @@ layout: stock
 slug: blue-and-red-superman-print-tank-top-shirt-38630
 source: https://www.pexels.com/photo/blue-and-red-superman-print-tank-top-shirt-38630/
 pages:
-- https://pxhere.com/en/photo/922091
 - http://freakonomics.com/feature/launch-behavior-change-revolution/bodybuilder-weight-training-stress-38630/
 - https://pngtree.com/freebackground/bodybuilder-weight-training-stress_961661.html
-- https://pxhere.com/en/photo/755456
 - http://www.moguard.com/missouri-fit-p/bodybuilder-646482_1920/
 - https://www.theoceangallery.com/st-augustine-gyms/bodybuilder-weight-training-stress-38630/
 - https://www.goodfreephotos.com/people/body-builder-wearing-superman-shirt.jpg.php

@@ -3,7 +3,6 @@ layout: stock
 slug: gray-dumbbell-beside-wall-669578
 source: https://www.pexels.com/photo/gray-dumbbell-beside-wall-669578/
 pages:
-- https://www.amazon.com/Habit-Nest-Weightlifting-Personal-Training/dp/B07MSDH988
 - https://carwad.net/free-fitness-images
 - https://www.yourfuturefitness.com/services/
 - https://getfittokick.com/

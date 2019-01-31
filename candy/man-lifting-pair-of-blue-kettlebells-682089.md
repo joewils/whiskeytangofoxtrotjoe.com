@@ -8,7 +8,6 @@ pages:
 - https://www.youtube.com/watch?v=cniX-OxdUHs
 - https://www.youtube.com/watch?v=ApbEAUy2Tbo
 - https://www.vivotion.com/blog/kettlebell-workout-10-exercises/
-- https://www.amazon.com/Taco-Fleur/e/B01D9SPH02
 - https://www.cavemantraining.com/cavemantraining/kettlebell-clean-secret-technique/
 - https://www.cavemantraining.com/caveman-kettlebells/kettlebell-grips/
 - https://www.goodreads.com/book/show/39334491-kettlebell-workouts-and-challenges-1-0
@@ -17,7 +16,6 @@ pages:
 - https://www.cavemantraining.com/unconventional/on-the-mountain-with-kettlebell-got-a-heart-attack/
 - https://fightingreport.com/best-kettlebells-reviewed/
 - https://www.cavemantraining.com/cavemantraining/training-overhead-mobility-strength/
-- https://www.amazon.com/Taco-Fleur/e/B01D9SPH02&ref_=fsclp_pl_s_9
 - http://silverwolfnutrition.com/kettlebell-sit-up/
 - https://thislifetoday.com/2018/08/15/double-trouble10-kettlebell-workouts-to-get-you-lean-and-mean/
 - https://depositphotos.com/stock-photos/taco-fleur.html

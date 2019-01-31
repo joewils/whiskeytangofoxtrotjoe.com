@@ -4,7 +4,6 @@ slug: two-2-kg-blue-hex-dumbbells-on-white-surface-39671
 source: https://www.pexels.com/photo/two-2-kg-blue-hex-dumbbells-on-white-surface-39671/
 pages:
 - https://www.banleaco.com/financing-101/equipment-financed/physical-therapy
-- https://pxhere.com/en/photo/763710
 - https://www.digitaltrends.com/dtdeals/fitness-deals-space-saving-equipment/
 - https://www.workingtonacademy.org/community/physiotherapy-weight-training-dumbbell-exercise-balls-39671/
 - https://www.ptinplace.com/physical-therapy-fitness-training/

@@ -9,7 +9,6 @@ pages:
 - https://gofitorigin.com/10-benefits-of-swimming-for-health-and-fitness/
 - https://justfitnessmarketing.com/category/just-fitness-enthusiasts/
 - https://undergroundathlete.com/category/fitness-wellness/
-- https://www.amazon.com/Vikingstrength-Occlusion-Resistance-Training-Bodybuilding/dp/B07HLQL6BH
 - https://expertfitnesssupply.com/category/fitness-tips/
 - https://expertfitnesssupply.com/make-fitness-a-priority-in-2019/
 - https://www.muscleandstrength.com/authors/josh-england

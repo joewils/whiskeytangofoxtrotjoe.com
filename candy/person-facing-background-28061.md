@@ -16,5 +16,4 @@ pages:
 - https://contestdomination.com/fitness-contest-blueprint/
 - https://carwad.net/royalty-free-fitness-images
 - https://www.trifectanutrition.com/home-workouts-5-days-week/
-- https://pxhere.com/en/photo/11583
 ---

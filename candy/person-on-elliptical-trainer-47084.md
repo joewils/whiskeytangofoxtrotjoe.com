@@ -13,7 +13,6 @@ pages:
 - https://www.vwthemes.net/vw-fitness-theme/2/
 - https://iusd.org/about/departments/education-services/health-advisory-committee
 - https://www.studyfinds.org/seniors-who-have-sex-regularly-are-more-content-in-their-lives/
-- https://www.amazon.com/GSM-Brands-Treadmill-Belt-Lubricant/dp/B07GGD7W3M
 - https://www.projecthood.org/news/
 - https://www.projecthood.org/
 - https://www.projecthood.org/news/weight-loss-challenge

@@ -5,9 +5,7 @@ source: https://www.pexels.com/photo/woman-wearing-black-sports-bra-and-shorts-w
 pages:
 - https://www.wishpond.com/marketing-campaigns/fitness-health/6-week-challenge/
 - https://www.wishpond.com/marketing-campaigns/fitness-health/
-- https://www.amazon.com/Mighty-X-Athletic-Tape-PreWrap-Climbing/dp/B07BHN9TFY
 - https://www.roxstarfitness.com/get-off-plateau-now/
-- https://www.amazon.com/Desiree-Storm/e/B07DRXL1P4
 - https://energie4.com/resources/
 - https://mindyourdamnfitness.com/at-home-hiit-workout/
 - https://thecrueltyfreeface.com/what-are-the-health-benefits-of-drinking-water

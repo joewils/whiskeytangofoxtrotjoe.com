@@ -3,7 +3,6 @@ layout: stock
 slug: photo-of-man-holding-barbell-812745
 source: https://www.pexels.com/photo/photo-of-man-holding-barbell-812745/
 pages:
-- https://pxhere.com/en/photo/1511603
 - https://submittostraightmen.com/2018/10/10/serving-real-men/
 - https://karimills.com/
 - https://ath7etic.com/

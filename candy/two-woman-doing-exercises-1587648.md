@@ -17,6 +17,5 @@ pages:
 - https://focus-training.com/courses/
 - https://sleeknskinny.com/index.php/category/exercise/
 - https://www.thehealth4you.com/what-are-the-benefits-of-cardio-exercise/
-- https://pxhere.com/en/photo/1560245
 - https://www.pilatesplatinum.com/how-pilates-will-help-you-stay-on-track-with-your-new-years-resolution/
 ---

@@ -17,6 +17,5 @@ pages:
 - https://tt.linkedin.com/pub/john-morgan/5/19a/906?trk=seokp-post-author-name
 - https://www.mistamatcha.com/blogs/the-matcha-scoop/113106758-4-ways-to-boost-your-workout-with-matcha
 - https://bo.linkedin.com/pub/john-morgan/5/19a/906?trk=seokp-post-author-image
-- http://www.peakpx.com/588314/red-and-white-training-shoes
 - http://www.davidjaggslibrary.org/#!/browse/113
 ---

@@ -12,8 +12,6 @@ pages:
 - https://www.focusfitness.net/stock-photos/downloads/juicy-slice-watermelon-fruit/
 - http://freeticketmall.com/product/watermelon-small/
 - https://taftstreetwinery.com/mikes-kitchen/page/4/
-- https://pxhere.com/en/photo/565126
-- https://pxhere.com/en/photo/565127
 - https://www.maxpixel.net/Fruit-Healthy-Watermelon-Yellow-Food-Nutrition-1543257
 - https://isorepublic.com/media-category/food/page/16/
 - https://taftstreetwinery.com/2017/08/watermelon-feta-mint-salad/pexels-photo-260426/

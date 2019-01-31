@@ -3,7 +3,6 @@ layout: stock
 slug: time-lapse-photo-of-man-riding-on-bicycle-733748
 source: https://www.pexels.com/photo/time-lapse-photo-of-man-riding-on-bicycle-733748/
 pages:
-- https://pxhere.com/en/photo/1507941
 - https://www.pickpik.com/bike-riding-fast-moving-bike-motion-cycle-bicycle-55544
 - https://www.pickpik.com/bike-blur-cars-city-cyclist-road-147367
 - https://www.bikingpassion.com/top-7-best-mountain-bike-brands/

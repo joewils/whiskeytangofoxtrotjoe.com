@@ -16,6 +16,5 @@ pages:
 - https://www.pinterest.com/pin/640848221953704991/
 - https://www.thesilverspurresort.com/blog/
 - https://www.pinterest.com/pin/684124999621513706/
-- http://www.pictame.com/tag/RushFitness
 - http://www.dundeehawks.com/images/stories/White_Tops__Race_results_sheet.pdf
 ---

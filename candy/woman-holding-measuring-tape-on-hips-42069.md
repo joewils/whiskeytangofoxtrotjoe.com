@@ -3,8 +3,6 @@ layout: stock
 slug: woman-holding-measuring-tape-on-hips-42069
 source: https://www.pexels.com/photo/woman-holding-measuring-tape-on-hips-42069/
 pages:
-- https://pxhere.com/en/photo/1159455
-- https://pxhere.com/en/photo/916990
 - https://www.zonehealthandfitness.com/how-weight-loss-impacts-your-body/
 - https://medium.com/@julianhierro/how-to-lose-10-12-pounds-of-fat-in-4-weeks-e0b3bb0c2cf5
 - https://drannwellness.com/lose-a-little-to-gain-a-lot/

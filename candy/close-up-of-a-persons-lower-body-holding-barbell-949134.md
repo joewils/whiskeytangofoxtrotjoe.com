@@ -5,9 +5,6 @@ source: https://www.pexels.com/photo/close-up-of-a-persons-lower-body-holding-ba
 pages:
 - https://www.americangrit.com/2018/11/28/exercise-the-right-way/
 - http://seniorfitblog.com/exercise-tips-for-senior-citizens/
-- https://pxhere.com/en/photo/1531255
-- https://pxhere.com/en/photo/1552879
-- https://pxhere.com/en/photo/1520999
 - https://barbend.com/category/powerlifting/page/3/
 - https://barbend.com/category/nutrition/nutrition-editors-picks/
 - https://barbend.com/category/nutrition/fat-loss/

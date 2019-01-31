@@ -4,7 +4,6 @@ slug: woman-riding-red-mountain-bike-on-asphalt-road-1277031
 source: https://www.pexels.com/photo/woman-riding-red-mountain-bike-on-asphalt-road-1277031/
 pages:
 - http://www.velocrushindia.com/page/17/?m=0
-- https://pxhere.com/en/photo/1523837
 - https://www.thunderheadalliance.org/best-womens-bike-helmets-reviews/
 - https://www.velocrushindia.com/page/17/
 - https://www.thunderheadalliance.org/page/14/

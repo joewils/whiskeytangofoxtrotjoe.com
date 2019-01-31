@@ -3,7 +3,6 @@ layout: stock
 slug: rear-view-of-woman-247361
 source: https://www.pexels.com/photo/rear-view-of-woman-247361/
 pages:
-- https://pxhere.com/en/photo/1271222
 - https://www.fivestargulfrentals.com/blog/making-use-of-your-time-in-destin-florida/woman-1822437_1920/
 - http://www.lovingbeaches.com/summer-back-excited/
 - https://www.fivestargulfrentals.com/blog/destin-florida-the-perfect-vacation-spot/
@@ -11,7 +10,6 @@ pages:
 - https://thezanylady.com/2017/06/12/lift-your-spirits-without-resorting-to-drugs/
 - https://www.flickr.com/photos/141436406@N04/29027828457
 - https://www.fivestargulfrentals.com/blog/category/activities/page/8/
-- https://www.freepik.com/free-photos-vectors/worship-arms
 - https://www.inforeckon.com/best-dresses-to-wear-on-goa-beaches/
 - https://plixs.com/photo/2779/woman-adult-freedom-vacation
 - http://www.brockvillemedispa.com/perfect-summertime-treatments/adult-beach-enjoyment-247361-1/

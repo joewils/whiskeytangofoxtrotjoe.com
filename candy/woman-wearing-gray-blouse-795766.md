@@ -3,8 +3,6 @@ layout: stock
 slug: woman-wearing-gray-blouse-795766
 source: https://www.pexels.com/photo/woman-wearing-gray-blouse-795766/
 pages:
-- https://pxhere.com/en/photo/1565393
-- https://pxhere.com/en/photo/1530059
 - https://www.studiopilates.com/education/education-blog/
 - https://www.studiopilates.com/education/lordic-posture-what-you-need-to-know/
 - https://www.picturesboss.com/pictures/fashion-studio-white-model-pretty-fa.html

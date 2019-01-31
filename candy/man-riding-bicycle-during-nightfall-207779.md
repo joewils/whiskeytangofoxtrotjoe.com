@@ -7,7 +7,6 @@ pages:
 - https://splashyventures.com/bikes-gulfport-and-treasure-island/
 - https://www.biketourvacations.com/how-cycling-over-50-can-benefit-your-lifestyle/
 - http://www.tokkoro.com/3105780-activity_bicycle_bike-ride_biking_cyclist_exercise_fitness_nature_outdoors_people_summer_sunset.html
-- https://pxhere.com/en/photo/424065
 - http://bicycleadventures.com/blog/category/bicycle-adventures/page/3/
 - https://www.briarchapelnc.com/whats-happening/blog/posts-by-date/2017/may/the-night-riders/
 - https://funattic.com/best-mountain-bike/

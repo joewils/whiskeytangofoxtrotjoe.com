@@ -4,8 +4,6 @@ slug: woman-in-white-jacket-holding-silver-iphone-196654
 source: https://www.pexels.com/photo/woman-in-white-jacket-holding-silver-iphone-196654/
 pages:
 - https://whytheluckystiff.net/iphone-8-unlock/
-- https://pxhere.com/en/photo/1364544
-- https://pxhere.com/en/photo/923947
 - https://www.classycareergirl.com/2016/12/fitness-busy-schedule/
 - http://www.tokkoro.com/3094824-blonde-hair_blur_cellphone_close-up_depth-of-field_focus_hands_jacket_nails_smartphone_steel-railing_wear.html
 - https://whytheluckystiff.net/buy-used-iphone-safely/

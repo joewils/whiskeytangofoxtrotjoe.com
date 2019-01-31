@@ -7,7 +7,6 @@ pages:
 - http://addicttofit.com/category/exercise/
 - http://addicttofit.com/top-3-exercises-to-build-strength/
 - http://addicttofit.com/how-to-bench-press/
-- https://pxhere.com/en/photo/1552535
 - http://addicttofit.com/
 - https://garagegympower.com/best-fitness-watch-for-crossfit/
 - https://ptaaron.com/

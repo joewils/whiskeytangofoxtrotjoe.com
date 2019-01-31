@@ -8,7 +8,4 @@ pages:
 - https://momentummag.com/5-bicycle-parts-maintain/
 - https://momentummag.com/how-to-fly-with-your-bike/
 - http://worthexperience.com/?tour=bicycle-tour
-- https://www.freepik.com/free-icon/mountain-cycling_732997.htm
-- https://www.freepik.com/free-icon/mountain-cycling-cyclist-silhouette_729442.htm
-- https://www.freepik.com/free-icon/cyclist-helmet_703042.htm
 ---

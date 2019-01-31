@@ -7,7 +7,6 @@ pages:
 - https://www.fitness19.com/purpose-of-workout-clothing-and-how-to-pick-the-right-one-for-you/
 - https://www.fitness19.com/the-best-ways-to-bundle-up-and-stay-warm-for-winter-workouts/
 - https://www.fitness19.com/great-holiday-gifts-for-fitness/
-- https://pxhere.com/en/photo/1497087
 - https://www.falloutfitness.com/list-of-compound-exercises-muscle-building/bodybuilding-exercise/
 - https://liftingfreak.com/cardio-after-leg-day/
 - http://www.cintobusquet.com/fitness-training-programs-how-personal-training-programs-get-you-on-track-to-your-goals/

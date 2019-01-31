@@ -9,5 +9,4 @@ pages:
 - https://www.pinterest.com/Lenora691/female-fitness-quotes/
 - http://studioyogamilano.com/private-lessons.html
 - https://www.eyeem.com/a/1850665?page=2
-- https://www.amazon.com/APOLLO-WALKER-Extra-Travel-Duffle/dp/B07DXQCD6M
 ---

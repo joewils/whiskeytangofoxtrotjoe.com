@@ -8,7 +8,6 @@ pages:
 - https://www.fitbuff.com/lunges-exercise/
 - https://vitals.lifehacker.com/why-you-should-try-single-leg-deadlifts-1829863791
 - https://www.bidvine.com/blog/best-home-gym-equipment/
-- https://pxhere.com/en/photo/1517707
 - http://www.mystrengthtraining.com/isolation-lifts/shrugs/
 - https://healthcare18.com/bodyweight-anywhere/
 - https://www.ebates.com/blog/quick-workouts-that-keep-you-out-of-the-gym/

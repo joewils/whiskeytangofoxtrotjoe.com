@@ -3,7 +3,6 @@ layout: stock
 slug: man-holding-rope-on-both-hands-1406356
 source: https://www.pexels.com/photo/man-holding-rope-on-both-hands-1406356/
 pages:
-- https://www.amazon.com/Supplement-Standard-Vitality-Beta-Hydroxybutyrate-Exogenous/dp/B07HDGLVY6
 - https://cannabismd.com/health/hypertension/cbd-hypertension-can-replace-blood-pressure-medication/
 - https://backinactionmedical.com/chiropractic/disc-want-know/
 - https://backinactionmedical.com/chiropractic/sinus-troubles-snot-think/

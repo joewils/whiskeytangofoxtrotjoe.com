@@ -6,7 +6,6 @@ pages:
 - http://www.tokkoro.com/3059075-adult_arm_art_background_biceps_board_body_chalk_disappointed_disappointment_drawing_dream_fashion_fitness_graffiti_hood_indoors_male_man_model_muscles_person_pose_wear_public-domain-images.html
 - https://griffinpauljackson.com/2018/03/01/disappointment-underlying-emotion-culture/
 - https://entrepreneurs.maqtoob.com/the-disappointment-son-d0a64a6a7edd
-- https://pxhere.com/en/photo/1190930
 - http://www.tokkoro.com/3012872-art_cars_graffiti_man_person_public-domain-images.html
 - https://artashealing.com/why-do-we-feel-tired/
 - http://romawaterman.com/dealing-with-disappointment-rejection/

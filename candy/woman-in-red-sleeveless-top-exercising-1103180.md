@@ -14,7 +14,6 @@ pages:
 - http://www.llpts.com/
 - https://theendivechronicles.com/redit-nfl-streams.html
 - https://bracketsmackdown.com/redit-nfl-streams.html
-- https://pxhere.com/en/photo/1510907
 - https://arukahrehaboccupationaltherapy.com/tag/excercises/
 - https://arukahrehaboccupationaltherapy.com/tag/active-rehab/
 - https://arukahrehaboccupationaltherapy.com/category/uncategorized/page/2/

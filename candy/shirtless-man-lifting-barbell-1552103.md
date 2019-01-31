@@ -5,7 +5,6 @@ source: https://www.pexels.com/photo/shirtless-man-lifting-barbell-1552103/
 pages:
 - https://5am-success.com/weight-training-for-weight-loss-or-cardio-exercises-for-weight-loss/
 - https://www.pinterest.com/jamiuno/get-swole/
-- https://pxhere.com/en/photo/1552255
 - https://fitnesshunger.com/category/workout/
 - https://5am-success.com/
 - https://5am-success.com/tag/sore-muscles/

@@ -6,7 +6,6 @@ pages:
 - https://www.vivotion.com/blog/full-body-chair-exercise/
 - https://www.vivotion.com/blog/exercise/page/12/
 - https://www.vivotion.com/blog/5-easy-ways-exercise/
-- https://pxhere.com/en/photo/1498071
 - https://www.alldayhealthandfitness.com/benefits-using-exercise-bands/
 - https://www.alldayhealthandfitness.com/roman-chair-hyperextension-exercise-important/
 - https://www.bpi-philam.com/en/key-moments/building-my-wealth/5-ways-to-replace-your-gym-while-traveling.html

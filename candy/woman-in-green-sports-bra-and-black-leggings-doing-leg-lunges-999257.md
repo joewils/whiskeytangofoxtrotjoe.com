@@ -19,6 +19,5 @@ pages:
 - https://tubehealthy.com/safe-sports-tips-for-scoliosis-patients/
 - https://www.pkfitness.com/
 - https://gethealthaccess.com/75-minutes-a-week-or-15-minutes-of-intense-exercise-a-day-keeps-the-doctor-away/
-- https://pxhere.com/en/photo/1536193
 - https://www.yahoo.com/lifestyle/best-worst-exercises-losing-weight-095603538.html
 ---

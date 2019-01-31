@@ -7,8 +7,6 @@ pages:
 - http://www.tokkoro.com/3050763-athletes_athletics_black-and-white_competition_course_fitness_lane_monochrome_people_players_run_runners_running_running-shoes_shoes_sports_sprint_start_track_training.html
 - http://www.tokkoro.com/3015103-athletes_athletics_black-and-white_competition_fit_monochrome_people_race_run_running_sport_track_women.html
 - http://www.tokkoro.com/3071401-athletes_athletics_black-and-white_competition_fit_monochrome_people_race_run_running_sport_track_women.html
-- https://pxhere.com/en/photo/752204
-- https://pxhere.com/en/photo/933110
 - https://temporun-dpt.org/menaposts/2018/5/29/tibial-stress-fractures
 - http://www.tokkoro.com/3104657-athletes_fun-run_jogging_race_running_start_street-running_tartan-track.html
 - https://www.focusfitness.net/stock-photos/downloads/female-athletes-sprinting-relay-race-competition/

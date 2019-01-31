@@ -10,7 +10,6 @@ pages:
 - https://letsreachsuccess.com/ways-handle-change/
 - https://letsreachsuccess.com/2015/04/28/become-progress-fanatic/
 - https://www.pinterest.com/CorneliaC24/cnn-news/
-- http://www.pictame.com/tag/restingbarreface
 - https://letsreachsuccess.com/boost-your-energy-vitality/
 - https://www.pinterest.com/activnez/
 - https://www.nutrifyt.com/blog/post/5-principles-for-losing-fat/
