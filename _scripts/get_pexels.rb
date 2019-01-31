@@ -67,7 +67,7 @@ def get_pexels(page=1,image_data=[])
             bits = href.split('/')
             pexel_id = bits[4]
             # build slug from alt string
-            slug = alt.downcase.gsub(' ','-') + '-' + pexel_id
+            slug = alt.downcase.gsub(' ','-').gsub(',','').gsub("'",'').gsub('.','') + '-' + pexel_id
             # build source from slug
             source = 'https://www.pexels.com/photo/'+slug+'/'
             # get the image
@@ -103,7 +103,7 @@ def get_pexels(page=1,image_data=[])
 end
 
 data = []
-(1..23).each do |idx|
+(1..2).each do |idx|
     data = get_pexels(idx,data)
 end
 
