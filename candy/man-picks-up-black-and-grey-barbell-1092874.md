@@ -13,6 +13,5 @@ pages:
 - https://garagegympower.com/how-to-get-abs-home-workout/
 - https://www.fitnesstipsandnews.com/24-hour-fitness/24hr-fitness-made-possible/
 - https://garagegympower.com/lose-belly-fat/
-- https://www.stockfreeimages.com/p1/crossfit.html
 - https://garagegympower.com/tactile-stimulation-for-powerful-lifts/
 ---

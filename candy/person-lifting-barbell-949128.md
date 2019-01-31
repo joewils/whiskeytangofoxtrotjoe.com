@@ -4,7 +4,6 @@ slug: person-lifting-barbell-949128
 source: https://www.pexels.com/photo/person-lifting-barbell-949128/
 pages:
 - http://goldenapecrossfit.com/programs/golden-ape-barbell-club/
-- https://www.stockfreeimages.com/p1/barbell.html
 - https://garagegympower.com/do-squats-make-you-shorter/
 - https://pxhere.com/en/photo/1520203
 - https://iconscout.com/contributors/victor-freitas-20581

@@ -17,7 +17,6 @@ pages:
 - http://www.gymyarns.com/2018/12/26/the-deadlift-simplified/
 - https://fitnesshunger.com/category/workout/leg-workout/
 - http://www.gymyarns.com/category/exercise-technique/
-- https://www.stockfreeimages.com/p2/barbell.html
 - http://www.gymyarns.com/category/leg-day/
 - https://giftedperformance.com/
 - https://elitefitgoods.com/

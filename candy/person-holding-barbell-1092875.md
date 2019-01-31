@@ -3,7 +3,6 @@ layout: stock
 slug: person-holding-barbell-1092875
 source: https://www.pexels.com/photo/person-holding-barbell-1092875/
 pages:
-- https://www.stockfreeimages.com/p1/barbell.html
 - https://www.nicepik.com/man-holding-black-dumbbell-abs-adult-athlete-barbell-black-and-white-black-and-white-free-photo-1322443
 - https://pxhere.com/en/photo/1509693
 - https://pxhere.com/en/photo/1509691

@@ -7,7 +7,6 @@ pages:
 - https://betterhealthalaska.com/5-reasons-why-you-need-a-chiropractic-adjustment-and-massage-before-your-powerlifting-meet/
 - https://guyrazyphysiotherapist.com/blog-example/e4hx68y83yac5k3d5g9pelagbxwd88
 - https://spotmebro.com/compound-exercises-ultimate-guide/
-- https://www.stockfreeimages.com/p1/weightlifter.html
 - https://www.quora.com/How-do-I-improve-my-squat
 - https://remarkabletip.com/fitness-training-types/
 - https://thehomefitfreak.com/best-home-exercise-equipment/

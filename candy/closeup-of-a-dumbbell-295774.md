@@ -9,7 +9,6 @@ pages:
 - http://www.heandshefitness.com/2017/05/01/lat-pulldowns-with-bowflex-sunday-food-prep-couples-lateral-raises-he-and-she-fitness/
 - http://lokallifestyle.com/2017/03/22/5-resistance-band-leg-exercises/
 - http://www.ciibra.com/2017/11/27/gym-equipment/
-- https://www.stockfreeimages.com/p1/weight.html
 - http://www.vwthemes.net/vw-fitnesspro/gallery/
 - https://www.thefactoryelitefitness.com/join/
 - https://coachingwithdaphne.com/

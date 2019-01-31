@@ -3,7 +3,6 @@ layout: stock
 slug: man-splitting-on-tree-1346163
 source: https://www.pexels.com/photo/man-splitting-on-tree-1346163/
 pages:
-- https://www.stockfreeimages.com/p1/crossfit.html
 - https://www.pinterest.com/yogawithsamrat/yoga-balance-poses/
 - https://www.pinterest.com/mrsstarwalls/mind-gym/
 - https://www.pinterest.com/bogcsa08/gym-wear-for-women/

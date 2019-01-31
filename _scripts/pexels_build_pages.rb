@@ -39,7 +39,8 @@ ignore = [
   'everypixel.com',
   'canva.com',
   'unsplash.com',
-  'jooinn.com'
+  'jooinn.com',
+  'stockfreeimages.com'
 ]
 
 photos.each_with_index do |photo,idx|

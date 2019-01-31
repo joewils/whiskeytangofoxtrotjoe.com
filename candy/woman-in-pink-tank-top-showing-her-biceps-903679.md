@@ -3,7 +3,6 @@ layout: stock
 slug: woman-in-pink-tank-top-showing-her-biceps-903679
 source: https://www.pexels.com/photo/woman-in-pink-tank-top-showing-her-biceps-903679/
 pages:
-- https://www.stockfreeimages.com/p1/biceps.html
 - https://www.nicepik.com/search?q=muscles
 - https://www.nicepik.com/back-bodybuilding-exercise-fitness-girl-muscles-person-shoulders-sport-strong-woman-free-photo-1157033
 - https://www.nicepik.com/woman-lifting-barbell-athlete-body-bodybuilder-bodybuilding-dark-effort-exercise-fit-free-photo-1325368

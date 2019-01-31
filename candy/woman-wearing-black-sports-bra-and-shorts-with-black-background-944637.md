@@ -16,5 +16,4 @@ pages:
 - https://josephbuchman.com/craigslist-okc-ok/
 - https://www.pinterest.com/macaqueagain/high-intensity-interval-training/
 - https://www.pinterest.com/mindyourdamnfitness/hiit/
-- https://www.stockfreeimages.com/p1/wrestler.html
 ---
