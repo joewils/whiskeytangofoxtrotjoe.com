@@ -4,7 +4,6 @@ slug: woman-in-pink-top-and-black-shorts-lacing-her-shoes-on-sea-shore-634027
 source: https://www.pexels.com/photo/woman-in-pink-top-and-black-shorts-lacing-her-shoes-on-sea-shore-634027/
 pages:
 - https://www.picturesboss.com/pictures/skinny-photograph-tummy-picturesque-af.html
-- https://www.dreamstime.com/shoulder-girl-swimwear-water-public-domain-image-free-116733784
 - https://www.si.com/swimsuit/model/jessica-perez/2012/photos
 - https://www.bookculinaryvacations.com/news/increase-metabolism
 - https://exceedmasterclass.com/challenges-online-personal-trainers/

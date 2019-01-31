@@ -5,7 +5,6 @@ source: https://www.pexels.com/photo/focus-photography-of-barbell-949130/
 pages:
 - http://www.mixfitphoenix.com/category/excercise/
 - http://addicttofit.com/category/exercise/
-- https://iconscout.com/search?asset=photo&product_type=item&query=exercise&sort=popular
 - http://addicttofit.com/top-3-exercises-to-build-strength/
 - http://addicttofit.com/how-to-bench-press/
 - https://pxhere.com/en/photo/1552535

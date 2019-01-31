@@ -4,7 +4,6 @@ slug: woman-wearing-red-sports-bra-sitting-on-red-yoga-mat-863859
 source: https://www.pexels.com/photo/woman-wearing-red-sports-bra-sitting-on-red-yoga-mat-863859/
 pages:
 - https://www.behance.net/gallery/66315163/Yoga-Health-Woman-Stretching
-- https://www.dreamstime.com/woman-standing-pink-yoga-mat-stretching-public-domain-image-free-118598935
 - https://www.theyoganomads.com/how-to-successfully-market-your-yoga-retreat/
 - https://www.nicepik.com/young-woman-wearing-black-sports-bra-with-hands-behind-head-posing-in-gym-20-25-years-adult-free-photo-1347145
 - https://bunnyears.com/what-to-do-when-you-shit-your-pants-during-hot-yoga-by-toria-sheffield/

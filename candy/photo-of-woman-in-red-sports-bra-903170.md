@@ -14,6 +14,5 @@ pages:
 - https://www.pinterest.com/pin/796644621562715870/
 - https://www.nicepik.com/search?q=thinking+woman
 - https://www.pinterest.com/pin/246361042101304419/
-- https://www.dreamstime.com/photo-woman-red-sports-bra-public-domain-image-free-113036005
 - https://saveig.com/tags/lipoaspira%C3%A7%C3%A3o/
 ---

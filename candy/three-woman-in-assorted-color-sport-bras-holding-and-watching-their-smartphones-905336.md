@@ -4,7 +4,6 @@ slug: three-woman-in-assorted-color-sport-bras-holding-and-watching-their-smartp
 source: https://www.pexels.com/photo/three-woman-in-assorted-color-sport-bras-holding-and-watching-their-smartphones-905336/
 pages:
 - https://www.guarana-technologies.com/app-marketing/top-mobile-retention-strategies/
-- https://www.dreamstime.com/three-woman-assorted-color-sport-bras-holding-watching-their-smartphones-public-domain-image-free-111170117
 - https://hushed.com/use-cases/app-that-give-you-a-phone-number/
 - https://elev8onlinepersonaltraining.com/cell-phones-at-the-gym-a-rant/
 - https://dioxyme.com/best-womens-health-fitness-vloggers/

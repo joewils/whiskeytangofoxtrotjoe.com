@@ -17,6 +17,4 @@ pages:
 - https://twinhorsesaudiotherapy.com/download-brainwave-frequencies/
 - https://twinhorsesaudiotherapy.com/product-category/download_frequencies/
 - https://twinhorsesaudiotherapy.com/product/breast-augmentation-subliminal-recording-increase-your-breast-size/
-- https://www.dreamstime.com/man-barechestedness-sky-male-public-domain-image-free-112591333
-- https://www.dreamstime.com/man-smoking-sitting-stool-near-burning-wood-public-domain-image-free-126246206
 ---

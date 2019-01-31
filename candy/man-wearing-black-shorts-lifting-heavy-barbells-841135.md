@@ -3,10 +3,6 @@ layout: stock
 slug: man-wearing-black-shorts-lifting-heavy-barbells-841135
 source: https://www.pexels.com/photo/man-wearing-black-shorts-lifting-heavy-barbells-841135/
 pages:
-- https://iconscout.com/contributors/victor-freitas-20581
-- https://iconscout.com/photo/gray-and-black-barbell
-- https://iconscout.com/search?asset=photo&product_type=item&query=gym
-- https://iconscout.com/search?asset=photo&product_type=item&query=workout&sort=popular
 - https://plixs.com/pictures/gym
 - https://plixs.com/pictures/sports
 - https://www.redwallpapers.com/wallpaper/focus-photography-of-barbell-free-stock-photo-image-wallpaper
