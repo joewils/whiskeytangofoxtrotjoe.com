@@ -4,8 +4,6 @@ slug: woman-lying-on-floor-raising-her-feet-415212
 source: https://www.pexels.com/photo/woman-lying-on-floor-raising-her-feet-415212/
 pages:
 - https://isorepublic.com/photo/scorpion-dance/
-- https://pixabay.com/en/photos/dance/?pagi=2
-- https://pixabay.com/en/scorpion-girl-ankle-boots-heels-2278757/
 - http://www.tokkoro.com/3104654-dance_dancer_dancing_girl_performance_pole_pole-dancing_woman.html
 - https://www.maxpixel.net/Ankle-Boots-Girl-Corset-Dance-Heels-View-Scorpion-2278757
 - https://www.susangreenecopywriter.com/articles/copywriter-for-dance-studios.html

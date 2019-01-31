@@ -7,7 +7,6 @@ pages:
 - https://www.getfit21days.com/2018/01/15/aron-kleins-captivating-images-of-the-bulgarian-demon-chasers-2-2/
 - https://www.getfit21days.com/2018/01/15/aron-kleins-captivating-images-of-the-bulgarian-demon-chasers/
 - https://www.divineskincreations.com/is-this-the-secret-to-glowing-skin/
-- https://pixabay.com/en/photos/sport%20clothes/
 - https://www.getfit21days.com/blog-2/
 - https://healthfitnessgym.com/how-to-get-your-fitness-workout-in-the-summertime-heat/
 - https://www.getfit21days.com/tag/black/

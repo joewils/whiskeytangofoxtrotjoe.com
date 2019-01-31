@@ -4,7 +4,6 @@ slug: man-in-blue-shorts-carrying-brown-exercise-equipments-116079
 source: https://www.pexels.com/photo/man-in-blue-shorts-carrying-brown-exercise-equipments-116079/
 pages:
 - https://www.maxpixel.net/Man-Dark-Fitness-Gym-Effort-Muscles-Exercise-1839088
-- https://pixabay.com/en/dark-effort-exercise-fitness-gym-1839088/
 - https://pxhere.com/en/photo/1366499
 - https://saugeenfitness.com/
 - https://eagerbeaverfitness.com/packages

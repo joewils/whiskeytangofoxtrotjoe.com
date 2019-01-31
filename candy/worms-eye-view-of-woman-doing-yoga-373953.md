@@ -15,7 +15,6 @@ pages:
 - https://www.mallorysquarerockville.com/blog/2018/05/people-of-all-ages-can-take-classes-at-opus-yoga/
 - https://parvatimagazine.com/2018/04/yoga-tias-little-prajna-yoga/
 - https://www.glamourgals.org/eventsx/
-- https://pixabay.com/en/people-woman-yoga-meditation-2573198/
 - https://infinitefitnessandhealth.com/yoga/
 - https://sarapeternell.com/my-healthy-heart-part-2-tools-for-holistic-healing/yoga-pose-2/
 - http://cs-tech.org/benefits-daily-yoga-practice/

@@ -7,7 +7,6 @@ pages:
 - https://www.thefarmersdaughterusa.com/2017/07/surprisingly-simple-parentage-seedless-watermelon.html
 - https://taftstreetwinery.com/2017/08/watermelon-feta-mint-salad/
 - https://nutritionfacts.org/topics/watermelon/
-- https://pixabay.com/en/watermelon-fruit-food-nutrition-1543257/
 - https://www.mynutritionandme.com/recipes/2017/11/11/watermelon-salad
 - https://isorepublic.com/media-tag/fruit/page/3/
 - https://www.focusfitness.net/stock-photos/downloads/juicy-slice-watermelon-fruit/

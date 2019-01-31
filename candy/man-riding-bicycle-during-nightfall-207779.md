@@ -3,11 +3,9 @@ layout: stock
 slug: man-riding-bicycle-during-nightfall-207779
 source: https://www.pexels.com/photo/man-riding-bicycle-during-nightfall-207779/
 pages:
-- https://pixabay.com/en/bicycle-rider-riding-bike-sunset-1740730/
 - https://www.maxpixel.net/Evening-Sunset-Bicycle-Rider-Bike-Riding-1740730
 - https://splashyventures.com/bikes-gulfport-and-treasure-island/
 - https://www.biketourvacations.com/how-cycling-over-50-can-benefit-your-lifestyle/
-- https://pixabay.com/en/photos/bicyclist/
 - http://www.tokkoro.com/3105780-activity_bicycle_bike-ride_biking_cyclist_exercise_fitness_nature_outdoors_people_summer_sunset.html
 - https://pxhere.com/en/photo/424065
 - http://bicycleadventures.com/blog/category/bicycle-adventures/page/3/

@@ -9,9 +9,7 @@ pages:
 - https://firstbaptistcadillac.org/home/ministries/women/
 - https://www.pickpik.com/young-girls-stretching-legs-active-body-cardio-79198
 - https://smoc-pt.com/father-and-daughter-step-up-for-arthritis-awareness-at-the-2018-jingle-bell-run/
-- https://pixabay.com/en/photos/sports%20clothing/
 - https://www.pickpik.com/stretchen-stretch-heat-sport-muscles-sporty-120697
-- https://pixabay.com/en/woman-sports-orange-legs-sexy-2322902/
 - https://smoc-pt.com/press-fit-fixation-for-total-knee-replacements-hr-magazine/
 - https://www.pinterest.com/cellulitethighs0231/cellulite-causes/
 - https://smoc-pt.com/evan-macfarland-says-yes-playing-guitar/

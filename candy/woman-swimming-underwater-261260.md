@@ -15,7 +15,6 @@ pages:
 - https://asapponline.com/tag/swimming-pool-sanitation/
 - https://asapponline.com/category/resources/page/13/
 - https://www.bustle.com/articles/185710-10-common-contact-lens-mistakes-that-could-be-hurting-your-eyes
-- https://pixabay.com/en/woman-underwater-pool-summer-842135/
 - https://www.life123.com/lifestyle
 - https://me.popsugar.com/love/Things-Do-Yourself-Summer-44953047
 - https://www.life123.com/lifestyle/sports-and-fitness

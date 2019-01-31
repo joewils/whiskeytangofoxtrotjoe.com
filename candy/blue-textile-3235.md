@@ -8,7 +8,6 @@ pages:
 - https://cityfitgirls.com/blog/free-workouts-in-chicago
 - https://pxhere.com/en/photo/105839
 - https://pxhere.com/en/photo/976113
-- https://pixabay.com/en/photos/jump%20rope/
 - https://thebeatfitness.net/studio-rental
 - https://cityfitgirls.com/blog/2016/01/28/chicago-aerial-fitness
 - https://www.workoutweeklosangeles.com/events/

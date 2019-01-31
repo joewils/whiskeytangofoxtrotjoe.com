@@ -3,7 +3,6 @@ layout: stock
 slug: man-doing-hand-stand-414012
 source: https://www.pexels.com/photo/man-doing-hand-stand-414012/
 pages:
-- https://pixabay.com/en/handstand-beach-sea-ocean-sand-2224104/
 - https://www.maxpixel.net/Exercise-Handstand-Sand-Beach-Young-Ocean-Sea-2224104
 - https://www.lightofmind.com/natural-ways-to-increase-energy-levels/man-doing-handstand-on-beach/
 - https://www.maxpixel.net/Beautiful-Clip-Ball-Fancy-Football-Handstand-2533641
