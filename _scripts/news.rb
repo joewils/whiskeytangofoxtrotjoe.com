@@ -13,7 +13,7 @@ puts "news.rb"
 if ARGV[0]
   as_of_date = ARGV[0]
 else
-  raise "Please provide a date to process. Example: ruby news.rb 2018-05-31"
+  raise "Please provide a date to process. Example: ruby news.rb 1975-05-31"
 end
 
 # Necessary API credentials?
@@ -40,9 +40,9 @@ else
   content = ''
 end
 
+# Get some news
 posts = get_crossfit(as_of_date,posts)
 posts = get_fitness(as_of_date,posts)
-
 
 # Build Jekyll Front Matter
 front_matter = {
