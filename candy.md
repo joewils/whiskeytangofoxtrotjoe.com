@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Candy
+title: Eye Candy
 ---
 
 ## Sourced from Pexels.com
