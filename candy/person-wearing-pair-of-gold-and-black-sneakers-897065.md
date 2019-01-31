@@ -13,7 +13,6 @@ pages:
 - https://www.wallpaperflare.com/black-fixed-dumbbell-wallpaper-164122
 - https://www.wallpaperflare.com/45-lb-russian-dumbbell-45-lbs-kettle-bell-sports-female-close-up-wallpaper-miwnn
 - https://www.wallpaperflare.com/man-holding-black-dumbbell-wallpaper-159541
-- https://www.topsimages.com/images/dumbbell-bodybuilding-legs-b1.html
 - https://www.wallpaperflare.com/person-holding-dumbbells-wallpaper-152215
 - https://1freewallpapers.com/legs-dumbbell-sport-bodybuilding
 - https://plixs.com/victorfreitas

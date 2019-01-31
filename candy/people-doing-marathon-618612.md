@@ -14,7 +14,6 @@ pages:
 - https://inspirationbymichele.com/dont-quit/
 - https://goldskincare.com/dr-golds-athletes-foot-cure-in-nashville-tn/
 - https://wheninphnompenh.com/10-key-life-lessons-from-running/
-- https://www.topsimages.com/images/foot-crossing-the-finish-line-e4.html
 - http://newfocusdaily.com/an-unfamiliar-summer/
 - https://www.facingaddiction.org/news/2018/11/12/recovery-goes-distance-new-york-marathon
 - https://medium.com/@bknicholson/the-time-i-came-in-last-54338c5b857e

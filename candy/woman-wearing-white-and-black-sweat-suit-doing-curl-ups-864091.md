@@ -8,5 +8,4 @@ pages:
 - https://aimtrial.org/flexed-leg-sit-ups-physical-education.aspx
 - https://coreymondello.com/curl-ups.html
 - https://theendivechronicles.com/curl-ups.html
-- https://www.topsimages.com/images/curl-ups-e6.html
 ---

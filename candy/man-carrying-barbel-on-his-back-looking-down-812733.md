@@ -15,7 +15,6 @@ pages:
 - https://gymaniac.org/fitness-articles/how-to-gain-weight-in-a-healthy-way/
 - https://www.eznaturalhealth.com/grow-your-muscles-naturally-in-a-short-period-of-time/
 - https://guycounseling.com/training-plateaus-bodybuilding/
-- https://www.topsimages.com/images/exercise-looking-down-4a.html
 - https://www.pinterest.com/fiftystateshalf/half-marathons-half-marathon/
 - http://www.healthdose.org/mens-health-tips-to-lose-excessive-weight/
 - https://liftingfreak.com/bench-more-than-squat/

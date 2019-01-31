@@ -19,6 +19,5 @@ pages:
 - https://fitnessbond.com/the-muscle-experiment-review/
 - https://healthenix.com/about-us/
 - https://www.indiegogo.com/projects/kings-aftershave-that-gives-back
-- https://www.topsimages.com/images/planche-bar-dip-27.html
 - http://vegaresearch.org/
 ---

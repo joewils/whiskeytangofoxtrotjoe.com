@@ -7,6 +7,4 @@ pages:
 - https://libertarianhouse.com/miss-america-wont-judge-appearance-yeah-right/
 - https://libertarianhouse.com/tag/womens-movement/
 - https://wpfrank.com/demo/flickr-album-gallery-pro/masonry-album-one/
-- https://www.topsimages.com/images/beautiful-sport-body-girl-4c.html
-- https://www.topsimages.com/images/athletic-girl-body-d2.html
 ---
