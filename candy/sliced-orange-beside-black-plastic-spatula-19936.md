@@ -5,7 +5,6 @@ source: https://www.pexels.com/photo/sliced-orange-beside-black-plastic-spatula-
 pages:
 - https://www.maxpixel.net/Food-Bananas-Healthy-Orange-Cutting-Board-Fruits-2618666
 - https://www.ymcagbw.org/blog/three-great-recovery-foods-kids
-- http://www.tokkoro.com/3009306-banana_board_fit_food_fruits_healthy_kitchen_lemon_orange_palette_table.html
 - https://masonbottle.com/blogs/news/how-to-introduce-bananas-into-your-little-ones-diet
 - https://rmagazine.com/recipes/warm-pear-smoothie-recipe.html
 - https://www.entrepreneur.com/article/235478

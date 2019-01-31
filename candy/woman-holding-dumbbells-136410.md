@@ -10,7 +10,6 @@ pages:
 - https://garagegympower.com/home-gym-mirrors/
 - http://www.pivotalfitness.com/blog/
 - http://www.xiscogaya.com/category/fitness/
-- https://www.kisscc0.com/photo/exercise-headphones-physical-fitness-fitness-centr-fmz3yn/
 - https://mcclurefitness.com/story/for-the-love-of-strength-training/
 - https://www.stockvault.net/free-photos/Gym
 - https://drcorriel.com/workout-mistakes/

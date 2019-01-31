@@ -13,6 +13,5 @@ pages:
 - https://www.quora.com/If-I-bike-6-miles-a-day-will-I-see-a-difference-over-time
 - https://www.affinia.com/happenings/article/7-out-of-the-box-ways-to-celebrate-father-s-day-in-new-york-city-1.25609
 - https://www.move-forward.com/self-driving-buses-are-now-a-reality-for-atlanta/
-- https://www.kisscc0.com/photo/electric-bicycle-cycling-city-bicycle-people-9z4n4r/
 - https://www.adventuresportsnetwork.com/sport/bike/study-finds-correlation-biking-work-lower-cancer-rates/
 ---

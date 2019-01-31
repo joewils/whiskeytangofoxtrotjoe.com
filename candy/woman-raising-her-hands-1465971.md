@@ -11,8 +11,5 @@ pages:
 - https://fitbodyevolution.com/
 - https://theapexathlete.com/
 - https://theapexathlete.com/category/fitness/strength/arms-and-back/
-- https://www.picbon.com/tag/ultrafit
-- http://gopicta.com/romaomariajose
 - http://imglogy.com/tag/ForWomen
-- http://picgrace.com/aissa.pinto1975
 ---

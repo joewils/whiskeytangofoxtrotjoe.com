@@ -10,7 +10,6 @@ pages:
 - http://www.theverbstudio.com/blog
 - https://au.superprof.com/blog/cost-of-dance-lessons/
 - https://sandracameron.com/
-- https://www.pickpik.com/dance-people-theatre-monologue-group-of-people-women-92738
 - http://iimc-carpediem.com/2020/events.html
 - https://phase.com/
 ---

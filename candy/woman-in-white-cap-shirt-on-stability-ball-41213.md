@@ -17,5 +17,4 @@ pages:
 - https://www.nairaland.com/2645436/fitness-workout-gym-balls-sale
 - https://www.sportskeeda.com/health-and-fitness/5-medicine-ball-exercises-you-can-easily-do-sstl/5
 - https://www.gealth.com/best-exercise-ball/
-- http://www.tokkoro.com/3019625-exercise_exercise-ball_fitness_healthy_meditation_person_therapy_woman_workout_yoga.html
 ---

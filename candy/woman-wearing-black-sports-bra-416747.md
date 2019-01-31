@@ -13,7 +13,6 @@ pages:
 - http://melbourneyogaandpilates.com/personal-training-with-pilates/
 - https://www.trainersonsite.com/3-reasons-personal-training-doesnt-work/
 - https://www.wallpaperup.com/1157007/abdominal_exercise_abdominal_trainer_action_active_activity_adult_agility_athlete_balance_belly_body_body_building_brawny_dark_exercise.html
-- https://www.pickpik.com/fitness-elliptical-trainer-elliptical-gym-trainer-fit-65433
 - http://lyndseydesjardins.com/anatomy-intrinsic-back-muscles/
 - https://gainweightforwomen.com/how-to-gain-weight-while-keeping-a-flat-stomach
 - https://www.hercampus.com/school/uva/five-exercises-try-great-abs

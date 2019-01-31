@@ -7,7 +7,6 @@ pages:
 - https://prostate.net/articles/pilates-for-pelvic-floor-muscles
 - http://www.gofitmantra.com/exercises-to-lose-belly-fat-fast/
 - https://www.mad-hq.com/5-reasons-why-you-have-to-man-up-for-pilates
-- http://www.tokkoro.com/3101238-adult_athlete_battle_fight_fighter_foot_gloves_kick_leg_man_motion_muay-thai_people_ring_shorts_sports_strength.html
 - https://www.minutecrunch.com/section/science/
 - https://rodgerscounseling.com/men-body-image/
 - https://www.myfitnesscity.com/here-are-the-10-best-abs-workout/

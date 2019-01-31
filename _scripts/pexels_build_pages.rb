@@ -57,7 +57,16 @@ ignore = [
   'topsimages.com',
   'stockvault.com',
   'stock.adobe.com',
-  'plixs.com'
+  'plixs.com',
+  'picbon.com',
+  'gopicta.com',
+  'picgrace.com',
+  'kisscc0.com',
+  'tokkoro.com',
+  'freevectorworld.com',
+  'gostock.net',
+  'sometag.org',
+  'pickpik.com'
 ]
 
 photos.each_with_index do |photo,idx|

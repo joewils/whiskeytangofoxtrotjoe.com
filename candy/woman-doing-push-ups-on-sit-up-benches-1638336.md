@@ -4,7 +4,6 @@ slug: woman-doing-push-ups-on-sit-up-benches-1638336
 source: https://www.pexels.com/photo/woman-doing-push-ups-on-sit-up-benches-1638336/
 pages:
 - https://www.gymmembershipfees.com/
-- http://gostock.net/photo/dumbbell-dumbbells-exercise-hd-photo.83NCd
 - http://www.ssmodeling.com/2018/12/14/top-female-fitness-poses/
 - https://www.eventbrite.com/e/steel-and-stilettos-fitness-chicago-tickets-53203279441
 - https://www.gymmembershipfees.com/the-most-important-ab-muscles-and-how-to-focus-on-them/

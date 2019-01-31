@@ -19,7 +19,6 @@ pages:
 - https://outsidefit.com/aerial-hammock-yoga-fitness/
 - http://www.livinglocal247.com/styles-of-yoga-at-zenscape/aerial-yoga/
 - https://www.bookyogaretreats.com/news/best-guide-yoga-equipment-for-beginners
-- https://www.pickpik.com/aerial-yoga-anti-gravity-yoga-beach-blonde-female-fitness-98629
 - https://purposefulnessthegiving.com/
 - http://www.aerialswagbox.com/about.html
 ---

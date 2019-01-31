@@ -13,8 +13,6 @@ pages:
 - https://www.gymtraveller.com/train-travel-blog/south-africa/queenstown/
 - https://giftedperformance.com/
 - https://n2muscle.com/bodybuilding-diet/the-best-body-building-supplement/
-- http://www.tokkoro.com/3101257-athlete_barbell_c_equipment_exercise_fit_fitness_gym_heavy_lifestyle_muscle_muscular_plates_strong_training_weight_workout.html
-- http://www.tokkoro.com/3086005-black_bumper-plates_dirty_equipment_fitness_heavy_iron_metal_pebbles_power_round_steel_strong_weight_weightlifting.html
 - https://www.onkardhindsa.com/fitness-blog/2017/11/6/how-many-sets-how-many-repetitions
 - https://www.tankedfit.com/
 - https://medium.com/the-mission/the-definitive-guide-to-building-muscle-and-strength-843c2ff7fe8c

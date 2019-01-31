@@ -11,7 +11,6 @@ pages:
 - http://www.discoverstrength.com/training-services/
 - http://www.discoverstrength.com/learning-center/
 - https://garagegympower.com/crossfit-garage-gym-equipment/
-- https://www.pickpik.com/weight-training-training-exercise-workout-equipment-gym-various-77464
 - https://www.naturalhealth365.com/strength-training-exercise-news-2725.html
 - https://leanbodyplanet.com/old-school-new-body-review/
 - https://thequeergym.com/category/knowledgebombs/
