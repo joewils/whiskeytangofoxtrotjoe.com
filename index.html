@@ -27,7 +27,7 @@ layout: default
 
         {% if post.posts %}
         <ol>
-          {% for source in post.posts %}
+          {% for source in post.posts limit:13 %}
           {% if source.ignore %}
           {% else %}
               <li>
