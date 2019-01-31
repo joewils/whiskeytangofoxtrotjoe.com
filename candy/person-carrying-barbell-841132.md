@@ -3,10 +3,6 @@ layout: stock
 slug: person-carrying-barbell-841132
 source: https://www.pexels.com/photo/person-carrying-barbell-841132/
 pages:
-- https://plixs.com/pictures/equipment
-- https://plixs.com/pictures/gym
-- https://plixs.com/pictures/sports
-- https://plixs.com/victorfreitas
 - https://www.medicalnewsbulletin.com/surgery-radiation-aggressive-prostate-cancer/
 - https://www.medicalnewsbulletin.com/high-school-football-players-eyes-brain-damage/
 - https://www.medicalnewsbulletin.com/bodies-respond-artificial-light/

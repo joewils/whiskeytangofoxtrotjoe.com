@@ -12,7 +12,6 @@ pages:
 - https://garage-gym-lifestyle.com/home-cardio/using-a-concept-2-rower-to-strip-fat-off-your-body/
 - https://www.nrgsportstherapy.com/blog/2018/8/17/four-rowing-workouts-to-enhance-your-metabolic-conditioning
 - http://www.fullasc.com/articles/2018/3/29/hiit-vs-liss-what-you-need-to-know
-- https://plixs.com/pictures/indoor
 - http://smki1ibrahimy.com/ergometre-concept-2-occasion.html
 - http://www.activezonemalta.com/
 - https://www.activezonemalta.com/

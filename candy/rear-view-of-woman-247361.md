@@ -11,7 +11,6 @@ pages:
 - https://www.flickr.com/photos/141436406@N04/29027828457
 - https://www.fivestargulfrentals.com/blog/category/activities/page/8/
 - https://www.inforeckon.com/best-dresses-to-wear-on-goa-beaches/
-- https://plixs.com/photo/2779/woman-adult-freedom-vacation
 - http://www.brockvillemedispa.com/perfect-summertime-treatments/adult-beach-enjoyment-247361-1/
 - https://www.quora.com/What-all-clothes-should-I-take-for-my-honeymoon
 - https://theculturetrip.com/south-america/brazil/articles/11-things-you-wont-believe-were-banned-in-brazil/

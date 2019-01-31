@@ -54,7 +54,10 @@ ignore = [
   'amazon.com',
   'maxpixel.com',
   'picnoi.com',
-  'topsimages.com'
+  'topsimages.com',
+  'stockvault.com',
+  'stock.adobe.com',
+  'plixs.com'
 ]
 
 photos.each_with_index do |photo,idx|
