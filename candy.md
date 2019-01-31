@@ -22,7 +22,7 @@ title: Candy
 ## Pexels
 {% for source in site.data.pexels %}
   {% if source['local_href'] and source['image_got'] == true %}
-  <h2> ({{forloop.index}}) {{ source['slug'] }}</h2>
+  <h2> ({{forloop.index}}) <a href="/candy/{{ source['slug'] }}">{{ source['local_href'] }}</a></h2>
   <img src="/{{source['local_href']}}" />
   {% endif %}
 {% endfor %}

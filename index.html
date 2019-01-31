@@ -9,35 +9,34 @@ layout: default
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.date | date: "%A %B %e, %Y" }} 
-          {% if post.title != "Noise" %}
-            {{ post.title }}
-          {% endif %}
+          &rarr;
         </a>
       </h1>
 
       <div class="entry">
 
-        {% assign day = post.date | date: "%e" | plus: 0 %}
+        {% assign day = post.date | date: "%j" | plus: 0 %}
         {% if post.posts and site.data.stock[day] %}
         <div>
-          <a href="/candy/{{ site.data.stock[day]['slug'] }}"><img src="/images/stock/{{ site.data.stock[day]['slug'] }}.jpg"></a><br>
-          <span class="small center" ><i><a href="{{ site.data.stock[day]['source'] }}" target="_new">{{ site.data.stock[day]['source'] }}</a></i></span>
+          <a href="/candy/{{ site.data.pexels[day]['slug'] }}"><img src="/images/stock/{{ site.data.pexels[day]['slug'] }}.jpg"></a><br>
+          <span class="small center" ><i><a href="{{ site.data.pexels[day]['source'] }}" target="_new">{{ site.data.pexels[day]['source'] }}</a></i></span>
         </div>
         {% endif %}
 
         {{ post.content }}
 
         {% if post.posts %}
+        <ol>
           {% for source in post.posts %}
           {% if source.ignore %}
           {% else %}
-              <p>
+              <li>
                 <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
-                <br>{{ source.description }}
                 <br><span class="small wtf-t">{{source.source}}</span>
-              </p>
+              </li>
             {% endif %}
           {% endfor %}
+        </ol>
         {% endif %}
 
       </div>
