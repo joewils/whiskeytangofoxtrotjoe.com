@@ -12,6 +12,5 @@ pages:
 - https://www.turbofitnessandhealth.com/
 - https://twitter.com/drugfreedc?lang=en
 - https://4everfitgear.com/collections/gym-gear
-- https://www.redwallpapers.com/tags/fitness?page=15
 - http://chasitynewkirk.com/blog/
 ---

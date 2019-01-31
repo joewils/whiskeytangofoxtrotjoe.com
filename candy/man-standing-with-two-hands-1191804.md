@@ -4,7 +4,6 @@ slug: man-standing-with-two-hands-1191804
 source: https://www.pexels.com/photo/man-standing-with-two-hands-1191804/
 pages:
 - https://medium.com/@briangwaltney/its-not-about-failing-it-s-about-failing-safely-8be89a5373b9
-- https://www.redwallpapers.com/tags/handstand
 - https://nutrition4guys.com/2018/08/04/should-men-avoid-flax-and-soya/
 - https://www.reddit.com/r/webdev/comments/8vafyr/learn_these_javascript_fundamentals_and_become_a/
 - https://www.archyworldys.com/from-bad-sleep-to-backache-here-yoga-can-help/

@@ -10,7 +10,6 @@ pages:
 - https://bikexchange.com/mountain-bike/best-under-500-dollars/
 - https://bikexchange.com/mountain-bike/best-mountain-bikes-under-500-dollars/
 - http://biketrainerstands.com/will-a-turbo-trainer-damage-my-tyre-do-i-need-trainer-tire/
-- https://www.redwallpapers.com/tags/riding?page=2
 - https://www.pickpik.com/action-bike-biker-competition-fast-helmet-100038
 - https://www.pickpik.com/bicycles-bikers-black-and-white-boys-children-cyclist-104743
 - http://www.thegroupinc.com/blog/2018/07/noco-biking-trails-beginners/

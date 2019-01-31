@@ -11,9 +11,6 @@ pages:
 - http://www.bettereverydayca.com/news/2018/10/26/the-right-tools-for-the-job-fill-your-toolbox-pt-3-barbells
 - https://plixs.com/pictures/sports
 - https://skinnyfatfitness.com/best-barbells-for-home-gym/
-- https://www.redwallpapers.com/wallpaper/focus-photography-of-barbell-free-stock-photo-image-wallpaper
 - http://www.bettereverydayca.com/news/
 - http://www.zoarfitness.com/post/dumbbell-snatch-without-destroying-your-back
-- https://www.redwallpapers.com/tags/strength
-- https://www.redwallpapers.com/tags/gym
 ---

@@ -8,7 +8,6 @@ pages:
 - http://pixify.org/page/2/
 - https://demo.accesspressthemes.com/vmagazine/demo-one/vivamus-elementum-semper-nisi-aenean-vulputate/
 - http://pixify.org/photo/pexels-photo-663437
-- https://www.redwallpapers.com/wallpaper/girl-backpack-forest-walk-fall-free-stock-photo-image-wallpaper
 - https://betterbuttchallenge.com/how-to-get-a-thigh-gap-to-match-your-perfect-butt/girl-walking-thigh-gap/
 - https://www.strangefarmsfestival.com/activities/
 - http://www.primacarerehab.com/walk-way

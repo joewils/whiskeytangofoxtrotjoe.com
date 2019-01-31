@@ -18,5 +18,4 @@ pages:
 - http://www.theprimehealth.net/yoga-for-men-how-to-stay-young-in-middle-age/
 - https://fitnessendeavour.com/pexels-photo-1139484/
 - https://mix.com/!NmM0ZWIy:yoga%3A-man-up-and-do-it-%C2%BB-m.i.n.g
-- https://www.redwallpapers.com/wallpaper/two-women-performing-yoga-on-street-at-daytime-free-stock-photo-image-wallpaper
 ---

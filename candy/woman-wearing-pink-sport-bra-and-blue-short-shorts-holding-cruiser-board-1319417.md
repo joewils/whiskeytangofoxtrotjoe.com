@@ -12,9 +12,7 @@ pages:
 - http://www.maleny.net.au/sexy-swim-wear/
 - http://www.maleny.net.au/boost-up-with-lemonade/
 - https://www.picswe.com/pics/skateboard-bra-ea.html
-- https://www.redwallpapers.com/tags/fit?page=5
 - https://www.rank-booster.com/item/knee-support-breathable-adjustable-knee-brace-for-meniscus-tear-arthritis-acl-mc-13/
-- https://www.redwallpapers.com/tags/fitness?page=7
 - https://www.rank-booster.com/item/knee-support-breathable-adjustable-knee-brace-for-meniscus-tear-arthritis-acl-mc-14/
 - https://www.rank-booster.com/item/knee-support-breathable-adjustable-knee-brace-for-meniscus-tear-arthritis-acl-mc-10/
 ---

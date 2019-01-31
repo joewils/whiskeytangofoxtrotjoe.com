@@ -13,6 +13,5 @@ pages:
 - https://bestbefit.com/best-exercise-equipment-for-seniors
 - http://www.fitnesshealthzone.com/fitness-exercise-equipment/tips-to-purchase-exercise-equipment/
 - https://www.askdrsears.com/topics/pregnancy-childbirth/seventh-month/growing-concerns/kegels/6-stretching-exercises-to-prepare-for-birth
-- https://www.redwallpapers.com/wallpaper/athlete-body-exercise-free-stock-photo-image-wallpaper
 - https://www.kaizenseattle.com/
 ---

@@ -7,5 +7,4 @@ pages:
 - https://fightingreport.com/best-sports-bras-reviewed/
 - http://cartageous.com/workout-clothes/
 - https://prettyfityoga.com/
-- https://www.redwallpapers.com/wallpaper/three-women-wearing-sports-bras-and-leggings-free-stock-photo-image-wallpaper
 ---

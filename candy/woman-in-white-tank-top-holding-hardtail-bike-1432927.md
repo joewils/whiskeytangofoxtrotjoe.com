@@ -11,7 +11,4 @@ pages:
 - https://www.freepik.com/free-icon/mountain-cycling_732997.htm
 - https://www.freepik.com/free-icon/mountain-cycling-cyclist-silhouette_729442.htm
 - https://www.freepik.com/free-icon/cyclist-helmet_703042.htm
-- https://www.redwallpapers.com/tags/bicycle?page=5
-- https://www.redwallpapers.com/wallpaper/photo-of-woman-riding-bicycle-free-stock-photo-image-wallpaper
-- https://www.redwallpapers.com/wallpaper/man-riding-a-bicycle-free-stock-photo-image-wallpaper
 ---

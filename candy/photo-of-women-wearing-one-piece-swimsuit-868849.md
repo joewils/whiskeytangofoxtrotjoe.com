@@ -7,6 +7,5 @@ pages:
 - https://www.pinterest.com/gobaed/womens-gym-wear/
 - https://www.findteamnames.com/team-names-for-girls/
 - https://howtobehealth.net/2018/05/22/the-best-way-to-resist-aging-is-exercise/
-- https://www.redwallpapers.com/wallpaper/man-wearing-red-top-free-stock-photo-image-wallpaper
 - https://www.pinterest.com/allisonmariecha/top-female-fitness-models/
 ---

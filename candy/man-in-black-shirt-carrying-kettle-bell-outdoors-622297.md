@@ -15,7 +15,6 @@ pages:
 - https://tomcoffeyfitness.com/benefits-of-kettlebell-training/
 - https://golfoid.com/best-kettlebells-reviewed/
 - https://www.voyedgerx.com/vrx-blog/2018/2/9/tips-for-the-open-2018-dont-worry-about-redoing-wods
-- https://www.redwallpapers.com/wallpaper/kettlebell-sports-iron-crossfit-free-stock-photos-images-hd-wallpaper
 - https://www.gympik.com/articles/5-habits-need-successful-crossfit-athlete/
 - https://tomcoffeyfitness.com/tag/pavel-russian-kettlebell-guy/
 ---

@@ -15,5 +15,4 @@ pages:
 - https://www.pinterest.com/suibuybikeshop/mtb/
 - https://velocrushindia.com/v2/
 - https://thewinningbike.com/best-cruiser-bikes-complete-buyers-guide/
-- https://www.redwallpapers.com/wallpaper/auto-bicycle-travel-nature-free-stock-photo-image-wallpaper
 ---
