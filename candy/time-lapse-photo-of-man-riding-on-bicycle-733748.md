@@ -14,5 +14,4 @@ pages:
 - https://www.pickpik.com/action-bike-biker-competition-fast-helmet-100038
 - https://www.pickpik.com/bicycles-bikers-black-and-white-boys-children-cyclist-104743
 - http://www.thegroupinc.com/blog/2018/07/noco-biking-trails-beginners/
-- https://www.nicepik.com/two-dirt-bikers-action-bike-rider-competition-dust-fast-goggles-helmets-hurry-men-free-photo-1357381
 ---

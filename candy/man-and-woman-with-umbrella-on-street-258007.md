@@ -4,7 +4,6 @@ slug: man-and-woman-with-umbrella-on-street-258007
 source: https://www.pexels.com/photo/man-and-woman-with-umbrella-on-street-258007/
 pages:
 - http://www.daily-stuff.com/fastest-boxing-knockouts-of-all-time
-- https://www.nicepik.com/ready-for-a-fight-boxer-digital-wallpaper-portrait-boxing-muay-thai-free-photo-713740
 - https://fightbest.com/speed-bag-vs-heavy-bag-choose/
 - https://fightbest.com/hang-heavy-bag/
 - https://medium.com/the-haven/re-no-more-mar-a-lago-trips-im-going-to-million-dollar-baby-biden-s-ass-7179a9ae98fe

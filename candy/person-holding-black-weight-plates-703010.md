@@ -14,8 +14,6 @@ pages:
 - http://newravel.com/lifestyle/this-dad-of-three-did-extreme-exercise-for-six-months-and-now-he-looks-like-a-completely-new-man/3/
 - http://newravel.com/lifestyle/this-dad-of-three-did-extreme-exercise-for-six-months-and-now-he-looks-like-a-completely-new-man/6/
 - http://newravel.com/lifestyle/this-dad-of-three-did-extreme-exercise-for-six-months-and-now-he-looks-like-a-completely-new-man/7/
-- https://www.nicepik.com/back-bodybuilding-exercise-fitness-girl-muscles-person-shoulders-sport-strong-woman-free-photo-1157033
-- https://www.nicepik.com/athlete-fitness-muscle-physical-exercise-free-photo-305619
 - http://cafecrime.com/lifestyle/this-dad-of-three-did-extreme-exercise-for-six-months-and-now-he-looks-like-a-completely-new-man/
 - http://studio-element.net/nutrition-counseling/
 - https://blog.movegb.com/how-often-should-i-buy-new-workout-shoes-and-why

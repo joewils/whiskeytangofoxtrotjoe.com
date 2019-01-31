@@ -8,5 +8,4 @@ pages:
 - https://garagegympower.com/women/
 - https://garagegympower.com/crossfit-workouts-for-booty/
 - https://totalshape.com/fitness/strength-training-for-women/
-- https://www.nicepik.com/tropical-shower-man-male-beach-swimwear-fitness-building-muscle-outdoors-coast-splash-free-photo-1315723
 ---

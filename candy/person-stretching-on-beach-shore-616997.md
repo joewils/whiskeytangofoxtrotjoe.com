@@ -10,8 +10,6 @@ pages:
 - https://pxhere.com/en/photo/1568551
 - https://pxhere.com/en/photo/1565015
 - http://www.enaromatic.org/how-to-cleanse-your-body-efficiently/
-- https://www.nicepik.com/man-holding-black-dumbbell-abs-adult-athlete-barbell-black-and-white-black-and-white-free-photo-1322443
-- https://www.nicepik.com/woman-wearing-black-tank-top-taking-work-out-athlete-barbell-blurred-background-body-bodybuilder-free-photo-2977
 - https://www.betterhelp.com/advice/anxiety/stress-and-anxiety-management-techniques/
 - http://www.enaromatic.org/
 - http://katiegerber.com/tag/botanical-medicine/

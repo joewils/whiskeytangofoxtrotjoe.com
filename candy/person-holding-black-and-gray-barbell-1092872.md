@@ -13,7 +13,6 @@ pages:
 - https://medium.com/@Shan8/has-recommended
 - https://www.fitbuff.com/barbell-weights/
 - https://www.pinterest.com/jacobedee/strength-training/
-- https://www.nicepik.com/man-working-out-with-weights-illustration-bodybuilding-gym-fitness-diet-athletic-sport-free-photo-1344992
 - http://www.mystrengthtraining.com/2694/weightlifting-straps-grip-strength/
 - https://thehomefitfreak.com/category/weightlifting-accessories/
 ---

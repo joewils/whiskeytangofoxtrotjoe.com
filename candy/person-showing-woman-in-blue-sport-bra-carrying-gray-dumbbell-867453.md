@@ -14,8 +14,6 @@ pages:
 - https://wellme.com/what-is-hiit-does-it-really-work/
 - http://fittyler.com/how-much-water-should-you-drink-by-activity-with-nifty-calculator/
 - http://fittyler.com/its-monday-4-tips-for-workout-motivation/
-- https://www.nicepik.com/a-young-asian-woman-wearing-black-sports-bra-in-the-gym-20-25-year-old-aerobic-athlete-athletic-free-photo-1344675
 - https://topfitnesstutorials.com/top-ab-carver-compared-review/
-- https://www.nicepik.com/search?q=dumbbell
 - http://hawkstrength.com/blog/page/3/
 ---

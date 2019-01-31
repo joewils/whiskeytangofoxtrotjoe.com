@@ -4,9 +4,7 @@ slug: six-people-in-black-matching-clothes-dancing-at-daytime-690597
 source: https://www.pexels.com/photo/six-people-in-black-matching-clothes-dancing-at-daytime-690597/
 pages:
 - https://medium.freecodecamp.org/learning-to-code-is-just-like-learning-to-dance-3ccc6be7f62a
-- https://www.nicepik.com/search?q=expression+dance
 - https://chestermeredancestudio.com/
-- https://www.nicepik.com/six-people-in-black-matching-clothes-dancing-at-daytime-action-adults-athlete-balance-body-free-photo-3762
 - http://cupidgardenhotel.com/partners/dancing-troops
 - https://sandracameron.com/2018/09/02/4-tips-for-improving-your-dance-skills/
 - http://www.theverbstudio.com/blog

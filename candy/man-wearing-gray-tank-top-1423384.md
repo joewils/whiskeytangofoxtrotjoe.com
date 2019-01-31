@@ -9,7 +9,6 @@ pages:
 - https://www.muscleandfitness.com/flexonline/athletes/kevin-creeden
 - https://www.coolefitness.com/muscle-building-meals-keto-diet/
 - https://davidpwahr.wordpress.com/tag/bodybuilding/
-- https://www.nicepik.com/search?q=muscles
 - https://christmas.mascuk.com/post-workout-muscle-soreness-supplement/
 - https://davidpwahr.wordpress.com/category/ostomate/
 - https://davidpwahr.wordpress.com/category/fitness-2/

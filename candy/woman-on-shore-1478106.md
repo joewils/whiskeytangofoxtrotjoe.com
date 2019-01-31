@@ -11,7 +11,6 @@ pages:
 - https://www.picswe.com/pics/sport-woman-18.html
 - https://www.picswe.com/pics/woman-sport-6c.html
 - http://www.hlskc.com/sportwoman22835iixawrny/
-- https://www.nicepik.com/search?q=Black+And+White%2C+Beauty&sort=aesthetic&page=5
 - https://www.pickpik.com/woman-in-black-shirt-black-tights-seashore-white-cloudy-57690
 - https://www.maxpixel.net/Essay-Casal-Of-2362510
 - https://www.youtube.com/watch?v=ekE73fTRlTY

@@ -24,5 +24,4 @@ pages:
 - https://fitvictoria.com/2018/10/05/1170/
 - http://lyndseydesjardins.com/program-design-part-3/
 - https://beyourbestwithpt.com/blog/
-- https://www.nicepik.com/search?q=abdominal+trainer
 ---

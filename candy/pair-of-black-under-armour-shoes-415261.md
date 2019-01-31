@@ -16,5 +16,4 @@ pages:
 - http://parkwaystyle.net/
 - https://www.buyatit.com/five-factor-to-search-for-even-as-deciding-on-your-sportswear/
 - https://fitfluential.com/running-shoes-vs-training-shoes-what-you-need-for-different-workouts/
-- https://www.nicepik.com/search?q=Running&page=30
 ---

@@ -20,7 +20,6 @@ pages:
 - https://www.amazon.com/Taco-Fleur/e/B01D9SPH02&ref_=fsclp_pl_s_9
 - http://silverwolfnutrition.com/kettlebell-sit-up/
 - https://thislifetoday.com/2018/08/15/double-trouble10-kettlebell-workouts-to-get-you-lean-and-mean/
-- https://www.nicepik.com/search?q=Kettlebell
 - https://depositphotos.com/stock-photos/taco-fleur.html
 - https://depositphotos.com/portfolio-12947768.html
 ---
