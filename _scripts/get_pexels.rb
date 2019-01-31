@@ -26,7 +26,7 @@ def get_pexels(page=1,image_data=[])
   todays_date = Date.today.to_s
   filename = '_html/pexels-'+page.to_s+'.html'
   if !File.exist? filename
-    sleep(rand(1..3)) # play nice
+    sleep(rand(3..6)) # play nice
     # Craft URL
     url = 'https://www.pexels.com/search/fitness/?page='+page.to_s+'&format=js'
     html = HTTParty.get(url, {:format=>'plain', headers: {"User-Agent" => agents.sample}})
@@ -45,6 +45,8 @@ def get_pexels(page=1,image_data=[])
     # iterate over images using regex
     regex = /<img\s(.*?)\s\/>/
     pexel_string.scan(regex).each do |match|
+        # we only need 365 images
+        next if image_data.length > 365
         # rebuild image string for nokogiri
         img = '<img ' + match[0] + ' />'
         doc = Nokogiri::HTML(img)
@@ -76,7 +78,7 @@ def get_pexels(page=1,image_data=[])
             if File.exist? image_filename
                 image_got = true
             else
-                sleep(rand(1..3)) # play nice
+                sleep(rand(3..6)) # play nice
                 image = HTTParty.get(href, {:format=>'plain', headers: {"User-Agent" => agents.sample}})
                 if image.response.code.to_s == '200'
                     File.open(image_filename, 'w+') do |file|
@@ -103,7 +105,7 @@ def get_pexels(page=1,image_data=[])
 end
 
 data = []
-(1..2).each do |idx|
+(1..16).each do |idx|
     data = get_pexels(idx,data)
 end
 
