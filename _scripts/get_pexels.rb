@@ -103,14 +103,12 @@ def get_pexels(page=1,image_data=[])
 
   return image_data
 end
-
+# Get images from Pexels.com
 data = []
-(1..16).each do |idx|
+(1..2).each do |idx|
     data = get_pexels(idx,data)
 end
-
-puts data.length
-
+# Build image data file
 filename = '_data/pexels.yml'
 File.open(filename, 'w+') do |file|
     file.puts data.shuffle.to_yaml
