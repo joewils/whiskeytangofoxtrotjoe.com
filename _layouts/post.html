@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.date | date: "%A %B %e, %Y" }} {{ page.title }}</h1>
 
   {% assign day = page.date | date: "%j" | plus: 0 %}
-  {% if page.posts and site.data.stock[day] %}
+  {% if page.posts and site.data.pexels[day] %}
   <div>
     <a href="/candy/{{ site.data.pexels[day]['slug'] }}"><img src="/images/stock/{{ site.data.pexels[day]['slug'] }}.jpg"></a><br>
     <span class="small center" ><i><a href="{{ site.data.pexels[day]['source'] }}" target="_new">{{ site.data.pexels[day]['source'] }}</a></i></span>

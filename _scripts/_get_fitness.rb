@@ -11,7 +11,7 @@ def get_fitness(as_of_date,posts)
     sortBy: 'relevancy',
     page: 1,
     pageSize: 13,
-    excludeDomains: 'hvper.com,businesswire.com,thehollywoodgossip.com,lithub.com,ndtv.com,denofgeek.com,amazon.com,slickdeals.com,gearpatrol.com,semrush.com'
+    excludeDomains: '9to5toys.com,hvper.com,businesswire.com,thehollywoodgossip.com,lithub.com,ndtv.com,denofgeek.com,amazon.com,slickdeals.com,gearpatrol.com,semrush.com'
   )
   # Reformat Article Data
   articles.each do |article|
