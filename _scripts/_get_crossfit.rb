@@ -10,7 +10,7 @@ def get_crossfit(as_of_date,posts)
     language: 'en',
     sortBy: 'relevancy',
     page: 1,
-    pageSize: 13,
+    pageSize: 20,
     excludeDomains: '9to5toys.com,hvper.com,businesswire.com,thehollywoodgossip.com,lithub.com,ndtv.com,denofgeek.com,amazon.com,slickdeals.com,gearpatrol.com,semrush.com'
   )
   # Reformat Article Data
