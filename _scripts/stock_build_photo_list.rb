@@ -1,7 +1,7 @@
 require 'yaml'
 if false
   # DO NOT USE
-  # Moving to Pexels to stock photography...
+  # Moving to Pexels stock photography...
   puts "Build Stock Photo List"
   path = 'images/stock'
   photos = []

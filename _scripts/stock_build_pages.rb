@@ -56,10 +56,10 @@ photos.each_with_index do |photo,idx|
   # Build a Jekyll page, but only if one doesn't exist.
   # We don't want to override any hand crafted content.
   filename = 'candy/'+photo['slug']+'.md'
-  #if !File.exist? filename
+  if !File.exist? filename
     File.open(filename, 'w+') do |file|
       file.puts front_matter.to_yaml
       file.puts "---"
     end
-  #end
+  end
 end
