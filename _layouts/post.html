@@ -17,7 +17,7 @@ layout: default
     {{ content }}
 
     {% if page.posts %}
-      {% for source in page.posts limit:13 %}
+      {% for source in page.posts %}
         {% if source.ignore %}
         {% else %}
           <p>
