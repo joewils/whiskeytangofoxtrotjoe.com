@@ -47,10 +47,11 @@ posts = get_fitness(as_of_date,posts)
 # Build Jekyll Front Matter
 front_matter = {
   'layout' => 'post',
-  'posts' => posts.first(13)
+  'posts' => posts
 }
 
 # Build Jekyll page
+puts news_filename
 File.open(news_filename, 'w+') do |file|
   file.puts front_matter.to_yaml
   file.puts "---"
