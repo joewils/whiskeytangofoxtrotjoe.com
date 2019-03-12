@@ -7,6 +7,8 @@ require 'yaml'
 require_relative('_get_crossfit')
 require_relative('_get_fitness')
 
+$exclude_domains = 'technobuffalo.com,livejournal.com,indianexpress.com,windowscentral.com,marketwatch.com,androidcentral.com,businessinsider.com,prnewswire.com,9to5toys.com,hvper.com,businesswire.com,thehollywoodgossip.com,lithub.com,ndtv.com,denofgeek.com,amazon.com,slickdeals.com,gearpatrol.com,semrush.com,thepointsguy.com'
+
 puts "news.rb"
 
 # Date to process?
