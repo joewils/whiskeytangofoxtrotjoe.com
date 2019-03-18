@@ -1,0 +1,25 @@
+---
+layout: bootstrap
+---
+
+
+<div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+    <h2 class="text-center"><a href="/{{ page.date | date: "%Y-%m-%d" }}/news" class="text-white font-weight-bold text-center">{{ page.date | date: "%A, %B %d, %Y" }}</a></h2>
+</div>
+
+<div class="card-columns">
+
+{% if page.articles %}
+    {% for article in page.articles %}
+        <div class="card">
+            <div class="card-header"><a href="{{article['url']}}">{{article['title']}}</a></div>
+            <div class="card-body">
+                {{article['description']}}
+            </div>
+        </div>
+    {% endfor %}
+{% endif %}
+
+</div><!-- .card-columns -->
+
+{{ content }}

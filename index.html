@@ -1,48 +1,28 @@
 ---
-layout: default
+layout: bootstrap
+title: News and Noise
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-
-      <h1>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.date | date: "%A %B %e, %Y" }} 
-          &rarr;
-        </a>
-      </h1>
-
-      <div class="entry">
-
-        {% assign day = post.date | date: "%j" | plus: 0 %}
-        {% if post.posts and site.data.pexels[day] %}
-        <div>
-          <a href="/candy/{{ site.data.pexels[day]['slug'] }}"><img src="/images/stock/{{ site.data.pexels[day]['slug'] }}.jpg"></a><br>
-          <span class="small center" ><i><a href="{{ site.data.pexels[day]['source'] }}" target="_new">{{ site.data.pexels[day]['source'] }}</a></i></span>
-        </div>
-        {% endif %}
-
-        {{ post.content }}
-
-        {% if post.posts %}
-        <ol>
-          {% for source in post.posts %}
-          {% if source.ignore %}
-          {% else %}
-              <li>
-                <a href="{{ source.url }}" target="_new">{{ source.title }}</a>
-                <br><span class="small wtf-t">{{source.source}}</span>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ol>
-        {% endif %}
-
+{% for category in site.categories %}
+  {% if category[0] == 'summary' %}
+    {% for post in category[1] limit:7 %}
+      <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+          <h2 class="text-center"><a href="/{{ post.date | date: "%Y-%m-%d" }}/news" class="text-white font-weight-bold text-center">{{ post.date | date: "%A, %B %d, %Y" }}</a></h2>
       </div>
-
-    </article>
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+      <div class="card-columns">
+      {% if post.news %}
+        {% for articles in post.news %}
+            <div class="card">
+                <div class="card-header"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}">{{articles[1][0]['source']}}</a></div>
+                <div class="list-group">
+                    {% for article in articles[1] %}
+                    <a href="{{ article['url'] }}" class="list-group-item list-group-item-action" target="_new">{{ article['title'] }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+      {% endif %}
+      </div><!-- .card-columns -->
+    {% endfor %}
+  {% endif %}
+{% endfor %}

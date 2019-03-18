@@ -1,0 +1,22 @@
+---
+layout: bootstrap
+---
+
+<div class="card-columns">
+
+{% if page.news %}
+    {% for articles in page.news %}
+        <div class="card">
+            <div class="card-header"><a href="/{{page.as_of_date}}/{{articles[0]}}">{{articles[1][0]['source']}}</a></div>
+            <div class="list-group">
+                {% for article in articles[1] %}
+                <a href="{{ article['url'] }}" class="list-group-item list-group-item-action" target="_new">{{ article['title'] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+{% endif %}
+
+</div><!-- .card-columns -->
+
+{{ content }}
