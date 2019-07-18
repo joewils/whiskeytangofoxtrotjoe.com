@@ -24,7 +24,7 @@ sources = [
     #'ars-technica',
     #'axios',
     'bbc-news',
-    'bloomberg',
+    #'bloomberg',
     #'cbc-news',
     'cbs-news',
     'cnbc',

@@ -59,7 +59,8 @@
   <body>
     
 
-    <div class="container">
+      <div class="container">
+
         <header class="blog-header py-3">
           <div class="row flex-nowrap justify-content-between align-items-center">
             <div class="col-2 pt-1">
@@ -76,7 +77,6 @@
           <nav class="nav d-flex justify-content-between">
             <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/abc-news">ABC</a>
             <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/bbc-news">BBC</a>
-            <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/bloomberg">BB</a>
             <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/cbs-news">CBS</a>
             <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/cnbc">CNBC</a>
             <a class="p-2 text-muted" href="/{{ site.time | date: "%Y-%m-%d" }}/cnn">CNN</a>
@@ -90,54 +90,52 @@
         </div>
 
         {% if page.featured_news %}
-            <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
-                <div class="col-md-12 px-0">
-                    <strong class="d-inline-block mb-2 text-success">{{page.featured_news[0]['source']}}</strong>
-                    <h1 class="display-4 font-italic">{{page.featured_news[0]['title']}}</h1>
-                    <p class="lead my-3">{{page.featured_news[0]['description']}}</p>
-                    <p class="lead mb-0"><a href="{{page.featured_news[0]['url']}}" class="text-white font-weight-bold">Continue reading...</a></p>
-                </div>
-            </div>
-            <div class="row mb-2">
-                <div class="col-md-6">
-                    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                        <div class="col p-4 d-flex flex-column position-static">
-                            <strong class="d-inline-block mb-2 text-success">{{page.featured_news[1]['source']}}</strong>
-                            <h3 class="mb-0">{{page.featured_news[1]['title'] | truncatewords: 10}}</h3>
-                            <p class="mb-auto">{{page.featured_news[1]['description'] | truncatewords: 24}}</p>
-                            <a href="{{page.featured_news[1]['url']}}" class="stretched-link">Continue reading</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                        <div class="col p-4 d-flex flex-column position-static">
-                            <strong class="d-inline-block mb-2 text-success">{{page.featured_news[2]['source']}}</strong>
-                            <h3 class="mb-0">{{page.featured_news[2]['title'] | truncatewords: 10}}</h3>
-                            <p class="card-text mb-auto">{{page.featured_news[2]['description'] | truncatewords: 24}}</p>
-                            <a href="{{page.featured_news[2]['url']}}" class="stretched-link">Continue reading</a>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- row mb-2 -->
+          <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+              <div class="col-md-12 px-0">
+                  <strong class="d-inline-block mb-2 text-success">{{page.featured_news[0]['source']}}</strong>
+                  <h1 class="display-4 font-italic">{{page.featured_news[0]['title']}}</h1>
+                  <p class="lead my-3">{{page.featured_news[0]['description']}}</p>
+                  <p class="lead mb-0"><a href="{{page.featured_news[0]['url']}}" class="text-white font-weight-bold">Continue reading...</a></p>
+              </div>
+          </div>
+          <div class="row mb-2">
+              <div class="col-md-6">
+                  <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                      <div class="col p-4 d-flex flex-column position-static">
+                          <strong class="d-inline-block mb-2 text-success">{{page.featured_news[1]['source']}}</strong>
+                          <h3 class="mb-0">{{page.featured_news[1]['title'] | truncatewords: 10}}</h3>
+                          <p class="mb-auto">{{page.featured_news[1]['description'] | truncatewords: 24}}</p>
+                          <a href="{{page.featured_news[1]['url']}}" class="stretched-link">Continue reading</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-6">
+                  <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                      <div class="col p-4 d-flex flex-column position-static">
+                          <strong class="d-inline-block mb-2 text-success">{{page.featured_news[2]['source']}}</strong>
+                          <h3 class="mb-0">{{page.featured_news[2]['title'] | truncatewords: 10}}</h3>
+                          <p class="card-text mb-auto">{{page.featured_news[2]['description'] | truncatewords: 24}}</p>
+                          <a href="{{page.featured_news[2]['url']}}" class="stretched-link">Continue reading</a>
+                      </div>
+                  </div>
+              </div>
+          </div><!-- row mb-2 -->
         {% endif %}
-      </div>
+      </div><!-- container -->
       
       <main role="main" class="container">
         <div class="row">
           <div class="col-md-12 blog-main">
-            <h3 class="pb-4 mb-4 font-italic border-bottom">
+            <h3 class="pb-4 mb-4 border-bottom text-center">
                 {% if page.title %}
-                    {{ page.title }}
+                    {{ page.title | upcase }}
                 {% else %}
-                    {{ site.title }}
+                    {{ site.title | upcase }}
                 {% endif %}
             </h3>
             {{ content }}
           </div><!-- /.blog-main -->
-      
         </div><!-- /.row -->
-      
       </main><!-- /.container -->
       
       <footer class="blog-footer">
@@ -149,9 +147,6 @@
             <a href="/candy">Candy</a> -->
         </p>
       </footer>
-
-
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

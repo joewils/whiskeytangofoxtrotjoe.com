@@ -3,6 +3,27 @@ layout: bootstrap
 title: News and Noise
 ---
 
+
+{% for category in site.categories %}
+  {% if category[0] == 'summary' %}
+    {% for post in category[1] limit:7 %}
+      <h1 class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/news" class="text-muted">{{ post.date | date: "%A, %B %d, %Y" }}</a></h1>
+      <ol class="">
+      {% if post.news %}
+        {% for articles in post.news %}
+            <li>
+              {% for article in articles[1] limit:1 %}
+                <a href="{{ article['url'] }}" class="" target="_new">{{ article['title'] }}</a>, <i class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}" class="text-muted">{{articles[1][0]['source']}}</a></i>
+              {% endfor %}
+            </li>
+        {% endfor %}
+      {% endif %}
+      </ol><!--  -->
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{%comment%}
 {% for category in site.categories %}
   {% if category[0] == 'summary' %}
     {% for post in category[1] limit:7 %}
@@ -26,3 +47,4 @@ title: News and Noise
     {% endfor %}
   {% endif %}
 {% endfor %}
+{%endcomment%}
