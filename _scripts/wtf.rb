@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'base64'
 require 'date'
 require 'front_matter_parser'
@@ -15,7 +17,6 @@ as_of_dates = []
 if ARGV[0]
     as_of_dates.push(ARGV[0])
 else
-    #raise "Please provide a date to process. Example: ruby wtf.rb 1975-05-31"
     # Determine the latest news date by looking for the most recent -News.md file (/posts/2019-05-31-News.md)
     latest_date = nil
     posts = Dir.entries('_posts')
