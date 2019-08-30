@@ -190,7 +190,7 @@ end #as_of_dates.each
 
 
 # 
-username = 'joe%40joecode.com'
+username = 'joe@joecode.com'
 pat = '80a92ed2a91ca972953648414f8c6683792e8c6d'
 #ENV['WTF_GITHUB_USERNAME']
 # Execute Shell Commands to Update GitHub
