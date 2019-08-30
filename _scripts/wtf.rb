@@ -199,5 +199,5 @@ puts foobar = `git add -A`
 puts "----------"
 puts commit = `git commit -m "wtf noise"`
 puts "----------"
-puts exec_string = 'git push https://'+username+':'+pat+'@whiskeytangofoxtrotjoe.com.git --all'
+puts exec_string = 'git push https://'+username+':'+pat+'@github.com/joewils/whiskeytangofoxtrotjoe.com.git --all'
 puts push = exec(exec_string)
