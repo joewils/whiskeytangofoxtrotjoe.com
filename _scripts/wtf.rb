@@ -188,12 +188,5 @@ as_of_dates.each do |as_of_date|
 
 end #as_of_dates.each
 
-
-# Execute Shell Commands to Update GitHub
-#puts status = exec('git status')
-puts "----------"
-#puts foobar = exec('git add . -A')
-puts "----------"
-#puts commit = exec('git commit -m "wtf noise ' + as_of_dates[0].to_s + '"')
-puts "----------"
-puts push = exec('git status; git add -A; git commit -a -m "wtf noise"; git push https://'+ENV['WTF_GITHUB_USERNAME']+':'+ENV['WTF_GITHUB_PAT']+'@github.com/joewils/whiskeytangofoxtrotjoe.com.git --all')
+# Publish to Github gh-pages
+exec('git status; git add -A; git commit -a -m "wtf noise"; git push https://'+ENV['WTF_GITHUB_USERNAME']+':'+ENV['WTF_GITHUB_PAT']+'@github.com/joewils/whiskeytangofoxtrotjoe.com.git --all')
