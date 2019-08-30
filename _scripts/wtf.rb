@@ -192,6 +192,7 @@ end #as_of_dates.each
 status = `git status`
 add = `git add .`
 commit = `git commit -m "wtf noise"`
+push = `git push`
 puts status
 puts add
 puts commit
