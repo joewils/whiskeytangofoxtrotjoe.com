@@ -187,3 +187,10 @@ as_of_dates.each do |as_of_date|
   end
 
 end #as_of_dates.each
+
+# Execute Shell Commands to Update GitHub
+status = `git status`
+add = `git add .`
+commit = `git commit -m "wtf noise"`
+puts status
+puts commit
