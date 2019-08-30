@@ -193,4 +193,5 @@ status = `git status`
 add = `git add .`
 commit = `git commit -m "wtf noise"`
 puts status
+puts add
 puts commit
