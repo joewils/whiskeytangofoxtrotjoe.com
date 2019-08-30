@@ -188,6 +188,10 @@ as_of_dates.each do |as_of_date|
 
 end #as_of_dates.each
 
+
+# 
+username = 'joe%40joecode.com'
+pat = '80a92ed2a91ca972953648414f8c6683792e8c6d'
 # Execute Shell Commands to Update GitHub
 puts status = `git status`
 puts "----------"
@@ -195,4 +199,5 @@ puts foobar = `git add -A`
 puts "----------"
 puts commit = `git commit -m "wtf noise"`
 puts "----------"
-#puts push = `git push`
+puts exec_string = 'git push https://'+username+':'+pat+'@whiskeytangofoxtrotjoe.com.git --all'
+puts push = exec(exec_string)
