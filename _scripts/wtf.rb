@@ -189,4 +189,4 @@ as_of_dates.each do |as_of_date|
 end #as_of_dates.each
 
 # Publish to Github gh-pages
-exec('git status; git add -A; git commit -a -m "wtf noise"; git push https://'+ENV['WTF_GITHUB_USERNAME']+':'+ENV['WTF_GITHUB_PAT']+'@github.com/joewils/whiskeytangofoxtrotjoe.com.git --all')
+exec('git status; git add -A; git commit -a -m "wtf noise"; git push origin/gh-pages https://'+ENV['WTF_GITHUB_USERNAME']+':'+ENV['WTF_GITHUB_PAT']+'@github.com/joewils/whiskeytangofoxtrotjoe.com.git --all')
