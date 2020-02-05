@@ -103,47 +103,53 @@ as_of_dates.each do |as_of_date|
           # News API
           newsapi = News.new(ENV['NEWSAPI_KEY'])
 
-          # News Articles
-          news = newsapi.get_everything(
+          begin
+            # News Articles
+            news = newsapi.get_everything(
               from: as_of_date,
               to: as_of_date,
               language: 'en',
               page: 1,
               pageSize: 7,
               sources: source
-          )
-
-          # Reformat Article Data
-          news.each do |article|
-              post = {
-                  'title' => article.title,
-                  'url' => article.url,
-                  'image' => article.urlToImage,
-                  'source' => article.name,
-                  'description' => ''
-              }
-              post['description'] = article.description.gsub(/\r/," ").gsub(/\n/," ") if article.description
-              # Determine if we've already seen this news article
-              existing_post = false
-              articles.each do |p|
-                  existing_post = true if p['url'] and p['url'] == post['url']
-              end
-              articles.push(post) if existing_post == false
+            )
+          rescue => exception
+            news = nil
           end
-          
-          # Build Jekyll Front Matter
-          front_matter = {
-              'layout' => 'bootstrap-post',
-              'articles' => articles,
-              'as_of_date' => as_of_date
-          }
-      
-          # Build Jekyll page
-          puts news_filename
-          File.open(news_filename, 'w+') do |file|
-              file.puts front_matter.to_yaml
-              file.puts "---"
-              file.puts content
+
+          if news 
+            # Reformat Article Data
+            news.each do |article|
+                post = {
+                    'title' => article.title,
+                    'url' => article.url,
+                    'image' => article.urlToImage,
+                    'source' => article.name,
+                    'description' => ''
+                }
+                post['description'] = article.description.gsub(/\r/," ").gsub(/\n/," ") if article.description
+                # Determine if we've already seen this news article
+                existing_post = false
+                articles.each do |p|
+                    existing_post = true if p['url'] and p['url'] == post['url']
+                end
+                articles.push(post) if existing_post == false
+            end
+            
+            # Build Jekyll Front Matter
+            front_matter = {
+                'layout' => 'bootstrap-post',
+                'articles' => articles,
+                'as_of_date' => as_of_date
+            }
+        
+            # Build Jekyll page
+            puts news_filename
+            File.open(news_filename, 'w+') do |file|
+                file.puts front_matter.to_yaml
+                file.puts "---"
+                file.puts content
+            end
           end
 
       end # articles.length == 0
