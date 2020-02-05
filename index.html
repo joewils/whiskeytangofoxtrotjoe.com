@@ -11,11 +11,9 @@ title: News and Noise
       <ol class="">
       {% if post.news %}
         {% for articles in post.news %}
-            <li>
               {% for article in articles[1] limit:1 %}
-                <a href="{{ article['url'] }}" class="" target="_new">{{ article['title'] }}</a>, <i class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}" class="text-muted">{{articles[1][0]['source']}}</a></i>
+                <li><a href="{{ article['url'] }}" class="" target="_new">{{ article['title'] }}</a>, <i class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}" class="text-muted">{{articles[1][0]['source']}}</a></i></li>
               {% endfor %}
-            </li>
         {% endfor %}
       {% endif %}
       </ol><!--  -->
