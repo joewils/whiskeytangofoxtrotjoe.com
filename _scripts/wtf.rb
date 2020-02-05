@@ -57,7 +57,7 @@ sources = [
     #'polygon',
     #'reuters',
     #'the-economist',
-    'the-new-york-times',
+    #'the-new-york-times',
     #'the-verge',
     'the-washington-post',
     'the-wall-street-journal',
