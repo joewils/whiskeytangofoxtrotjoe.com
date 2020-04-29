@@ -1,48 +1,7 @@
 ---
-layout: bootstrap
-title: News and Noise
+layout: page
+title: Nothing to see here.
 ---
 
 
-{% for category in site.categories %}
-  {% if category[0] == 'summary' %}
-    {% for post in category[1] limit:7 %}
-      <h1 class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/news" class="text-muted">{{ post.date | date: "%A, %B %d, %Y" }}</a></h1>
-      <ol class="">
-      {% if post.news %}
-        {% for articles in post.news %}
-              {% for article in articles[1] limit:1 %}
-                <li><a href="{{ article['url'] }}" class="" target="_new">{{ article['title'] }}</a>, <i class="text-muted"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}" class="text-muted">{{articles[1][0]['source']}}</a></i></li>
-              {% endfor %}
-        {% endfor %}
-      {% endif %}
-      </ol><!--  -->
-    {% endfor %}
-  {% endif %}
-{% endfor %}
 
-{%comment%}
-{% for category in site.categories %}
-  {% if category[0] == 'summary' %}
-    {% for post in category[1] limit:7 %}
-      <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
-          <h2 class="text-center"><a href="/{{ post.date | date: "%Y-%m-%d" }}/news" class="text-white font-weight-bold text-center">{{ post.date | date: "%A, %B %d, %Y" }}</a></h2>
-      </div>
-      <div class="card-columns">
-      {% if post.news %}
-        {% for articles in post.news %}
-            <div class="card">
-                <div class="card-header"><a href="/{{ post.date | date: "%Y-%m-%d" }}/{{articles[0]}}">{{articles[1][0]['source']}}</a></div>
-                <div class="list-group">
-                    {% for article in articles[1] %}
-                    <a href="{{ article['url'] }}" class="list-group-item list-group-item-action" target="_new">{{ article['title'] }}</a>
-                    {% endfor %}
-                </div>
-            </div>
-        {% endfor %}
-      {% endif %}
-      </div><!-- .card-columns -->
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-{%endcomment%}
